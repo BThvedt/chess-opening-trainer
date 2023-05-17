@@ -1,0 +1,1095 @@
+[
+  {
+    "name": "Bishop Opening",
+    "file": "bishop",
+    "for": "white",
+    "lines": [
+      {
+        "name": "Urusov Gambit Accepted (UGA)",
+        "id": "hbwlwSpT",
+        "note": "asdf"
+      },
+      {
+        "name": "UGA 7 Bb3",
+        "id": "AVtdTaTW",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 4 dxe5 Qh4",
+        "id": "ehRNtQOa",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 4 dxe5 Qh4",
+        "id": "JCApcy4y",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 4 dxe5 Nc5",
+        "id": "gBMVMtMA",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...d6",
+        "id": "5gGn9joK",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA - Transition to Scotch Gambit",
+        "id": "Ju245dUM",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #1",
+        "id": "QFBo97lG",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #2 7 ... Be6",
+        "id": "KeQCVWDO",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #3 7 ... Ng5",
+        "id": "YC0dSJ4K",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #4 6 ... Nb6",
+        "id": "h5Ba3WSB",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #5 5 ... Bb4+",
+        "id": "NHqQ7GM5",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #6 5 ... Bb4+ 10 ... Nb6",
+        "id": "1mhmwNyy",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #7 4 ... Bc5",
+        "id": "mb0B8M2P",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #8 4 ... Bd4+",
+        "id": "UvThSY5B",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #9 4 ... Nxe4",
+        "id": "scpJAcD7",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #10 4 ... Nxe4 7 ... f6",
+        "id": "Nt2sDwY8",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #11 4 ... Nxe4 6 ... Qf6",
+        "id": "94FrDZ74",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #12 4 ... Nxe4 6 ... Nc6",
+        "id": "8rhMLe35",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "UGA 3 ...exd4 4 Nf3 #13 4 ... Nxe4 5 ... Qe7",
+        "id": "j8vCV70d",
+        "note": "asdfasdf",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "Max Lange Attack",
+        "id": "w1M7tdpX",
+        "note": "The Ursive gambit declined can transpose into the scotch gambit or max lange attack. Black chooses to protect the pawn on d4 with 4 ...Nc6. After white castles, if black goes 5 ...Bc5 goes into the Max Lange Attack."
+      },
+      {
+        "name": "Max Lange Attack #2 9 ...gxf6",
+        "id": "D9f4DVvz",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #3 9 ...gxf6",
+        "id": "6yezJCxU",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #4 9 ...Bd4",
+        "id": "mv4G2qen",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #5 9 ...Bd4 11 ... Bg4",
+        "id": "UEJtVZJi",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #6 8 ... Be6",
+        "id": "kKaAZvdc",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #7 8 ... Be6 9 ... Qd7",
+        "id": "OUGv0Cxj",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #8 8 ... Be6 9 ... O-O",
+        "id": "wQbEWzWN",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #9 8 ... Be6 9 ... g6",
+        "id": "GDlKrsqy",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #10 8 ... Be6 9 ... Qd5",
+        "id": "uAo7PMwB",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #11 10 ... Qf5",
+        "id": "A5OA9xHH",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #12 11 ... Bf8",
+        "id": "lzCyoNyF",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #13 11 ... Bb6",
+        "id": "Y5P8fopK",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #14 11 ... O-O-O",
+        "id": "fuYYqSYe",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #15 12 Qg6",
+        "id": "iZh2uW0m",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #16 11 ... Qxg4+",
+        "id": "pw6CQ9g0",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Max Lange Attack #17 11 ... Qe5",
+        "id": "1qSnPgV4",
+        "note": " ",
+        "parent": "w1M7tdpX"
+      },
+      {
+        "name": "Hybrid Vienna",
+        "id": "3Mg1r4NM",
+        "note": "Black chooses to move 2 ...Nc6 which can transpose into the Vienna hybrid game or some good lines of the Kings gambit after white responds with 3 Nc3. If black moves their bishop out to c5 into a situation that resembles the italian game it can lead to a big mistake."
+      },
+      {
+        "name": "Hybrid Vienna - 2",
+        "id": "C6eSdomU",
+        "note": "Another line of the Hybrid Vienna",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - 3",
+        "id": "PcpP4mpP",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - 4",
+        "id": "qJA3sa3T",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - 5",
+        "id": "qJA3sa3T",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - 5",
+        "id": "qJA3sa3T",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Berlin",
+        "id": "kzReXpdM",
+        "note": "The Berlin - when Black moves Nc6 and white decides not to go with the Urusov gambit but move d3"
+      },
+      {
+        "name": "Berlin - 5 ... d5",
+        "id": "AiiLsMno",
+        "note": "The Berlin - when Black moves Nc6 and white decides not to go with the Urusov gambit but move d3"
+      }
+    ]
+  },
+  {
+    "name": "Scotch Gambit",
+    "file": "scotch",
+    "for": "white",
+    "lines": [
+      {
+        "name": "Main Line",
+        "id": "nVANeQkm",
+        "note": "The Scotch Gambit - strikes me as similar to the Bishop's opening, it's an agressive option that gambles a pawn, with a solid reputation."
+      },
+      {
+        "name": "Main Line - 14 ... Bb6",
+        "id": "Oq6c3I0Q",
+        "note": "A sideline to the mainline, starting with 2 .. Nc6 instead of 2 ... Nf6. It's pretty much the same as the main until move 15 black chooses a slightly different option on move 14",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 13 ... f5",
+        "id": "eEBmy521",
+        "note": "What if black pushes the f5 pawn on move 13, defending their position instead of taking white's knight?",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 13 ... Bxd4",
+        "id": "Ww6V5u65",
+        "note": "What if black takes one of knights central knights on move 13? The game starts to look quite different with pieces traded off and white attacking on the kingside.",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 13 ... f6",
+        "id": "mrfNFTDc",
+        "note": "Black goes pawn f6 on move 13.. what happens now?",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 14 ... c5",
+        "id": "b4xhQx2V",
+        "note": "Black pushes c5, d4 after the pivotal central knight situation in this line is resolved. How should white respond? Well it comes out quite even turns out.",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 16 ... O-O",
+        "id": "Pr53BkiK",
+        "note": "Black castles after pushing c5 instead of moving their bishop",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 9 ... c5",
+        "id": "tZqBkJ34",
+        "note": "",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 9 ... Be7",
+        "id": "EQPDAYGv",
+        "note": "",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 10 ... Ng5",
+        "id": "dyxsG1Hl",
+        "note": "",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 10 ... Nc5",
+        "id": "GwwClEwq",
+        "note": "",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 11 ... Ne4",
+        "id": "Yu680noY",
+        "note": "",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 6 ... Nd7",
+        "id": "HRSWYMVz",
+        "note": "",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 9 ... Nxe5",
+        "id": "7uMyT5lU",
+        "note": "",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - 7 ... Bc5",
+        "id": "cRYGA4qO",
+        "note": "",
+        "parent": "nVANeQkm"
+      },
+      {
+        "name": "Main Line - Review of Mistakes",
+        "id": "aC41rJ4y",
+        "note": "",
+        "parent": "nVANeQkm"
+      }
+    ]
+  },
+  {
+    "name": "Italian Game",
+    "file": "italian",
+    "for": "white",
+    "lines": [
+      {
+        "name": "Beginner",
+        "note": "",
+        "id": "lGF66Y05"
+      },
+      {
+        "name": "Beginner - Bc5 Trap",
+        "note": "",
+        "id": "AxiKjNW6",
+        "parent": "lGF66Y05"
+      },
+      {
+        "name": "Beginner - Bc5 going for better minor piece",
+        "note": "",
+        "id": "oqMCxJo6",
+        "parent": "lGF66Y05"
+      },
+      {
+        "name": "Beginner - Bc5 Space Advantage",
+        "note": "",
+        "id": "f9ALJ8Nd",
+        "parent": "lGF66Y05"
+      },
+      {
+        "name": "Beginner - Bc5 Bishop Pair",
+        "note": "",
+        "id": "DXPSfDXE",
+        "parent": "lGF66Y05"
+      },
+      {
+        "name": "Beginner - Bc5 Bishop Pair early castles",
+        "note": "",
+        "id": "8YXDN83H",
+        "parent": "lGF66Y05"
+      },
+      {
+        "name": "Beginner - Bc5 Open File",
+        "note": "",
+        "id": "9fGHKlmr",
+        "parent": "lGF66Y05"
+      },
+      {
+        "name": "Beginner - Bc5 Transposition",
+        "note": "",
+        "id": "Mv7nkexT",
+        "parent": "lGF66Y05"
+      },
+      {
+        "name": "Beginner 3 ... Nf6",
+        "note": "",
+        "id": "gUUNkfr7",
+        "parent": "lGF66Y05"
+      },
+      {
+        "name": "Beginner 3 ... Nf6 8 ... Nbd2",
+        "note": "",
+        "id": "s9dFZ0eS",
+        "parent": "lGF66Y05"
+      }
+    ]
+  },
+  {
+    "name": "Fried Liver",
+    "file": "friedLiver",
+    "for": "white",
+    "lines": [
+      {
+        "name": "Traxler Counterattack",
+        "note": "The basic Traxler",
+        "id": "PWbTSZhY"
+      },
+      {
+        "name": "Traxler priority 1",
+        "note": "priority 1",
+        "id": "iXsV8LlH",
+        "parent": "PWbTSZhY"
+      },
+      {
+        "name": "Traxler 8 priority 2",
+        "note": "priority 2",
+        "id": "ehKIAzxz",
+        "parent": "PWbTSZhY"
+      },
+      {
+        "name": "Traxler 12 priority 3",
+        "note": "priority 3",
+        "id": "Z6ei5kXr",
+        "parent": "PWbTSZhY"
+      },
+      {
+        "name": "Traxler 17 priority 4",
+        "note": "priority 4",
+        "id": "nS8MN9J0",
+        "parent": "PWbTSZhY"
+      },
+      {
+        "name": "Traxler 18 priority 5",
+        "note": "priority 5",
+        "id": "lOfg6a3q",
+        "parent": "PWbTSZhY"
+      },
+      {
+        "name": "Traxler 19 priority 6",
+        "note": "priority 6",
+        "id": "UUmM8h3I",
+        "parent": "PWbTSZhY"
+      },
+      {
+        "name": "Traxler 20 priority 7",
+        "note": "priority 7",
+        "id": "IS3agZ25",
+        "parent": "PWbTSZhY"
+      },
+      {
+        "name": "Fried Liver",
+        "note": "The basic fried liver",
+        "id": "d7ereyzO"
+      },
+      {
+        "name": "Fried Liver priority 1",
+        "note": "The basic fried liver",
+        "id": "pqfiHdNL",
+        "parent": "d7ereyzO"
+      },
+      {
+        "name": "Fried Liver 5 priority 2",
+        "note": " ",
+        "id": "Ks4swGwi",
+        "parent": "d7ereyzO"
+      },
+      {
+        "name": "Fried Liver 6 priority 3",
+        "note": " ",
+        "id": "P0GGaTH3",
+        "parent": "d7ereyzO"
+      },
+      {
+        "name": "Fried Liver 6 priority 4",
+        "note": " ",
+        "id": "nJprwxua",
+        "parent": "d7ereyzO"
+      },
+
+      {
+        "name": "Fried Liver 14 priority 5",
+        "note": " ",
+        "id": "QqTYrPaY",
+        "parent": "d7ereyzO"
+      },
+      {
+        "name": "Fried Liver 15 priority 6",
+        "note": " ",
+        "id": "mCo5xBYi",
+        "parent": "d7ereyzO"
+      },
+
+      {
+        "name": "Fried Liver 16 priority 7",
+        "note": " ",
+        "id": "le9QZ1F9",
+        "parent": "d7ereyzO"
+      },
+
+      {
+        "name": "Fried Liver 24 priority 8",
+        "note": " ",
+        "id": "rOlutx8w",
+        "parent": "d7ereyzO"
+      },
+
+      {
+        "name": "Fried Liver 25 priority 9",
+        "note": " ",
+        "id": "s840PYVP",
+        "parent": "d7ereyzO"
+      },
+
+      {
+        "name": "Fried Liver 29 priority 10",
+        "note": " ",
+        "id": "d4rzH4py",
+        "parent": "d7ereyzO"
+      },
+
+      {
+        "name": "Fried Liver 30 priority 11",
+        "note": " ",
+        "id": "FsmIViPa",
+        "parent": "d7ereyzO"
+      },
+
+      {
+        "name": "Fried Liver 39 priority 12",
+        "note": " ",
+        "id": "d88HSM5Z",
+        "parent": "d7ereyzO"
+      },
+      {
+        "name": "Fried Liver 40 priority 13",
+        "note": " ",
+        "id": "4hWqlQnN",
+        "parent": "d7ereyzO"
+      },
+
+      {
+        "name": "Fried Liver 5 ... b5",
+        "note": "chapter 3",
+        "id": "DHMJ4T0N"
+      },
+      {
+        "name": "Fried Liver 5 ... b5 informational 1",
+        "note": "chpater 3",
+        "id": "lhEH5GVM",
+        "parent": "DHMJ4T0N"
+      },
+      {
+        "name": "Fried Liver 5 ... b5 informational 2",
+        "note": "chapter 3",
+        "id": "V7WwZZZM",
+        "parent": "DHMJ4T0N"
+      },
+      {
+        "name": "Fried Liver 5 ... b5 informational 3",
+        "note": "chapter 3",
+        "id": "8uuFuzHI",
+        "parent": "DHMJ4T0N"
+      },
+      {
+        "name": "Fried Liver 4 ...d5 5 exd5 Na5 6 Bb5+",
+        "note": "Chapter 4",
+        "id": "NnsnZz3D"
+      },
+      {
+        "name": "Fried Liver 4 ...d5 5 exd5 Na5 6Bb5+ 9 Qxa8",
+        "note": "chapter 5",
+        "id": "j1WaZwHc"
+      },
+      {
+        "name": "Fried Liver 4 ...d5 5 exd5 Na5 6Bb5+ 7 dxc6 bxc6",
+        "note": "chatper 6",
+        "id": "SPqqZucM"
+      },
+      {
+        "name": "Fried Liver 4 ...d5 5 exd5 Na5 6Bb5+ 7 dxc6 bxc6 8 Qf3 Bb7",
+        "note": "chapter 7",
+        "id": "mA6iuc3c"
+      },
+      {
+        "name": "Fried Liver 4 ...d5 5 exd5 Na5 6Bb5+ 7 dxc6 bxc6 8 Qf3 Qd5",
+        "note": "chatper 8",
+        "id": "fTG4rJwI"
+      },
+      {
+        "name": "Fried Liver 4 ...d5 5 exd5 Na5 6Bb5+ 7 dxc6 bxc6 8 Qf3 Rf8",
+        "note": "chapter 8 informational 1",
+        "id": "PKS0ULV3"
+      }
+    ]
+  },
+  {
+    "name": "Semi Slav",
+    "file": "semi-slav",
+    "for": "black",
+    "lines": [
+      {
+        "name": "Colle",
+        "id": "hL23ocu1",
+        "note": "An early sideline of the Semi Slav, when white plays 1 d4 and 2 Nf3 (the colle an alternative to the London if they don't play c4) and if white does not respond optimally to bg7"
+      },
+      {
+        "name": "Torre Atack",
+        "id": "iqHrOzPa",
+        "note": ""
+      },
+      {
+        "name": "Veresov",
+        "id": "Y09BAMhG",
+        "note": ""
+      },
+      {
+        "name": "London System",
+        "id": "tcC1xlbU",
+        "note": ""
+      },
+      {
+        "name": "Exchage",
+        "id": "wRUVAeeD",
+        "note": ""
+      },
+      {
+        "name": "Exchange Alternative 5 Bf4",
+        "id": "ekfaduP4",
+        "note": "",
+        "parent": "wRUVAeeD"
+      },
+      {
+        "name": "An Alternative 5 g3",
+        "id": "9vbwSBmV",
+        "note": ""
+      },
+      {
+        "name": "An Alternative 5 g3 #2",
+        "id": "nyILOfzP",
+        "note": "",
+        "parent": "9vbwSBmV"
+      },
+      {
+        "name": "Delayed Meran",
+        "id": "npupgAPP",
+        "note": ""
+      },
+      {
+        "name": "Delayed Meran8 Bd2",
+        "id": "YmWgnKEk",
+        "note": "",
+        "parent": "npupgAPP"
+      },
+      {
+        "name": "Delayed Meran 7 b3",
+        "id": "I04QoQvf",
+        "note": "",
+        "parent": "npupgAPP"
+      },
+      {
+        "name": "Delayed Meran 7 b3 8 Bb2",
+        "id": "pKzbBsxo",
+        "note": "",
+        "parent": "npupgAPP"
+      },
+      {
+        "name": "Delayed Meran 9 ... b5",
+        "id": "W7RKgPcr",
+        "note": "",
+        "parent": "npupgAPP"
+      },
+      {
+        "name": "Delayed Meran 9 ... b5 12 e4",
+        "id": "YgK9YCpt",
+        "note": "",
+        "parent": "npupgAPP"
+      },
+      {
+        "name": "Delayed Meran 9 ... b5 11 e4",
+        "id": "yThEY8J3",
+        "note": "",
+        "parent": "npupgAPP"
+      },
+      {
+        "name": "Delayed Meran 9 ... b5 10 Bd3",
+        "id": "sxKg4lSr",
+        "note": "",
+        "parent": "npupgAPP"
+      },
+      {
+        "name": "Open Meran",
+        "id": "BeM80uw2",
+        "note": ""
+      },
+      {
+        "name": "Cambridge Springs",
+        "id": "M6LKQIb7",
+        "note": ""
+      },
+      {
+        "name": "Cambridge Springs 7 Nb2",
+        "id": "rQpOuDov",
+        "note": "",
+        "parent": "M6LKQIb7"
+      },
+      {
+        "name": "b3 d5",
+        "id": "YkTKPwV5",
+        "note": ""
+      },
+      {
+        "name": "Standard Panov",
+        "id": "9LtR1aFb",
+        "note": ""
+      },
+      {
+        "name": "Pseudo-Panov",
+        "id": "02Rqshv2",
+        "note": ""
+      },
+      {
+        "name": "Meran Without d4",
+        "id": "YPFvndB1",
+        "note": ""
+      },
+      {
+        "name": "Reti with early c4",
+        "id": "c87V0VY5",
+        "note": ""
+      },
+      {
+        "name": "1 Nf3 d5 2 b3 g6",
+        "id": "fo0uVJdC",
+        "note": ""
+      },
+      {
+        "name": "1 Nf3 d5 2 b3 g6 with d4",
+        "id": "0sUHNmOi",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "name": "French Defense",
+    "file": "french",
+    "for": "black",
+    "lines": [
+      {
+        "name": "Intro",
+        "id": "Utdo50sW",
+        "note": ""
+      },
+      {
+        "name": "2 Nc3",
+        "id": "6tKzhWQU",
+        "note": "A variation that I've faced a few times where white moves knight out first, white takes on d5. Moving d4 effictively transposes into the Steinetz, while Nf3 transposes into the two knights. In this line I just play white's top engine moves until about move 13 then the ideas become more of battles for tactics and positions"
+      },
+      {
+        "name": "2 Nc3 3 exd4",
+        "id": "98JrwN99",
+        "note": "Continuing the idea of Nc3. 12 moves deep playing the top engine moves. White ends up with a slight advantage",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "2 Nc3 3 d4",
+        "id": "lWFXhzTK",
+        "note": "Continuing the idea of Nc3. White pushes another pawn to the center. 14 moves of the top engine moves, setting up a complex position, white has very slight advantage",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "2 Nc3 3 f4",
+        "id": "tpnNWWLW",
+        "note": "A weird third move by white, but the engine rates as equal, confused me in a game so here is a few of the moves",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "2 Bc4",
+        "id": "aFHDRidT",
+        "note": "Weird bishop opening by white. Top 10 or 12 or so computer moves",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "4 Bb3",
+        "id": "ADmnV4cA",
+        "note": "Weird bishop opening by white. White opts to slide their bishop back to b3",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "Steinitz",
+        "id": "ZVivLV0M",
+        "note": ""
+      },
+      {
+        "name": "Steinitz 7 - Be3",
+        "id": "7z6LY9mA",
+        "note": "",
+        "parent": "ZVivLV0M"
+      },
+      {
+        "name": "Steinitz 9 - Qd2",
+        "id": "VU19mNo7",
+        "note": "",
+        "parent": "ZVivLV0M"
+      },
+      {
+        "name": "Classical",
+        "id": "DOyhJxK4",
+        "note": ""
+      },
+      {
+        "name": "Classical 5.Qg4",
+        "id": "Tkf3cOji",
+        "note": "",
+        "parent": "DOyhJxK4"
+      },
+      {
+        "name": "Burn",
+        "id": "YeyR8ng4",
+        "note": ""
+      },
+      {
+        "name": "Burn 6 Nxf6+",
+        "id": "fOlUdqL1",
+        "note": "",
+        "parent": "YeyR8ng4"
+      },
+      {
+        "name": "McCutcheon",
+        "id": "G2ucVToo",
+        "note": ""
+      },
+      {
+        "name": "McCutcheon 9 Qf4",
+        "id": "g031Rt7R",
+        "note": "",
+        "parent": "G2ucVToo"
+      },
+      {
+        "name": "McCutcheon 6 Bd2",
+        "id": "f4RIc4ae",
+        "note": "",
+        "parent": "G2ucVToo"
+      },
+      {
+        "name": "McCutcheon 7 bxc3",
+        "id": "ZpGSYZML",
+        "note": "",
+        "parent": "G2ucVToo"
+      },
+      {
+        "name": "Advance",
+        "id": "aqfMnmvc",
+        "note": ""
+      },
+      {
+        "name": "Advance 6 Bd3",
+        "id": "CDUTebjI",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 6 a3",
+        "id": "Orvyl4fW",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 6 a3 8 Bxh6",
+        "id": "TIrst4dV",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Tarrasch",
+        "id": "e3LCz9gv",
+        "note": ""
+      },
+      {
+        "name": "Tarrasch exd5",
+        "id": "PAhbyJPa",
+        "note": "",
+        "parent": "e3LCz9gv"
+      },
+      {
+        "name": "Exchange",
+        "id": "uE83nmF5",
+        "note": ""
+      },
+      {
+        "name": "Bd3",
+        "id": "nocfVDvp",
+        "note": ""
+      },
+      {
+        "name": "Two Knights",
+        "id": "g2lJQlqV",
+        "note": ""
+      },
+      {
+        "name": "Wing Gambit",
+        "id": "Bwfia62O",
+        "note": ""
+      },
+      {
+        "name": "Kings Indian",
+        "id": "RK44qzpp",
+        "note": ""
+      },
+      {
+        "name": "Qe2",
+        "id": "8tlFa2GB",
+        "note": ""
+      },
+      {
+        "name": "2 c4",
+        "id": "OEBDt18E",
+        "note": ""
+      },
+      {
+        "name": "2 b3",
+        "id": "s5w7C2Do",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "name": "Queens Gambit Accepted",
+    "file": "qga",
+    "for": "black",
+    "lines": [
+      {
+        "name": "Intro",
+        "id": "0dWoBY55",
+        "note": ""
+      },
+      {
+        "name": "Classical",
+        "id": "Kwba4wOp",
+        "note": ""
+      },
+      {
+        "name": "Classical - Modern 8. b3",
+        "id": "qVODLwAH",
+        "note": "",
+        "parent": "Kwba4wOp"
+      },
+      {
+        "name": "Classical - The reason for h3",
+        "id": "M793cOyL",
+        "note": "",
+        "parent": "Kwba4wOp"
+      },
+      {
+        "name": "Classical - 12 dxc5, white going for e4",
+        "id": "DDHpO1ax",
+        "note": "",
+        "parent": "Kwba4wOp"
+      },
+      {
+        "name": "Classical - 12 d5 white goes for centeral break",
+        "id": "F2tyLHwZ",
+        "note": "",
+        "parent": "Kwba4wOp"
+      },
+      {
+        "name": "Classical 7 Qe2 Bd3 and IQP",
+        "id": "3stswxzz",
+        "note": ""
+      },
+      {
+        "name": "Classical 7 Qe2 The IQP and white doesn't do much",
+        "id": "iM93RqSG",
+        "note": "",
+        "parent": "3stswxzz"
+      },
+      {
+        "name": "Classical 7 Qe2 Bb3 and Minority Attack",
+        "id": "lqegaRXg",
+        "note": "",
+        "parent": "3stswxzz"
+      },
+      {
+        "name": "Classical 7 Qe2 Minority attack Qxf3",
+        "id": "GxRj0U5G",
+        "note": "",
+        "parent": "3stswxzz"
+      },
+      {
+        "name": "Classical 7 Qe2",
+        "id": "5XXOX14W",
+        "note": "",
+        "parent": "3stswxzz"
+      },
+      {
+        "name": "Classical 7 Qe2",
+        "id": "mE81fcyp",
+        "note": "",
+        "parent": "3stswxzz"
+      },
+      {
+        "name": "Classical 7 Qe2",
+        "id": "7cRt82Mi",
+        "note": "",
+        "parent": "3stswxzz"
+      }
+    ]
+  },
+
+  {
+    "name": "Caro Kann Counters",
+    "file": "caroKannCounters",
+    "for": "white",
+    "lines": [
+      {
+        "name": "Hillbilly Attack example game",
+        "id": "Fgorm6zf",
+        "note": ""
+      },
+      {
+        "name": "Hillbilly Attack 3 ...e6 or 3 ... Nf6",
+        "id": "BLbiVzJ5",
+        "note": ""
+      },
+      {
+        "name": "Hillbilly Attack 3 ...e6 and 4 ... dxe5",
+        "id": "WIePN4ec",
+        "note": ""
+      },
+      {
+        "name": "Hillbilly Attack 3 ...e6 and 4 ... dxe5 variation 1",
+        "id": "vBBYjuG0",
+        "note": ""
+      },
+      {
+        "name": "Hillbilly Attack 3 ...e6 and 4 ... dxe5 variation 2",
+        "id": "vBBYjuG0",
+        "note": ""
+      },
+      {
+        "name": "Hillbilly Attack 3 ...Nf6",
+        "id": "CxxS8KBp",
+        "note": ""
+      },
+      {
+        "name": "Hillbilly Attack Main LIne 4 ...e6",
+        "id": "0AOb0BJ5",
+        "note": ""
+      }
+    ]
+  }
+]
