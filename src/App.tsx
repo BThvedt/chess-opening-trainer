@@ -20,6 +20,8 @@ import ConfettiExplosion from "react-confetti-explosion"
 import EvalBar from "./components/EvalBar"
 import useWindowDimensions from "./hooks/UseWindowDimensions"
 
+// testing stuff
+
 interface ShortHeightClasses {
   appWrapper: string
   chessBoardWrapper: string
