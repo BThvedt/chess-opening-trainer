@@ -20,7 +20,7 @@ import ConfettiExplosion from "react-confetti-explosion"
 import EvalBar from "./components/EvalBar"
 import useWindowDimensions from "./hooks/UseWindowDimensions"
 
-// testing stuff!!!
+// testing stuff!!
 
 interface ShortHeightClasses {
   appWrapper: string
