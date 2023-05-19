@@ -1,6 +1,7 @@
 import { ComponentType, FC, useEffect, useState } from "react"
 import { useDispatch, useSelector } from "react-redux"
 import { RootState } from "../store/store"
+import { backwardToggle } from "../store/reducer"
 // import { Subtract } from "utility-types"
 
 // An attempt at an injector component
@@ -48,6 +49,16 @@ const withAlternateMoves =
 
     const turn = useSelector(({ appStore }: RootState) => appStore.turn)
 
+    const forwardToggle = useSelector(
+      ({ appStore }: RootState) => appStore.forwardToggle
+    )
+    const backwardToggle = useSelector(
+      ({ appStore }: RootState) => appStore.backwardToggle
+    )
+    const resetToggle = useSelector(
+      ({ appStore }: RootState) => appStore.resetToggle
+    )
+
     let dispatch = useDispatch()
 
     useEffect(() => {
@@ -78,8 +89,7 @@ const withAlternateMoves =
 
       if (
         (playerColor === "white" && turn === "b") ||
-        (playerColor === "black" && turn === "w") ||
-        moveNum == 2
+        (playerColor === "black" && turn === "w")
       ) {
         let startIndex = 0
         let endIndex = 0
@@ -164,7 +174,7 @@ const withAlternateMoves =
             alternateMoveArray.push({ move: key, lineId: moveAndIdObj[key] })
           })
 
-          console.log("ALTERNATE MOVE ARRAY IS ... ")
+          console.log("------------ ALTERNATE MOVES ARE -------------")
           console.log(alternateMoveArray)
 
           setAlternateMoves(alternateMoveArray)
@@ -183,6 +193,10 @@ const withAlternateMoves =
       turn,
       playerColor
     ])
+
+    // useEffect(() => {
+    //   setAlternateMoves([])
+    // }, [forwardToggle, backwardToggle, resetToggle])
 
     return <Component alternateMoves={alternateMoves} {...(props as any)} />
   }

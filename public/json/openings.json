@@ -282,94 +282,241 @@
         "note": "The Scotch Gambit - strikes me as similar to the Bishop's opening, it's an agressive option that gambles a pawn, with a solid reputation."
       },
       {
-        "name": "Main Line - 14 ... Bb6",
+        "name": "Main Line 14...Bb6",
         "id": "Oq6c3I0Q",
         "note": "A sideline to the mainline, starting with 2 .. Nc6 instead of 2 ... Nf6. It's pretty much the same as the main until move 15 black chooses a slightly different option on move 14",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 13 ... f5",
+        "name": "Main Line 13...f5",
         "id": "eEBmy521",
         "note": "What if black pushes the f5 pawn on move 13, defending their position instead of taking white's knight?",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 13 ... Bxd4",
+        "name": "Main Line 13...Bxd4",
         "id": "Ww6V5u65",
         "note": "What if black takes one of knights central knights on move 13? The game starts to look quite different with pieces traded off and white attacking on the kingside.",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 13 ... f6",
+        "name": "Main Line 13...f6",
         "id": "mrfNFTDc",
         "note": "Black goes pawn f6 on move 13.. what happens now?",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 14 ... c5",
+        "name": "Main Line 14...c5",
         "id": "b4xhQx2V",
         "note": "Black pushes c5, d4 after the pivotal central knight situation in this line is resolved. How should white respond? Well it comes out quite even turns out.",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 16 ... O-O",
+        "name": "Main Line 16...O-O",
         "id": "Pr53BkiK",
         "note": "Black castles after pushing c5 instead of moving their bishop",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 9 ... c5",
+        "name": "Main Line 9...c5",
         "id": "tZqBkJ34",
         "note": "",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 9 ... Be7",
+        "name": "Main Line 9...Be7",
         "id": "EQPDAYGv",
         "note": "",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 10 ... Ng5",
+        "name": "Main Line 10...Ng5",
         "id": "dyxsG1Hl",
         "note": "",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 10 ... Nc5",
+        "name": "Main Line 10...Nc5",
         "id": "GwwClEwq",
         "note": "",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 11 ... Ne4",
+        "name": "Main Line 11...Ne4",
         "id": "Yu680noY",
         "note": "",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 6 ... Nd7",
+        "name": "Main Line 6...Nd7",
         "id": "HRSWYMVz",
         "note": "",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 9 ... Nxe5",
+        "name": "Main Line 9...Nxe5",
         "id": "7uMyT5lU",
         "note": "",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - 7 ... Bc5",
+        "name": "Main Line 7...Bc5",
         "id": "cRYGA4qO",
         "note": "",
         "parent": "nVANeQkm"
       },
       {
-        "name": "Main Line - Review of Mistakes",
+        "name": "Main Line Review of Mistakes",
         "id": "aC41rJ4y",
-        "note": "",
+        "note": "informational",
         "parent": "nVANeQkm"
+      },
+      {
+        "name": "Alternate Line 7...Bc5",
+        "id": "kaQ2Y0Xi",
+        "note": ""
+      },
+      {
+        "name": "Alternate Line 7... Bc5 11...Rb8",
+        "id": "liRcRsjK",
+        "note": "",
+        "parent": "kaQ2Y0Xi"
+      },
+      {
+        "name": "Alternate Line 7... Bc5 14...Rb8",
+        "id": "cQyMMRV3",
+        "note": "",
+        "parent": "kaQ2Y0Xi"
+      },
+      {
+        "name": "Alternate Line 7...Bc5 14...Ba6",
+        "id": "GMQZl0CX",
+        "note": "informational",
+        "parent": "kaQ2Y0Xi"
+      },
+      {
+        "name": "Alternate Line Review of Mistakes",
+        "id": "53nPIGEL",
+        "note": "informational",
+        "parent": "kaQ2Y0Xi"
+      },
+      {
+        "name": "Sidelines",
+        "id": "vYnXvrCz",
+        "note": ""
+      },
+      {
+        "name": "Sidelines 7...O-O",
+        "id": "0aFiZg1U",
+        "note": "",
+        "parent": "vYnXvrCz"
+      },
+      {
+        "name": "Sidelines 6...Be7",
+        "id": "UazIqsNe",
+        "note": "",
+        "parent": "vYnXvrCz"
+      },
+      {
+        "name": "Sidelines 7...d5",
+        "id": "JRvtMoGd",
+        "note": "",
+        "parent": "vYnXvrCz"
+      },
+      {
+        "name": "Sidelines 6...d6",
+        "id": "MoyaezSP",
+        "note": "",
+        "parent": "vYnXvrCz"
+      },
+      {
+        "name": "Sidelines 7...dxc3",
+        "id": "c84nyQMY",
+        "note": "",
+        "parent": "vYnXvrCz"
+      },
+      {
+        "name": "Sidelines 7...d3",
+        "id": "rtMVfOHh",
+        "note": "",
+        "parent": "vYnXvrCz"
+      },
+      {
+        "name": "Sidelines 5...Qe7",
+        "id": "0vaiaipF",
+        "note": "",
+        "parent": "vYnXvrCz"
+      },
+      {
+        "name": "Sidelines Review of Mistakes",
+        "id": "Ht67Kvu7",
+        "note": "informational",
+        "parent": "vYnXvrCz"
+      },
+      {
+        "name": "Deviations",
+        "id": "yiBkO0uO",
+        "note": ""
+      },
+      {
+        "name": "Deviations Nd4",
+        "id": "SCfjAjd3",
+        "note": "",
+        "parent": "yiBkO0uO"
+      },
+      {
+        "name": "Deviations 3...Be7",
+        "id": "LO9JMb69",
+        "note": "",
+        "parent": "yiBkO0uO"
+      },
+      {
+        "name": "Deviations 8...Kxg7",
+        "id": "KM5wWbLy",
+        "note": "",
+        "parent": "yiBkO0uO"
+      },
+      {
+        "name": "Deviations 3...d6",
+        "id": "X7Nb4Ldz",
+        "note": "",
+        "parent": "yiBkO0uO"
+      },
+      {
+        "name": "Deviations 4...Nxe4",
+        "id": "vTUzIvxo",
+        "note": "",
+        "parent": "yiBkO0uO"
+      },
+      {
+        "name": "Deviations 5...Nc5",
+        "id": "Y4zLGQMn",
+        "note": "",
+        "parent": "yiBkO0uO"
+      },
+      {
+        "name": "Deviations 4...d6",
+        "id": "lIso2I1h",
+        "note": "",
+        "parent": "yiBkO0uO"
+      },
+      {
+        "name": "Deviations 5...Nxd4",
+        "id": "A9iW0DVX",
+        "note": "",
+        "parent": "yiBkO0uO"
+      },
+      {
+        "name": "Deviations 4...d5",
+        "id": "FoLlamjC",
+        "note": "",
+        "parent": "yiBkO0uO"
+      },
+      {
+        "name": "Deviations 4...Nxd4?",
+        "id": "2BnfDxQt",
+        "note": "",
+        "parent": "yiBkO0uO"
       }
     ]
   },
@@ -663,6 +810,11 @@
         "note": ""
       },
       {
+        "name": "London System 5 Bd3",
+        "id": "CPIULi1u",
+        "note": ""
+      },
+      {
         "name": "Exchage",
         "id": "wRUVAeeD",
         "note": ""
@@ -815,6 +967,12 @@
         "name": "2 Nc3 3 f4",
         "id": "tpnNWWLW",
         "note": "A weird third move by white, but the engine rates as equal, confused me in a game so here is a few of the moves",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "2 Nc3 5 Bg5",
+        "id": "kIehNT4k",
+        "note": "After going Nc3 and exchanging in the center, White decides to pin the knight on move 5. Reasonable, but not too difficulte to defend, however if Black isn't careful White can gain an advantage (as happened to me in one game, although I made more than one mistake that one. Ended up winning, but was pretty lucky). Here are the top computer moves in case White goes this route.",
         "parent": "6tKzhWQU"
       },
       {

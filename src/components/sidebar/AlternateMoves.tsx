@@ -76,6 +76,16 @@ const AlternateMoves: FC<IProps> = ({ alternateMoves }) => {
     ({ appStore }: RootState) => appStore.alternateMoves === "on"
   )
 
+  const forwardToggle = useSelector(
+    ({ appStore }: RootState) => appStore.forwardToggle
+  )
+  const backwardToggle = useSelector(
+    ({ appStore }: RootState) => appStore.backwardToggle
+  )
+  const resetToggle = useSelector(
+    ({ appStore }: RootState) => appStore.resetToggle
+  )
+
   useEffect(() => {
     if (!currentLineString) {
       return
@@ -105,6 +115,7 @@ const AlternateMoves: FC<IProps> = ({ alternateMoves }) => {
     // what if the movenum is greater than or equal to the currentLine.length?
     if (alternateMoves.length) {
       let readalbeAlternateMovesArr: { move: string; lineId: string }[] = []
+
       alternateMoves.forEach((alternateMove) => {
         let { move, lineId } = alternateMove
 
@@ -162,9 +173,7 @@ const AlternateMoves: FC<IProps> = ({ alternateMoves }) => {
       ) {
         setHasTransposed(true)
         // setTransposedToName("Some name")
-        // console.log("/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/- THE OPENING JSON IS")
-        // console.log(openingList)
-        // console.log(currentOpening)
+
         // ok find the name in opeing names
         // sigh this is kind of an involved prospect
 
@@ -199,9 +208,6 @@ const AlternateMoves: FC<IProps> = ({ alternateMoves }) => {
           // don't come until later in the line, but the current line is finished. In this case...
           // .. I'm getting over this. .. I could display 'success' or 'continue' .. maybe later ..
           // in this case just set success. This seems like the best place to do it ..
-          console.log(
-            "EXPERIMENTAL - SETTING SUCCESS - FROM WITHIN THE ALTERNATE MOVES COMPONENT"
-          )
 
           setTimeout(() => {
             dispatch(openModal("Success!!"))
@@ -215,6 +221,10 @@ const AlternateMoves: FC<IProps> = ({ alternateMoves }) => {
   }, [mostRecentMoveLan, alternateMoves])
 
   let dispatch = useDispatch()
+
+  useEffect(() => {
+    setChessGame(new Chess())
+  }, [forwardToggle, backwardToggle, resetToggle, selectedOpeningLine])
 
   return (
     <>

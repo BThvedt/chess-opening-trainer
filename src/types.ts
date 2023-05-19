@@ -115,6 +115,7 @@ export type Sounds =
   | "castle"
   | "check"
   | "checkmate"
+  | null
 
 export type SpecialSoundInstruction = "noMove"
 

@@ -5,11 +5,14 @@ import { LoadTheOpening } from "../../helpers/LoadJson"
 import type { RootState } from "../../store/store"
 import { SidebarDisplay } from "../../types"
 import PerfectScrollbar from "react-perfect-scrollbar"
+import useWindowDimensions from "../../hooks/UseWindowDimensions"
 
 interface IProps {}
 
 const ChoosableOpeningList: FC<IProps> = () => {
   const dispatch = useDispatch()
+
+  const { height: winHeight } = useWindowDimensions()
 
   let [notes, setNotes] = useState<string | undefined>(undefined)
 
@@ -29,7 +32,16 @@ const ChoosableOpeningList: FC<IProps> = () => {
 
   return (
     <>
-      <div className="max-h-80 overflow-y-hidden">
+      <div
+        className={`${
+          sidebarDisplay === SidebarDisplay.OPENING_LIST ||
+          sidebarDisplay === SidebarDisplay.OPENING_LINES
+            ? winHeight < 800
+              ? "h-64"
+              : "h-96"
+            : "max-h-32"
+        }`}
+      >
         <PerfectScrollbar>
           <div className="pr-5">
             {sidebarDisplay === SidebarDisplay.OPENING_LIST &&

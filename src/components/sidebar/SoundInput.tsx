@@ -99,6 +99,11 @@ const SoundInput: FC = () => {
       return
     }
 
+    sound.addEventListener("ended", () => {
+      // reset the sound
+      dispatch(playSound(null))
+    })
+
     if (muted) {
       sound.volume = 0
     } else {
@@ -110,6 +115,10 @@ const SoundInput: FC = () => {
       let finalVol = parseFloat((percentage / fudgeFactor).toFixed(2))
       sound.volume = finalVol
     }
+
+    console.log(`Playing Sound ${currentSound}`)
+
+    sound.pause()
 
     sound.play()
   }, [currentSound])

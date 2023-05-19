@@ -18,6 +18,13 @@ import Material from "./components/Material"
 import MessageModal from "./components/MessageModal"
 import ConfettiExplosion from "react-confetti-explosion"
 import EvalBar from "./components/EvalBar"
+import useWindowDimensions from "./hooks/UseWindowDimensions"
+
+interface ShortHeightClasses {
+  appWrapper: string
+  chessBoardWrapper: string
+  sideBar: string
+}
 
 // https://redux-toolkit.js.org/tutorials/quick-start
 function App() {
@@ -25,6 +32,14 @@ function App() {
   const [needPassword, setNeedPassword] = useState(false)
   const [passWord, setPassword] = useState("")
   const [submitting, setSubmitting] = useState(false)
+  const [shortHeightClasses, setShortHeightClasses] =
+    useState<ShortHeightClasses>({
+      appWrapper: "",
+      chessBoardWrapper: "",
+      sideBar: "" // currently unused I guess
+    })
+
+  const { height: winHeight } = useWindowDimensions()
 
   const dispatch = useDispatch()
 
@@ -57,6 +72,36 @@ function App() {
   const playerColor = useSelector(({ appStore }: RootState) => appStore.playAs)
 
   const modalRef = useRef(null)
+
+  // the size of the chessboard can get easily get awkward on short window heights like on laptops.
+  useEffect(() => {
+    let classes = {
+      appWrapper: "max-w-screen-2xl",
+      chessBoardWrapper: "",
+      sideBar: ""
+    }
+
+    if (winHeight < 750) {
+      classes = {
+        ...classes,
+        chessBoardWrapper: "pl-16 pr-8",
+        appWrapper: "max-w-screen-lg"
+      }
+    }
+    if (winHeight < 800) {
+      classes = {
+        ...classes,
+        appWrapper: "max-w-screen-lg"
+      }
+    } else if (winHeight < 1000) {
+      classes = {
+        ...classes,
+        appWrapper: "max-w-screen-xl"
+      }
+    }
+
+    setShortHeightClasses(classes)
+  }, [winHeight])
 
   // sets the defaults except for the highlight mvoe option which is in OpeningMoves.tsx
   useEffect(() => {
@@ -95,7 +140,7 @@ function App() {
   return (
     <div
       id="app-wrapper"
-      className="w-full px-8 py-4 flex flex-col items-center justify-center"
+      className={`w-full px-8 py-4 flex flex-col items-center justify-center ${shortHeightClasses.appWrapper} m-auto`}
       onClick={() => {
         dispatch(bodyClicked())
       }}
@@ -166,16 +211,18 @@ function App() {
               Chess Openings Trainer
             </h1>
           </header>
-          <main id="app-body" className="flex w-full p-2 max-lg:flex-col">
-            <section id="board" className="w-2/3 max-lg:w-full">
+          <main id="app-body" className="flex w-full p-2 max-md:flex-col">
+            {/* max-xl:w-3/5 */}
+            <section id="board" className="w-2/3  max-md:w-full">
               <div className="relative mb-1">
                 <EvalBar />
+                {/* max-2xl:pl-16 max-2xl:pr-8 */}
                 <div
-                  className={`pl-7 py-1 relative ${
+                  className={`pl-7 py-1 relative max-md:w-full  ${
                     paused || !selectedOpeningLine || showSelectMoveMessage
                       ? "opacity-75 select-none pointer-events-none"
                       : ""
-                  }`}
+                  } ${shortHeightClasses.chessBoardWrapper}`}
                 >
                   <TheChessBoard />
                   {paused && (
@@ -248,7 +295,9 @@ function App() {
                 </>
               )}
             </section>
-            <Sidebar />
+            <div className="w-1/3 px-4 max-md:w-full max-md:pt-4">
+              <Sidebar />
+            </div>
           </main>
           <footer id="app-footer"></footer>
         </>

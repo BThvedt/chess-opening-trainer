@@ -19,7 +19,7 @@ const Sidebar: FC<IProps> = () => {
   const hints = useSelector(({ appStore }: RootState) => appStore.hints)
 
   return (
-    <section id="sidebar" className="w-1/3 px-4 max-lg:w-full max-lg:pt-4">
+    <section id="sidebar" className="w-full">
       <ControlSection />
       <OpeningTitle />
       <ChoosableOpeningList />

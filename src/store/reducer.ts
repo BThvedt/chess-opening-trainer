@@ -143,6 +143,8 @@ export const appStore = createSlice({
       state.selectedAlternateLineEval = []
       state.selectedAlternateLineNotes = []
 
+      console.log("RESETTTING ALTERNATE LINE INFO")
+
       // have to reset the approperate Remaining opening lines
       // get the opening Json keys
       if (state.openingJson) {
@@ -162,9 +164,6 @@ export const appStore = createSlice({
       }
     },
     setSelectedAlternateLineMoves(state, action: PayloadAction<string>) {
-      // console.log(`--------- ${action.payload} --------------`)
-      // console.log(JSON.stringify(state.possibleRemainingOpeningLines, null, 2))
-
       let lineId = action.payload
       state.currentAlternateLineId = lineId
       state.selectedAlternateLineMoveString =
