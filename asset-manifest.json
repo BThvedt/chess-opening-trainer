@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chess-opening-trainer/static/css/main.a9f609a7.css",
-    "main.js": "/chess-opening-trainer/static/js/main.dda824ef.js",
+    "main.js": "/chess-opening-trainer/static/js/main.bdc22cd4.js",
     "index.html": "/chess-opening-trainer/index.html",
     "main.a9f609a7.css.map": "/chess-opening-trainer/static/css/main.a9f609a7.css.map",
-    "main.dda824ef.js.map": "/chess-opening-trainer/static/js/main.dda824ef.js.map"
+    "main.bdc22cd4.js.map": "/chess-opening-trainer/static/js/main.bdc22cd4.js.map"
   },
   "entrypoints": [
     "static/css/main.a9f609a7.css",
-    "static/js/main.dda824ef.js"
+    "static/js/main.bdc22cd4.js"
   ]
 }
