@@ -11,7 +11,8 @@ import {
   setSelectedAlternateLineMoves,
   openModal,
   setShowConfetti,
-  playSound
+  playSound,
+  alternateButtonClickToggle
 } from "../../store/reducer"
 
 const MOVE_DELAY = 350
@@ -114,6 +115,8 @@ const AlternateMoves: FC<IProps> = ({ alternateMoves }) => {
 
     // what if the movenum is greater than or equal to the currentLine.length?
     if (alternateMoves.length) {
+      console.log("******WE HAVE MOVES AND ALTERNATE MVOES ARE*****")
+      console.log(alternateMoves)
       let readalbeAlternateMovesArr: { move: string; lineId: string }[] = []
 
       alternateMoves.forEach((alternateMove) => {
@@ -127,7 +130,11 @@ const AlternateMoves: FC<IProps> = ({ alternateMoves }) => {
           chessGame.move(move)
         } catch (e) {
           // this runs multiple times so .. I don't care if there's an error because there will be
-          //console.log({ turn, move, pgn: chessGame.pgn(), error: e })
+          // because it'll try to look at a move again after moving .. which will be illegal
+          console.log({ turn, move, pgn: chessGame.pgn(), error: e })
+          console.log("there was error")
+          console.log({ move, lineId })
+          console.log(e)
         }
 
         let moveNumberString = `${moveNum + 1}.`
@@ -138,6 +145,8 @@ const AlternateMoves: FC<IProps> = ({ alternateMoves }) => {
             .split(moveNumberString)[1]
             ?.trim()
             .split(" ")
+
+          console.log({ playerColor, moveNumberString, whiteAndBlackMoves })
 
           // we want the opposite of the player color
           if (playerColor === "white" && whiteAndBlackMoves[1]) {
@@ -157,12 +166,18 @@ const AlternateMoves: FC<IProps> = ({ alternateMoves }) => {
         chessGame.undo()
       })
 
+      console.log("READABLE ALTERNATE MOVES ARE")
+      console.log(readalbeAlternateMovesArr)
+
       if (readalbeAlternateMovesArr && moveNum === currentLineLength) {
         readalbeAlternateMovesArr.unshift({
           lineId: "success",
           move: "Success"
         })
       }
+
+      // console.log("-----------READABLE ALTERNATE MOVES ARR IS--------------")
+      // console.log(readalbeAlternateMovesArr)
 
       setReadableAlternateMoves(readalbeAlternateMovesArr)
 
@@ -257,11 +272,11 @@ const AlternateMoves: FC<IProps> = ({ alternateMoves }) => {
           )}
 
           {!wrongPlayerColor && readableAlternateMoves.length !== 0 && (
-            <div className="text-gray-100 mt-2">
+            <div className="text-gray-100 mt-2 alt-moves-select-list">
               {readableAlternateMoves.map((entry) => {
                 return (
                   <span
-                    className={`px-1 mr-2 rounded-sm cursor-pointer hover:bg-teal-600 hover:text-gray-100 ${
+                    className={`px-1 mb-2 mr-2 inline-block rounded-sm cursor-pointer hover:bg-teal-600 hover:text-gray-100 ${
                       entry.lineId === currentLineId ||
                       entry.lineId === "success"
                         ? "bg-sky-500 text-gray-100"
@@ -269,6 +284,7 @@ const AlternateMoves: FC<IProps> = ({ alternateMoves }) => {
                     }`}
                     key={entry.move}
                     onClick={() => {
+                      dispatch(alternateButtonClickToggle())
                       if (entry.lineId === "success") {
                         dispatch(openModal("Success!!"))
                         dispatch(setShowConfetti(true))

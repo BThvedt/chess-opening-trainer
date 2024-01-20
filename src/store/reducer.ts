@@ -76,6 +76,7 @@ export interface AppState {
   selectedAlternateLineEval?: string[][]
   selectedAlternateLineNotes: string[]
   showSelectMoveMessage: boolean
+  alternateButtonClickToggle: boolean // runs a usestate if an alternate line button is clicked
 }
 
 const initialState: AppState = {
@@ -121,7 +122,8 @@ const initialState: AppState = {
   currentAlternateLineId: "",
   selectedAlternateLineEval: [],
   selectedAlternateLineNotes: [],
-  showSelectMoveMessage: false // I probably should have done this differently. Oh well. Last thing almost I want to put in
+  showSelectMoveMessage: false, // I probably should have done this differently. Oh well. Last thing almost I want to put in
+  alternateButtonClickToggle: false
 }
 
 // https://redux-toolkit.js.org/tutorials/quick-start
@@ -129,6 +131,10 @@ export const appStore = createSlice({
   name: "appStore",
   initialState,
   reducers: {
+    alternateButtonClickToggle(state) {
+      console.log("alternateButtonClickToggle")
+      state.alternateButtonClickToggle = !state.alternateButtonClickToggle
+    },
     showSelectMoveMessage(state, action: PayloadAction<boolean>) {
       // console.log("ACTION PAYLOAD IS")
       // console.log(action.payload)
@@ -172,6 +178,7 @@ export const appStore = createSlice({
       // now notes and eval
       // gotta find it in the openingJson
       let evalString = state.openingJson![`${lineId}eval`]
+
       let evalArray = (evalString as string).split("|")
       let noteArray = state.openingJson![`${lineId}notes`]
 
@@ -220,9 +227,16 @@ export const appStore = createSlice({
 
       idKeys.forEach((key) => {
         let lineString = possibleRemainingOpeningLines[key]
-
-        if (lineString.substring(startIndex, endIndex) === lan) {
-          newPossibleRemainingLines[key] = lineString
+        try {
+          if (lineString.substring(startIndex, endIndex) === lan) {
+            newPossibleRemainingLines[key] = lineString
+          }
+        } catch (e) {
+          console.log({
+            key,
+            lineString,
+            possibilities: state.possibleRemainingOpeningLines
+          })
         }
       })
 
@@ -415,9 +429,15 @@ export const appStore = createSlice({
         // if no sublines ...
         if (subLines.length === 0) {
           // moves are split by '|'
-          stateVersionOfLine.moves = (
-            state.openingJson![line.id] as string
-          ).split("|").length
+
+          try {
+            stateVersionOfLine.moves = (
+              state.openingJson![line.id] as string
+            ).split("|").length
+          } catch (e) {
+            console.log(e)
+            alert(line.id)
+          }
         } else {
           // don't forget the main line
           stateVersionOfLine.subLines.push(line.id)
@@ -669,7 +689,16 @@ export const appStore = createSlice({
       )
 
       state.openingLines = theOpeningSublines.map((subline) => {
-        let moves = (state.openingJson![subline.id] as string).split("|").length
+        let moves
+
+        try {
+          moves = (state.openingJson![subline.id] as string).split("|").length
+        } catch (e) {
+          alert("error")
+          console.log(JSON.stringify(subline, null, 2))
+          alert(subline.id)
+        }
+
         return {
           id: subline.id,
           name: subline.name,
@@ -773,7 +802,8 @@ export const {
   setAlternateMove,
   setSelectedAlternateLineMoves,
   resetAlternateLineInfo,
-  showSelectMoveMessage
+  showSelectMoveMessage,
+  alternateButtonClickToggle
 } = appStore.actions
 
 export default appStore.reducer

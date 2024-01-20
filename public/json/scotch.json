@@ -357,5 +357,9 @@
 
   "2BnfDxQt": "e2e4:e7e5|g1f3:b8c6|f1c4:g8f6|d2d4:c6d4|c4f7:e8f7|f3e5:f7e8|d1d4*",
   "2BnfDxQteval": "||||||",
-  "2BnfDxQtnotes": ["", "", "", "", "", "", ""]
+  "2BnfDxQtnotes": ["", "", "", "", "", "", ""],
+
+  "svNNMNd8": "e2e4:e7e5|g1f3:g8f6|f1c4:b8c6|d2d4:f6e4|d4e5:d7d6|c4f7:e8f7|d1d5:c8e6|d5e4:h7h6|b1c3:d6e5|f3e5:c6e5|e4e5:f8d6|e5h5:f7g8|c3e4:e6f7|h5f3*",
+  "svNNMNd8eval": "||||||||||||",
+  "svNNMNd8notes": ["", "", "", "", "", "", "", "", "", ""]
 }

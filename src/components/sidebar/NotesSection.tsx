@@ -22,6 +22,11 @@ const NotesSection: FC<IProps> = () => {
 
   useEffect(() => {
     let notes: string[]
+
+    // if (!selectedAlternateLineNotes) {
+    //   alert(selectedOpeningLine)
+    // }
+
     if (selectedAlternateLineNotes.length) {
       setNotes(selectedAlternateLineNotes)
     } else if (

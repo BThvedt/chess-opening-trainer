@@ -174,7 +174,9 @@ const withAlternateMoves =
             alternateMoveArray.push({ move: key, lineId: moveAndIdObj[key] })
           })
 
-          console.log("------------ ALTERNATE MOVES ARE -------------")
+          console.log(
+            `---- currId: ${currentLineId} moveNum: ${moveNum} ALTERNATE MOVES ARE ------`
+          )
           console.log(alternateMoveArray)
 
           setAlternateMoves(alternateMoveArray)

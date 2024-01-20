@@ -1,0 +1,2728 @@
+{
+  "Z5dKsg64": "e2e4:c7c5|g1f3*",
+  "Z5dKsg64eval": "|",
+  "Z5dKsg64notes": [
+    "Black announces the Sicilian with e5",
+    "White's response is Nf3"
+  ],
+
+  "Zps08Orf": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5d6|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|a1c1*",
+  "Zps08Orfeval": "|||||||||||",
+  "Zps08Orfnotes": ["", "", "", "", "", "", "", "", "", "", ""],
+
+  "HCAR0jqr": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:d5c3|d2c3:b8c6|c1f4:d8b6|b2b3:b6c7|d1d2:e7e6|h2h4:h7h6|h4h5:b7b6|f1d3:c8b7|d3e4:e8c8|e1c1*",
+  "HCAR0jqreval": "||||||||||||||",
+  "HCAR0jqrnotes": ["", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "wUhYxNmW": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:e7e6|e1g1:f8e7|f1d1:e8g8|c2c4:d8c7|b1c3:a7a6|b2b3:b7b6|c1a3:c8b7|a1c1:f8e8|c3d5:e6d5|c4d5*",
+  "wUhYxNmWeval": "||||||||||||||",
+  "wUhYxNmWnotes": ["", "", "", "", "", "", "", "", "", "", ""],
+
+  "3PrjjBki": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:e7e6|e1g1:f8e7|f1d1:e8g8|c2c4:d8c7|b1c3:a7a6|b2b3:b7b6|c1a3:c8b7|a1c1:c6b8|e4e5:d6e5|a3e7:c7e7|f3e5*",
+  "3PrjjBkieval": "||||||||||||||",
+  "3PrjjBkinotes": ["", "", "", "", "", "", "", "", "", "", ""],
+
+  "tSLKGB0p": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:d8b6|e3f4:d7e5|c3d5:b6d8|f3e5:c6e5|f4h4*",
+  "tSLKGB0peval": "||||||||||||||",
+  "tSLKGB0pnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "KWh7SHU5": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:b7b6|b2b3:c8b7|c1b2:a8c8|a2a3:a7a6|a1b1:b6b5|c3d5:g7b2|b1b2*",
+  "KWh7SHU5eval": "||||||||||||||",
+  "KWh7SHU5notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Xs6oXXNm": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:e7e6|f1e2:f8e7|e1g1:g8f6|c2c4:e8g8|f1d1:f6g4|e3f4:e6e5|f4d2:e7h4|f3h4:d8h4|e2g4:c8g4|f2f3:g4h5|b1c3:c6d4|d2f2:h4f2|g1f2:f7f5|e4f5:f8f5|c3e4:a8f8*",
+  "Xs6oXXNmeval": "||||||||||||||",
+  "Xs6oXXNmnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "kFV0pA1z": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:g8f6|a3b5:b7b6|b2b4:c5c6|e4e5:f6e4|f3d4:c6b7|f1d3:d7d5|f2f3:a7a6|f3e4:d5e4|d3c2:a6b5|e1g1*",
+  "kFV0pA1zeval": "||||||||||||||",
+  "kFV0pA1znotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "zg5thcFw": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:f8g7|f1b5:e8g8|e5c6:b7c6|b5c6:c8d7|e1g1:a8c8|c6d7:d8d7|a4a6:c8b8|f1d1:d7f5|a6a7:f5c2|a7d4:f8c8|a2a4*",
+  "zg5thcFweval": "||||||||||||||",
+  "zg5thcFwnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "9HqcFp93": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:d8d7|c1e3:f8g7|a1d1:d7c8|f1e2:e8g8|e1g1:a7a6|a4b3:b7b5|a2a4*",
+  "9HqcFp93eval": "||||||||||||||",
+  "9HqcFp93notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "IVAIn0BT": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:f7f6|c1e3:b8c6|d4d2:f6f5|b1c3:e7e6|f1b5:a7a6|b5c6:b7c6|e4f5:g6f5|e1c1:g8f6|f3e5:h8g8|e3g5:f8e7|g2g3:a8b8|h1e1*",
+  "IVAIn0BTeval": "||||||||||||||",
+  "IVAIn0BTnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "251b8l1v": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c5d4|d1d4:f7f6|e1g1:d7d6|c2c4:c6c5|d4d3:f8g7|b1c3:g8h6|f3h4:a8b8|b2b3:e8g8|f1e1:h6f7|f2f4*",
+  "251b8l1veval": "||||||||||||||",
+  "251b8l1vnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "JhYRZlbS": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5c5|b2b4:c5b6|c2c4:g8f6|e1g1:d7d6|c1b2:e8g8|b2d4*",
+  "JhYRZlbSeval": "||||||||||||||",
+  "JhYRZlbSnotes": ["", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "6Us85NPo": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5a2|b2b4:a6c4|e4e5:g8h6|b1b2:a2a6|d2c4:a6c4|d1e2:c4e2|e1e2*",
+  "6Us85NPoeval": "||||||||||||||",
+  "6Us85NPonotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Ff33n160": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:d8c7|e1g1:e7e5|a2a3:g8f6|c1e3:c5c4|b1c3:c4d3|d1d3:e8g8|f1d1*",
+  "Ff33n160eval": "||||||||||||||",
+  "Ff33n160notes": ["", "", "", "", "", "", "", ""],
+
+  "q8hW66Tw": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:d8c7|e1g1:e7e5|a2a3:g8f6|c1e3:c5c4|b1c3:c4d3|d1d3:e8g8|f1d1*",
+  "q8hW66Tweval": "||||||||||||||",
+  "q8hW66Twnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "yQm6czM8": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5*",
+  "yQm6czM8eval": "||||||||||||||",
+  "yQm6czM8notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "OPfNm8A5": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:h7h5|e4e5:f7f6|e2e4:e8f7|b1a3:d7d5|e5d6:d8d6|a3c4:d6d5|c4e3:d5e4|d3e4:e6e5|g2g3*",
+  "OPfNm8A5eval": "||||||||||||||",
+  "OPfNm8A5notes": ["", "", "", "", "", "", "", ""],
+
+  "t2Ezzir8": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:d8c7|d4d5:c6d8|a2a4:b7b6|b1a3*",
+  "t2Ezzir8eval": "||||||||||||||",
+  "t2Ezzir8notes": ["", "", "", "", "", "", "", "", ""],
+
+  "bgPuz1mL": "e2e4:c7c5|g1f3:e7e6|b2b3:d7d5|e4d5:e6d5|f1b5:c8d7|b5d7:b8d7|e1g1:f8d6|c1b2:f7f6|d2d4:g8e7|b1c3:e8g8|c3d5:e7d5|d4c5*",
+  "bgPuz1mLeval": "||||||||||||||",
+  "bgPuz1mLnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "cHVhdSPX": "e2e4:c7c5|g1f3:e7e6|b2b3:d7d6|c1b2:b8c6|d2d4:c5d4|f3d4:g8f6|b1c3:f8e7|d1d2:e8g8|e1c1:a7a6|c1b1:d8c7|g2g4*",
+  "cHVhdSPXeval": "||||||||||||||",
+  "cHVhdSPXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "kJ4ioKKi": "e2e4:c7c5|g1f3:e7e6|b2b3:d7d6|c1b2:g8f6|e4e5:d6e5|f3e5:b8d7|f2f4:f8e7|f1d3:e8g8|e1g1:d8c7|a2a4:a7a6|b1a3:b7b6|f1f3*",
+  "kJ4ioKKieval": "||||||||||||||",
+  "kJ4ioKKinotes": ["", "", "", "", "", "", "", "", "", "", ""],
+
+  "CpEaOVAn": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:g8f6|f1d3:f8e7|d1e2:e8g8|c1b2:b8c6|d4c6:b7c6|e1g1:d8c7|f2f4:d7d6|g1h1*",
+  "CpEaOVAneval": "||||||||||||||",
+  "CpEaOVAnnotes": ["", "", "", "", "", "", "", "", "", "", ""],
+
+  "JWOT8a1C": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:g8f6|f1d3:f8e7|d1e2:e8g8|c1b2:b8c6|d4c6:b7c6|e1g1:d8c7|f2f4:d7d5|e4e5:f6e4|d2e4:d5e4|d3e4:c6e4|e2e4*",
+  "JWOT8a1Ceval": "||||||||||||||",
+  "JWOT8a1Cnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "IXlbbbjS": "e2e4:e7e6|g1f3:c7c5|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:g8f6|f1d3:f8e7|d1e2:e8g8|c1b2:b8c6|d4c6:b7c6|e1g1:d8c7|f2f4:d7d5|e4e5:f6d7|f1f3*",
+  "IXlbbbjSeval": "||||||||||||||",
+  "IXlbbbjSnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "PTu1f9wl": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d6|d2d4:d8c7|h2h3:g7g6|f1d3:f8g7|e1g1:g8f6|f1e1:e8g8|a2a4:b7b6|b1a3:e7e6|c1f4:f6d7|d4c5:d7c5|d3c2:e6e5|f4e3:c8b7|a3c4:f8d8|b2b4:c5d7|c2b3*",
+  "PTu1f9wleval": "||||||||||||||",
+  "PTu1f9wlnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "H5WDUzNt": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d6|d2d4:d8c7|h2h3:g7g6|f1d3:f8g7|e1g1:b8d7|f1e1:g8f6|e4e5*",
+  "H5WDUzNteval": "||||||||||||||",
+  "H5WDUzNtnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "6WU2dSGy": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d6|d2d4:d8c7|h2h3:g7g6|f1d3:f8g7|e1g1:b8d7|f1e1:e7e5|c1e3:g8f6|d4e5:d6e5|c3c4:e8g8|b1c3:b7b6|a1c1:c8b7|f3d2:f6h5|c3d5*",
+  "6WU2dSGyeval": "||||||||||||||",
+  "6WU2dSGynotes": ["", "", "", "", "", "", "", "", ""],
+
+  "uDHpK2rp": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d6|d2d4:c5d4|c3d4:g8f6|b1c3:g7g6|h2h3:f8g7|f1d3:e8g8|e1g1:b7b5|e4e5:f6d7|d3e4:a8a7|c1f4*",
+  "uDHpK2rpeval": "||||||||||||||",
+  "uDHpK2rpnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "Ak2DF6yH": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d6|d2d4:c5d4|c3d4:g8f6|b1c3:g7g6|h2h3:f8g7|f1d3:e8g8|e1g1:b8c6|c1e3:b7b5|a1c1:c8b7|d4d5:c6e5|f3e5:d6e5|b2b4*",
+  "Ak2DF6yHeval": "||||||||||||||",
+  "Ak2DF6yHnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "ttE3vTIF": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d6|d2d4:c5d4|c3d4:g8f6|b1c3:g7g6|h2h3:f8g7|f1d3:e8g8|e1g1:b8c6|c1e3:b7b5|a1c1:c8b7|d4d5:c6b8|f3d4:b8d7|d4c6:b7c6|d5c6:d7e5|c3d5:f6d5|e4d5:e5d3|d1d3*",
+  "ttE3vTIFeval": "||||||||||||||",
+  "ttE3vTIFnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "5uYh2uje": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d6|d2d4:c5d4|c3d4:g8f6|b1c3:g7g6|h2h3:f8g7|f1d3:e8g8|e1g1:b8c6|c1e3:b7b5|a1c1:c8b7|d4d5:c6a5|b2b4:a5c4|d3c4:b5c4|f3d2:a8c8|d1e2:e7e6|d2c4:e6d5|c4a5:b7a8|e2a6:d5e4|f1d1*",
+  "5uYh2ujeeval": "||||||||||||||",
+  "5uYh2ujenotes": ["", "", "", "", "", "", "", "", ""],
+
+  "QAhVcGY0": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d6|d2d4:c5d4|c3d4:g8f6|b1c3:e7e6|f1d3:f8e7|e1g1:e8g8|e4e5:d6e5|d4e5:f6d5|d1c2:g7g6|a2a3*",
+  "QAhVcGY0eval": "||||||||||||||",
+  "QAhVcGY0notes": ["", "", "", "", "", "", "", "", ""],
+
+  "WRa5qGrD": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d6|d2d4:g8f6|f1d3:g7g6|e1g1:f8g7|c1e3:e8g8|h2h3:d8c7|b1d2:b7b6|a2a4:b8d7|d1e2*",
+  "WRa5qGrDeval": "||||||||||||||",
+  "WRa5qGrDnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "WRBHFPie": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d6|d2d4:g8f6|f1d3:c8g4|e1g1:e7e6|c1e3:f8e7|b1d2:b8d7|a2a4:d8c7|f1e1:g4h5|a4a5:e8g8|d2f1:c5d4|c3d4:d6d5|e4e5:f6e4|d1b1:h5g6|e1c1:c7d8|f3e1*",
+  "WRBHFPieeval": "||||||||||||||",
+  "WRBHFPienotes": ["", "", "", "", "", "", "", "", ""],
+
+  "oeZzdf4p": "e2e4:c7c5|g1f3:a7a6|c2c3:g8f6|e4e5:f6d5|d2d4:c5d4|f1c4:e7e6|c4d5:e6d5|d1d4:d8a5|e1g1:b8c6|d4f4:f8e7|f4g3*",
+  "oeZzdf4peval": "||||||||||||||",
+  "oeZzdf4pnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dJPxuyct": "e2e4:c7c5|g1f3:a7a6|c2c3:g8f6|e4e5:f6d5|d2d4:c5d4|f1c4:d5b6|c4b3:e7e6|c3d4:d7d6|e1g1:d6e5|f3e5:f8e7|d1g4:e8g8|c1h6:e7f6|b1c3:b6d5|b3c2*",
+  "dJPxuycteval": "||||||||||||||",
+  "dJPxuyctnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "EGRTBAId": "e2e4:c7c5|g1f3:a7a6|c2c3:g8f6|e4e5:f6d5|d2d4:c5d4|f1c4:d5b6|c4b3:d4c3|f3g5:e7e6|d1h5:d8e7|b1c3:b8c6|g5e4*",
+  "EGRTBAIdeval": "||||||||||||||",
+  "EGRTBAIdnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "vsKThU0v": "e2e4:c7c5|g1f3:a7a6|c2c3:g8f6|e4e5:f6d5|d2d4:c5d4|f1c4:d5b6|c4b3:d4c3|f3g5:e7e6|d1h5:g7g6|h5f3:d8e7|g5e4:f8g7|b1c3:g7e5|c1g5*",
+  "vsKThU0veval": "||||||||||||||",
+  "vsKThU0vnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "H6G8yquU": "e2e4:c7c5|g1f3:a7a6|c2c3:g8f6|e4e5:f6d5|d2d4:c5d4|f1c4:d5b6|c4b3:d7d5|e5d6:e7e6|d1d4:d8d6|d4h4:d6d3|f3d4:d3g6|e1g1:f8e7|h4f4:b8d7|b3c2:b6d5|f4f3:g6f6|f3d1:e8g8|f1e1:d7c5|b1d2*",
+  "H6G8yquUeval": "||||||||||||||",
+  "H6G8yquUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "YHV31heQ": "e2e4:c7c5|g1f3:a7a6|c2c3:g8f6|e4e5:f6d5|d2d4:c5d4|f1c4:d5b6|c4b3:d7d5|e5d6:d8d6|e1g1:d4d3|b1d2:c8f5|f1e1:b8c6|d2e4:f5e4|e1e4:e7e6|f3g5*",
+  "YHV31heQeval": "||||||||||||||",
+  "YHV31heQnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "PPUHgICc": "e2e4:c7c5|g1f3:g8f6|c2c3:a7a6|e4e5:f6d5|d2d4:c5d4|f1c4:d5b6|c4b3:d7d5|e5d6:d8d6|e1g1:b8c6|c3d4:c8e6|b3e6:d6e6|f1e1:e6d7|b1c3:b6d5|d1b3:d5c3|b2c3*",
+  "PPUHgICceval": "||||||||||||||",
+  "PPUHgICcnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "wxl6JEG9": "e2e4:c7c5|g1f3:a7a6|c2c3:g8f6|e4e5:f6d5|d2d4:c5d4|f1c4:d5b6|c4b3:d7d5|e5d6:d8d6|e1g1:b8c6|c3d4:c8f5|d4d5:c6b4|b1c3:a8d8|f3h4:f5c8|d1f3*",
+  "wxl6JEG9eval": "||||||||||||||",
+  "wxl6JEG9notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "BD4hJesp": "e2e4:c7c5|g1f3:a7a6|c2c3:g8f6|e4e5:f6d5|d2d4:c5d4|f1c4:d5b6|c4b3:d7d5|e5d6:d8d6|e1g1:b8c6|c3d4:e7e6|b1c3:f8e7|f1e1:e8g8|a2a3:b6d5|d1d3:c8d7|b3c2:g7g6|c1h6:f8d8|c2b3:a8c8|c3e4:d6b8|b3a2:d7e8|a1d1:b7b5|h2h4*",
+  "BD4hJespeval": "||||||||||||||",
+  "BD4hJespnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "9md07Lzy": "e2e4:c7c5|g1f3:a7a6|c2c3:g8f6|e4e5:f6d5|d2d4:c5d4|f1c4:d5b6|c4b3:d7d5|e5d6:d8d6|e1g1:b8c6|c3d4:e7e6|b1c3:f8e7|f1e1:e8g8|a2a3:f8d8|f3g5:c6d4|d1h5:e7g5|c1g5:f7f6|g5f6:g7f6|a1d1*",
+  "9md07Lzyeval": "||||||||||||||",
+  "9md07Lzynotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "WQbrSKqY": "e2e4:c7c5|g1f3:a7a6|c2c3:g8f6|e4e5:f6d5|d2d4:c5d4|f1c4:d5b6|c4b3:d7d5|e5d6:d8d6|e1g1:b8c6|c3d4:e7e6|b1c3:f8e7|f1e1:e8g8|a2a3:f8d8|f3g5:c6d4|d1h5:e7g5|c1g5:d4b3|a1d1:b6d5|g5d8:d6d8|c3d5:e6d5|h5d5*",
+  "WQbrSKqYeval": "||||||||||||||",
+  "WQbrSKqYnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ruf0kgSF": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:c5d4|c3d4:d7b5|d3c2:a6a5|b1c3:b5a6|c3e2:f8b4|c1d2:b8c6|e1g1:g8e7|f1e1:b4d2|d1d2:a6e2|e1e2:a5a4|h2h4*",
+  "ruf0kgSFeval": "||||||||||||||",
+  "ruf0kgSFnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "q2gaVwVC": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:c5d4|c3d4:d7b5|d3c2:a6a5|b1c3:b5a6|c3e2:f8b4|c1d2:b8c6|e1g1:g8e7|f1e1:b4d2|d1d2:a6e2|e1e2:a5a4|h2h4*",
+  "q2gaVwVCeval": "||||||||||||||",
+  "q2gaVwVCnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "PeeV6qVU": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:c5d4|c3d4:d7b5|d3c2:a6a5|b1c3:f8b4|c1d2:b4c3|b2c3:d8d7|h2h4:g8e7|h4h5:h7h6|h1h3*",
+  "PeeV6qVUeval": "||||||||||||||",
+  "PeeV6qVUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "kmqwFciu": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:c5d4|c3d4:d7b5|d3c2:a6a5|b1c3:f8b4|c1d2:b5a6|a2a3:b4c3|b2c3:g8e7|f3g5:h7h6|g5h3:b8d7|d1g4:g7g6|h3f4*",
+  "kmqwFciueval": "||||||||||||||",
+  "kmqwFciunotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "PkVaAMkp": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:a8c8|d4c5:f8c5|b1d2:g8e7|d2b3:c5a7|f1e1:e7g6|b3d4*",
+  "PkVaAMkpeval": "||||||||||||||",
+  "PkVaAMkpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "pwwR2YzC": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:a8c8|d4c5:f8c5|b1d2:g8e7|d2b3:c5a7|f1e1:e8g8|d3h7:g8h7|f3g5:h7g6|d1g4*",
+  "pwwR2YzCeval": "||||||||||||||",
+  "pwwR2YzCnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "oOaueenV": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:a8c8|d4c5:f8c5|b1d2:g8e7|d2b3:c5a7|f1e1:e8g8|d3h7:g8h7|f3g5:h7g8|d1h5*",
+  "oOaueenVeval": "||||||||||||||",
+  "oOaueenVnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "HXlkIxy6": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:d8b6|d4c5:f8c5|b2b4:c5e7|a2a4:g8h6|c1h6:g7h6|b1d2:e8g8|d2b3*",
+  "HXlkIxy6eval": "||||||||||||||",
+  "HXlkIxy6notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VGk9jEsp": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:c5d4|c3d4:c6b4|d3e2:a8c8|b1c3:g8e7|a2a3:b4c6|e2d3:e7g6|g2g3:f8e7|h2h4:e8g8|h4h5:g6h8|d1c2:g7g6|c1h6:f8e8|g1g2:a6a5|f1h1*",
+  "VGk9jEspeval": "||||||||||||||",
+  "VGk9jEspnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "s87jDltL": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:c5d4|c3d4:c6b4|d3e2:d7b5|e2b5:a6b5|b1c3:d8d7|d1b3:d7c6|a2a3:c6c4|f3d2:c4b3|d2b3*",
+  "s87jDltLeval": "||||||||||||||",
+  "s87jDltLnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "YgMndPUX": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:c5d4|c3d4:a8c8|b1c3:g8e7|h2h4*",
+  "YgMndPUXeval": "||||||||||||||",
+  "YgMndPUXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "3MQ58BqF": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:c5d4|c3d4:d8b6|d3e2:a8c8|b1c3:g8e7|c3a4:b6a7|c1e3:e7f5|e2d3:f5e3|f2e3*",
+  "3MQ58BqFeval": "||||||||||||||",
+  "3MQ58BqFnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "GWK5XpRb": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:c5d4|c3d4:d8b6|d3e2:a8c8|b1c3:g8e7|c3a4:b6a7|c1e3:e7f5|e2d3:f5d4|f3d4:c6d4|b2b4:f8b4|a1b1:b4e7|a4b6*",
+  "GWK5XpRbeval": "||||||||||||||",
+  "GWK5XpRbnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Z1cxrH3C": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:c5d4|c3d4:d8b6|d3e2:g8e7|b1c3:e7f5|c3a4:b6a7|c1e3:b7b5|a4c3:f8e7|e2d3:f5d4|f3d4:c6d4|d1g4*",
+  "Z1cxrH3Ceval": "||||||||||||||",
+  "Z1cxrH3Cnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ZxovO1l0": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:c5d4|c3d4:d8b6|d3e2:g8e7|b1c3:e7f5|c3a4:b6a7|c1e3:b7b5|a4c3:f8e7|e2d3:f5e3|f2e3:e8g8|c3e2:f7f6|e5f6:f8f6|e2f4*",
+  "ZxovO1l0eval": "||||||||||||||",
+  "ZxovO1l0notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "lrZZAgxK": "e2e4:c7c5|g1f3:a7a6|c2c3:e7e6|d2d4:d7d5|e4e5:c8d7|f1d3:b8c6|e1g1:c5d4|c3d4:d8b6|d3e2:g8e7|b1c3:e7f5|c3a4:b6a7|c1e3:b7b5|a4c3:f8e7|e2d3:f5e3|f2e3:e8g8|c3e2:f7f5|h2h4:d7e8|e2f4:a7d7|g2g4:f5g4|f3g5*",
+  "lrZZAgxKeval": "||||||||||||||",
+  "lrZZAgxKnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dQW6tVmI": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:g8f6|d2d4:c5d4|d1a4:b8d7|a4d4*",
+  "dQW6tVmIeval": "||||||||||||||",
+  "dQW6tVmInotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "AbiOX2W7": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:g8f6|d2d4:c5d4|d1a4:d8d7|a4d7:c8d7|c3c4:e7e6|d5e6:f7e6|f3d4*",
+  "AbiOX2W7eval": "||||||||||||||",
+  "AbiOX2W7notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "i8JL3xcv": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:g8f6|d2d4:c5d4|d1a4:d8d7|a4d7:b8d7|c3c4:b7b5|b2b3:b5c4|b3c4:e7e6|d5e6:f7e6|f3d4:e6e5|d4e6:f8b4|c1d2:b4d2|b1d2*",
+  "i8JL3xcveval": "||||||||||||||",
+  "i8JL3xcvnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "GkOBAMdA": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:c8g4|f1e2:c5d4|c3d4:e7e6|b1c3:f8b4|e1g1:b4c3|b2c3:g8e7|c3c4:d5d8|a1b1*",
+  "GkOBAMdAeval": "||||||||||||||",
+  "GkOBAMdAnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "eIbT0HK1": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:c8g4|f1e2:g8f6|h2h3:g4h5|c3c4:d5d6|d4d5:e7e6|b1c3:e6d5|c4d5:b8d7|e1g1:f8e7|f3d2:h5e2|d1e2:d7b6|d2e4:f6e4|e2e4*",
+  "eIbT0HK1eval": "||||||||||||||",
+  "eIbT0HK1notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "77o6yuya": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:c8g4|f1e2:e7e6|h2h3:g4h5|c3c4:d5d6|d4d5:e6d5|c4d5:g8f6|b1c3:b8d7|e1g1:f8e7|f3d2:h5e2|d1e2:f6d5|d2e4:d6e5|c3d5:e5d5|c1g5:e7g5|e4f6*",
+  "77o6yuyaeval": "||||||||||||||",
+  "77o6yuyanotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "1nGlXAgi": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:c8g4|f1e2:e7e6|h2h3:g4h5|c3c4:d5d6|d4d5:e6d5|c4d5:g8f6|b1c3:b8d7|e1g1:f8e7|f3d2:h5e2|d1e2:f6d5|d2e4:d6e5|c3d5:e5d5|c1g5:d5e6|g5e7:e6e7|e4d6:e8f8|e2d2*",
+  "1nGlXAgieval": "||||||||||||||",
+  "1nGlXAginotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "5XRId06L": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:c8g4|f1e2:e7e6|h2h3:g4h5|c3c4:d5d8|d4d5:e6d5|c4d5:f8d6|e1g1:g8e7|f3d2:h5e2|d1e2:e8g8|b1c3:b8d7|d2c4:e7c8|a2a4:d7b6|f1e1:b6c4|e2c4:c8b6|c4d3:f8e8|c1d2*",
+  "5XRId06Leval": "||||||||||||||",
+  "5XRId06Lnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "D72bYYcf": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:c5d4|c3d4:g8f6|b1c3:d5d8|g2g3:e7e6|f1g2:f8e7|e1g1:e8g8|c1f4:b8c6|a1c1*",
+  "D72bYYcfeval": "||||||||||||||",
+  "D72bYYcfnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xEOyUDtf": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:c5d4|c3d4:g8f6|b1c3:d5d6|g2g3:e7e6|f1g2:f8e7|e1g1:e8g8|c1f4:d6d8|f3e5*",
+  "xEOyUDtfeval": "||||||||||||||",
+  "xEOyUDtfnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "yGdgCnYs": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:b8c6|d4c5:d5c5|c1e3:c5a5|b1d2:c8f5|d2c4:a5c7|e3b6:c7d7|d1d7:f5d7|b6c7*",
+  "yGdgCnYseval": "||||||||||||||",
+  "yGdgCnYsnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "BSsSKFDF": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:b8c6|d4c5:d5d1|e1d1:c8g4|c1e3:g4f3|g2f3:e8c8|d1c2:g8f6|b1d2:f6d5|d2c4:c8c7|b2b4*",
+  "BSsSKFDFeval": "||||||||||||||",
+  "BSsSKFDFnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "L9Et3hEO": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:b8c6|d4c5:d5d1|e1d1:g8f6|b1d2:c8f5|d1e1:e7e6|b2b4:a6a5|a2a3:a5b4|c3b4:c6b4*",
+  "L9Et3hEOeval": "||||||||||||||",
+  "L9Et3hEOnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "JoRf6zkX": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:b8c6|d4c5:d5d1|e1d1:g8f6|b1d2:c8f5|d1e1:e7e6|b2b4:a6a5|b4b5:c6b8|c5c6:b7c6|f3d4:f8e7|a2a4:f6d5|c1a3*",
+  "JoRf6zkXeval": "||||||||||||||",
+  "JoRf6zkXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "4tS7xLbU": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g7g6|b1d2:c5d4|f1c4:d5a5|d2e4:b8c6|e1g1:d4c3|f1e1*",
+  "4tS7xLbUeval": "||||||||||||||",
+  "4tS7xLbUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "lYRRFHcO": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g7g6|b1d2:c5d4|f1c4:d5d8|f3e5:g8h6|d2f3:f7f6|c1h6:f6e5|h6d2:d4c3|d2c3:d8d1|a1d1:f8g7|c3e5:g7e5|f3e5*",
+  "lYRRFHcOeval": "||||||||||||||",
+  "lYRRFHcOnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "cnOFlaBM": "e2e4:c7c5|g1f3:a7a6|c2c3:d8a5|f1e2:d7d6|d2d4:c5d4|e1g1:d4c3|b1c3:e7e6|c1f4:b8c6|f3d2:c6e5|f4e3:g8f6|f2f4:e5c6|d2c4:a5c7|e4e5:d6e5|e3b6:c7d7|f4e5:d7d1|a1d1:f6d7|c3e4*",
+  "cnOFlaBMeval": "||||||||||||||",
+  "cnOFlaBMnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "dZXCa4Hu": "e2e4:c7c5|c2c3:a7a6|g1f3:d8a5|f1e2:d7d6|d2d4:c5d4|e1g1:d4c3|b1c3:g8f6|c3d5:f6d5|e4d5:b8d7|f1e1:d7f6|e2c4:c8g4|c1f4:a8c8|c4b3:g4f3|d1f3*",
+  "dZXCa4Hueval": "||||||||||||||",
+  "dZXCa4Hunotes": ["", "", "", "", "", "", "", "", ""],
+
+  "ZgA8rtOK": "e2e4:c7c5|g1f3:a7a6|c2c3:d8a5|f1e2:d7d6|d2d4:c5d4|e1g1:d4c3|b1c3:g8f6|c3d5:f6e4|b2b4:a5d8|d1c2*",
+  "ZgA8rtOKeval": "||||||||||||||",
+  "ZgA8rtOKnotes": ["", "", "", "", "", "", "", "", ""],
+
+  "2RI9qyAW": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:e7e6|c1e3:c5d4|c3d4:g8f6|b1c3:d5d6|a1c1*",
+  "2RI9qyAWeval": "||||||||||||||",
+  "2RI9qyAWnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "lCQhouzE": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:c8g4|b1c3:d5d6|d1b3:b7b5|f3g5:e7e6|h2h3:g4h5|g2g4:h5g6|f1g2*",
+  "lCQhouzEeval": "||||||||||||||",
+  "lCQhouzEnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "7HrqetHm": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:e7e6|c1e3:c5d4|c3d4:g8f6|b1c3:d5d6|a1c1*",
+  "7HrqetHmeval": "||||||||||||||",
+  "7HrqetHmnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "GHhDG5D8": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:c8g4|b1c3:d5d6|d1b3:b7b5|f3g5:e7e6|h2h3:g4h5|g2g4:h5g6|f1g2*",
+  "GHhDG5D8eval": "||||||||||||||",
+  "GHhDG5D8notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "sAuNq6N4": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:g7g6|b1c3:d5d6|a1c1:b8d7|g2g3:f8g7|f1g2:e8g8|e1g1*",
+  "sAuNq6N4eval": "||||||||||||||",
+  "sAuNq6N4notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "qrMty5uA": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:g7g6|b1c3:d5a5|d1b3:f8g7|f3e5:e8g8|e5c4*",
+  "qrMty5uAeval": "||||||||||||||",
+  "qrMty5uAnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "pbx7ilxa": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:g7g6|b1c3:d5a5|d1b3:b7b5|f3g5:e7e6|f1d3:c8b7|e1g1:a5b4|b3c2*",
+  "pbx7ilxaeval": "||||||||||||||",
+  "pbx7ilxanotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "dXOPBdfb": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5d8|f1d3:b8c6|a2a3:f8d6|e1g1:e8g8|a1c1:c8d7|d3b1*",
+  "dXOPBdfbeval": "||||||||||||||",
+  "dXOPBdfbnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "V40EjeyA": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5d8|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|a1c1:c8d7|d3b1:a8c8|d1d3:g7g6|b1a2:f8e8|f1e1:e7f8|d3d2:f8g7|e3g5*",
+  "V40EjeyAeval": "||||||||||||||",
+  "V40EjeyAnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "MyRxRi4Q": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5a5|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|f1e1:f8d8|c3e4:f6e4|d3e4:c8d7|b2b4:a5c7|a1c1*",
+  "MyRxRi4Qeval": "||||||||||||||",
+  "MyRxRi4Qnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "IDx6vY5B": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5a5|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|f1e1:f8d8|c3e4:f6d5|a1c1:d5e3|f2e3:a5h5|b2b4*",
+  "IDx6vY5Beval": "||||||||||||||",
+  "IDx6vY5Bnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "UW5jGtdF": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5a5|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|f1e1:f8d8|c3e4:f6d5|a1c1:c8d7|e4c5:d5e3|f2e3*",
+  "UW5jGtdFeval": "||||||||||||||",
+  "UW5jGtdFnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "l6cQeznJ": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5d6|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|a1c1:f8d8|c3e4:f6e4|d3e4:c8d7|f3d2:b7b5|d2b3:d7e8|d1f3:a8c8|e3f4:d6d7|b3c5:d7a7|f3h3:f7f5|e4c6:c8c6|h3e3*",
+  "l6cQeznJeval": "||||||||||||||",
+  "l6cQeznJnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "5DTTymVp": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5d6|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|a1c1:f8d8|c3e4:f6e4|d3e4:c8d7|f3d2:b7b5|d2b3:d7e8|d1f3:a8c8|e3f4:d6d7|b3c5:e7c5|d4c5:f7f6|f4d6*",
+  "5DTTymVpeval": "||||||||||||||",
+  "5DTTymVpnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "qMufEVGw": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5d6|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|a1c1:f8d8|c3e4:f6e4|d3e4:e7f6|d1c2:h7h6|f1d1:c6e7|f3e5:e7d5|e5c4:d6c7|c2b3*",
+  "qMufEVGweval": "||||||||||||||",
+  "qMufEVGwnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "9kBjskhN": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5d6|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|a1c1:c8d7|d3b1:f8d8|f1e1:a8c8|d1d3:g7g6|e3g5:d7e8|c1d1:b7b5|d3e3:f6d5|c3d5:e7g5|e3g5:e6d5|h2h4*",
+  "9kBjskhNeval": "||||||||||||||",
+  "9kBjskhNnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "pXgJ4Inf": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5d6|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|a1c1:c8d7|d3b1:f8d8|f1e1:a8c8|d1d3:g7g6|e3g5:d7e8|c1d1:b7b5|d3e3:f6d5|c3d5:e7g5|e3g5:d6d5|g5f6*",
+  "pXgJ4Infeval": "||||||||||||||",
+  "pXgJ4Infnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "k7sjAJ6D": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5d6|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|a1c1:c8d7|d3b1:f8d8|f1e1:a8c8|d1d3:g7g6|e3g5:d7e8|c1d1:b7b5|d3e3:b5b4|a3b4:c6b4|d4d5*",
+  "k7sjAJ6Deval": "||||||||||||||",
+  "k7sjAJ6Dnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "RljQE0Or": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5d6|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|a1c1:c8d7|d3b1:f8d8|f1e1:a8c8|d1d3:g7g6|e3g5:d7e8|c1d1:b7b5|d3e3:b5b4|a3b4:d6b4|d4d5:e6d5|g5f6:e7f6|c3d5:b4d6|h2h4*",
+  "RljQE0Oreval": "||||||||||||||",
+  "RljQE0Ornotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "cZ4Uaa7U": "e2e4:c7c5|g1f3:a7a6|c2c3:d7d5|e4d5:d8d5|d2d4:g8f6|c1e3:c5d4|c3d4:e7e6|b1c3:d5d6|f1d3:b8c6|a2a3:f8e7|e1g1:e8g8|a1c1:b7b5|c3e4:f6e4|d3e4:c8b7|f3e5:c6a5|e4b7:a5b7|d1f3*",
+  "cZ4Uaa7Ueval": "||||||||||||||",
+  "cZ4Uaa7Unotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "QZokdYNd": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:e7e6|c3e4:f7f5|e4c3:d5c3|d2c3:b8c6|c1f4:d8b6|b2b3:b6c7|d1d2:f8e7|e1c1:a7a6|h1g1:h7h6|h2h4:h6h5|g1h1:b7b5|h1h3*",
+  "QZokdYNdeval": "||||||||||||||",
+  "QZokdYNdnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "LlkTuFiz": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:e7e6|c3e4:f7f5|e4c3:d5c3|d2c3:b8c6|c1f4:d8b6|b2b3:b6c7|d1d2:f8e7|e1c1:a7a6|h1g1:h7h6|h2h4:h6h5|g1h1:b7b5|h1h3*",
+  "LlkTuFizeval": "||||||||||||||",
+  "LlkTuFiznotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "PuJemBSb": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:e7e6|c3e4:f7f5|e4c3:d5c3|d2c3:b8c6|c1f4:b7b6|d1d2:c8b7|e1c1:d8c7|h2h4:c6e7|h4h5:e7d5|f4g3:c5c4|f3d4:f8e7|g3h4:c7e5|h4e7:d5e7|f1c4*",
+  "PuJemBSbeval": "||||||||||||||",
+  "PuJemBSbnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "lyPb08VY": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:e7e6|c3e4:f7f5|e4c3:d5c3|d2c3:b8c6|c1f4:b7b6|d1d2:c8b7|e1c1:d8c7|h2h4:c6e7|h4h5:e7d5|f4g3:c5c4|f3d4:f8e7|g3h4:a7a6|h4e7:d5e7|f1e2:e8c8|d4f3*",
+  "lyPb08VYeval": "||||||||||||||",
+  "lyPb08VYnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "avPsLgQF": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:e7e6|c3e4:f7f5|e4c3:d5c3|d2c3:b8c6|c1f4:b7b6|d1d2:c8b7|e1c1:d8c7|h2h4:c6e7|h4h5:e7d5|f4g3:f8e7|h5h6:g7g6|g3h4*",
+  "avPsLgQFeval": "||||||||||||||",
+  "avPsLgQFnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "Fhpnserw": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:e7e6|c3e4:f7f5|e4c3:d5e7|d2d4:c5d4|f3d4:a7a6|g2g4*",
+  "Fhpnserweval": "||||||||||||||",
+  "Fhpnserwnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "KvY5fkcN": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:e7e6|c3e4:f7f5|e4c3:b8c6|c3d5:e6d5|d2d4:d7d6|c1f4:c5d4|e5d6:f8d6|f4d6:d8d6|d1d2:c8e6|e1c1*",
+  "KvY5fkcNeval": "||||||||||||||",
+  "KvY5fkcNnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "Ek2XGJ8e": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:d5c3|d2c3:b8c6|c1f4:e7e6|d1d2:h7h6|h2h4:d8c7|h4h5:b7b6|f1d3:c8b7|d3e4*",
+  "Ek2XGJ8eeval": "||||||||||||||",
+  "Ek2XGJ8enotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "WED3WYAR": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:d5c3|d2c3:b8c6|c1f4:e7e6|d1d2:h7h6|h2h4:a7a6|h4h5:b7b5|a2a4:b5b4|f1d3:c8b7|c3c4:c6a5|d2e2:d7d5|c4d5:d8d5|b2b3:f8e7|h1h3*",
+  "WED3WYAReval": "||||||||||||||",
+  "WED3WYARnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "U3nIThP5": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:d5c3|d2c3:b8c6|c1f4:d8b6|b2b3:h7h6|h2h4:e7e6|d1d2:b6c7|h4h5*",
+  "U3nIThP5eval": "||||||||||||||",
+  "U3nIThP5notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "yWSlSs9g": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:d5c3|d2c3:b8c6|c1f4:d8b6|b2b3:b6c7|d1d2:e7e6|h2h4:h7h6|h4h5:f8e7|d2e3:b7b6|e1c1:a7a6|f3d2:b6b5|d2e4:c6e5|e3g3*",
+  "yWSlSs9geval": "||||||||||||||",
+  "yWSlSs9gnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "9H4w2yAf": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:d5c3|d2c3:b8c6|c1f4:d8b6|b2b3:b6c7|d1d2:e7e6|h2h4:h7h6|h4h5:f8e7|d2e3:b7b6|e1c1:c8b7|f3d2*",
+  "9H4w2yAfeval": "||||||||||||||",
+  "9H4w2yAfnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "GlXlRfVR": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:d5c3|d2c3:b8c6|c1f4:d8b6|b2b3:b6c7|d1d2:e7e6|h2h4:h7h6|h4h5:b7b6|f1d3:c8b7|d3e4:a7a6|d2e3:b6b5|a2a4*",
+  "GlXlRfVReval": "||||||||||||||",
+  "GlXlRfVRnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "JwtLnVuy": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:d5c3|d2c3:b8c6|c1f4:d8b6|b2b3:b6c7|d1d2:e7e6|h2h4:h7h6|h4h5:b7b6|f1d3:c8b7|d3e4:f8e7|h1h3*",
+  "JwtLnVuyeval": "||||||||||||||",
+  "JwtLnVuynotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "TU8xD82V": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:d5c3|d2c3:b8c6|c1f4:d8b6|b2b3:b6c7|d1d2:e7e6|h2h4:h7h6|h4h5:b7b6|f1d3:c8b7|d3e4:c6e7|e4b7:c7b7|d2e2:e7d5|f4d2:f8e7|c3c4:d5b4|d2f4:b7c7|c2c3:b4c6|e2e4*",
+  "TU8xD82Veval": "||||||||||||||",
+  "TU8xD82Vnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "v5lGoAES": "e2e4:c7c5|g1f3:g8f6|e4e5:f6d5|b1c3:d5c3|d2c3:b8c6|c1f4:d8b6|b2b3:b6c7|d1d2:e7e6|h2h4:h7h6|h4h5:b7b6|f1d3:c8b7|d3e4:e8c8|e1c1:b6b5|c1b1:c6e7|d2e2:b7e4|e2e4:c7c6|e4c6:e7c6|f3d2*",
+  "v5lGoAESeval": "||||||||||||||",
+  "v5lGoAESnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "9lYirSPJ": "e2e4:c7c5|g1f3:d7d6|d2d4:g8f6|b1c3:c5d4|d1d4:b8c6|d4e3:e7e6|b2b3:f8e7|c1b2:e8g8|e1c1:a7a6|h1g1:f6g4|e3e1:b7b5|h2h3:g4e5|f3e5:c6e5|f2f4:d8b6|f4e5:b6g1|e5d6:e7g5|c1b1:g1e3|e1e3:g5e3|e4e5:c8b7|a2a4:b5b4|c3e2*",
+  "9lYirSPJeval": "||||||||||||||",
+  "9lYirSPJnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "5U0HCrqb": "e2e4:c7c5|g1f3:d7d6|d2d4:g8f6|b1c3:c5d4|d1d4:b8c6|d4e3:e7e6|b2b3:f8e7|c1b2:e8g8|e1c1:a7a6|h1g1:b7b5|g2g4:f6d7|g4g5:d8b6|e3b6:d7b6|h2h4:b5b4|c3e2:a6a5|f3h2*",
+  "5U0HCrqbeval": "||||||||||||||",
+  "5U0HCrqbnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "eRuQdIWh": "e2e4:c7c5|g1f3:d7d6|d2d4:g8f6|b1c3:c5d4|d1d4:b8c6|d4e3:e7e6|b2b3:f8e7|c1b2:e8g8|e1c1:a7a6|h1g1:b7b5|g2g4:f6d7|g4g5:d8b6|e3b6:d7b6|h2h4:b5b4|c3e2:e6e5|e2g3:c8g4|f1e2:f7f5|g3f5:g4f5|e4f5:f8f5|g1e1:a8f8|f3d2:d6d5|e2a6*",
+  "eRuQdIWheval": "||||||||||||||",
+  "eRuQdIWhnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "PiEE2V7c": "e2e4:c7c5|g1f3:d7d6|d2d4:g8f6|b1c3:c5d4|d1d4:b8c6|d4e3:e7e6|b2b3:d6d5|e4d5:f6d5|c3d5:d8d5|f1c4:d5a5|c1d2:f8b4|c2c3:b4e7|e1g1:e8g8|b3b4:a5c7|e3e4*",
+  "PiEE2V7ceval": "||||||||||||||",
+  "PiEE2V7cnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "npGSVar8": "e2e4:c7c5|g1f3:d7d6|d2d4:g8f6|b1c3:c5d4|d1d4:b8c6|d4e3:e7e6|b2b3:d6d5|e4d5:f6d5|c3d5:d8d5|f1c4:d5a5|c1d2:f8b4|c2c3:b4e7|e1g1:e8g8|b3b4:a5c7|e3e4*",
+  "npGSVar8eval": "||||||||||||||",
+  "npGSVar8notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "NybpbpQq": "e2e4:c7c5|g1f3:d7d6|d2d4:g8f6|b1c3:c5d4|d1d4:b8c6|d4e3:e7e6|b2b3:d6d5|e4d5:f6d5|c3d5:d8d5|f1c4:d5c5|e3e4:c5a5|c1d2:f8b4|a1d1:b4d2|d1d2:a5a2|e1g1:a2a5|f1d1*",
+  "NybpbpQqeval": "||||||||||||||",
+  "NybpbpQqnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "dp4n82OA": "e2e4:c7c5|g1f3:d7d6|d2d4:g8f6|b1c3:c5d4|d1d4:b8c6|d4e3:d6d5|e4d5:f6d5|c3d5:d8d5|e3b3:d5d8|c1g5*",
+  "dp4n82OAeval": "||||||||||||||",
+  "dp4n82OAnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "2VLIxag4": "e2e4:c7c5|g1f3:d7d6|d2d4:g8f6|b1c3:c5d4|d1d4:b8c6|d4e3:d6d5|e4d5:f6d5|c3d5:d8d5|e3b3:d5b3|a2b3:e7e5|c2c3:f7f6|b3b4:c8e6|f3d2:f8e7|b4b5:c6d8|d2c4:e6c4|f1c4*",
+  "2VLIxag4eval": "||||||||||||||",
+  "2VLIxag4notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "EMcjmVqi": "e2e4:c7c5|g1f3:d7d6|d2d4:g8f6|b1c3:c5d4|d1d4:b8c6|d4e3:d6d5|e4d5:f6d5|c3d5:d8d5|e3b3:d5b3|a2b3:e7e5|c2c3:f7f6|b3b4:c8e6|f3d2:f8e7|b4b5:c6d8|d2c4:d8f7|c4b6:a8b8|a1a7:f7d6|c1e3*",
+  "EMcjmVqieval": "||||||||||||||",
+  "EMcjmVqinotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "zSQnYWYc": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:e7e5|d4e3:g8f6|f1e2:f8e7|e1g1:e8g8|c2c4:b8c6|b1c3:c8e6|b2b3:d8b8|e3d3:f6d7|f3g5:d7c5|d3g3:c6d4|g5e6:f7e6|e2g4:b8e8|b3b4:c5a6|c3b5:a6b4|b5d4:e5d4|g4e6:g8h8|c1d2:b4a6|e6d5*",
+  "zSQnYWYceval": "||||||||||||||",
+  "zSQnYWYcnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "ZRr02Hav": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:c8d7|f1e2*",
+  "ZRr02Haveval": "||||||||||||||",
+  "ZRr02Havnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "LDvfM5BC": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|b1c3:b7b6|c1g5:c8b7|d4e3:b8d7|a1d1:d8c7|f1e1:a7a6|a2a4:a8c8|g5h6*",
+  "LDvfM5BCeval": "||||||||||||||",
+  "LDvfM5BCnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "dVHPcCot": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|b1c3:b7b6|c1g5:h7h6|g5f6:g7f6|e4e5:d6e5|d4e4*",
+  "dVHPcCoteval": "||||||||||||||",
+  "dVHPcCotnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "B8OiSMwd": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|b1c3:d8b6|d4b6:a7b6|c1e3:b8d7|f3d2*",
+  "B8OiSMwdeval": "||||||||||||||",
+  "B8OiSMwdnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "HuCoxnze": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:g8f6|f1e2:g7g6|e1g1:f8g7|b1c3:b8c6|d4e3:c6b4|e3d2:c8e6|f3g5:e6d7|a2a3:b4c6|g5f3:a8c8|f1d1:a7a6|d2f4*",
+  "HuCoxnzeeval": "||||||||||||||",
+  "HuCoxnzenotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "9mVKBjaQ": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|b1c3:c8e6|d4d1:b8c6|f3g5:e6d7|c1e3:h7h6|g5f3:d7e6|d1d2:g8h7|a1d1:a8c8|f3d4:c6d4|e3d4:d8a5|f2f4*",
+  "9mVKBjaQeval": "||||||||||||||",
+  "9mVKBjaQnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "qzs64yre": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|b1c3:c8e6|d4d1:b8c6|f3g5:e6d7|c1e3:h7h6|g5f3:a8c8|d1d2:g8h7|a1d1:a7a6|f1e1:b7b5|e2d3*",
+  "qzs64yreeval": "||||||||||||||",
+  "qzs64yrenotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "vSzmJXgM": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|b1c3:b8d7|f1d1:d8c7|d4c4:c7c4|e2c4:d7c5|d1e1:c8e6|c4e6:c5e6|c3d5:f8e8|c2c3*",
+  "vSzmJXgMeval": "||||||||||||||",
+  "vSzmJXgMnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "m5fMWfit": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|b1c3:b8d7|f1d1:f6g4|d4d2:g4e5|c3d5:e5f3|e2f3:h7h6|a1b1:d7e5|f3e2:c8d7|d2b4*",
+  "m5fMWfiteval": "||||||||||||||",
+  "m5fMWfitnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "aC3jTyvR": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|b1c3:b8d7|f1d1:a7a6|a2a4:d8c7|a4a5:b7b6|a5b6:d7b6|e4e5:d6e5|d4e5:c7e5|f3e5*",
+  "aC3jTyvReval": "||||||||||||||",
+  "aC3jTyvRnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "xpY0qc4g": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|b1c3:b8d7|f1d1:e7e5|d4d6:d8b6|d6a3:b6c5|b2b4:c5c7|c1e3*",
+  "xpY0qc4geval": "||||||||||||||",
+  "xpY0qc4gnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "yfWcHcB1": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:a7a6|f1e2*",
+  "yfWcHcB1eval": "||||||||||||||",
+  "yfWcHcB1notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "LqxhKdSi": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:e7e6|e1g1:f8e7|f1d1:e8g8|c2c4:d8c7|b1c3:a7a6|b2b3:b7b6|c1a3:c8b7|a1c1:f8e8|c3d5:e6d5|c4d5*",
+  "LqxhKdSieval": "||||||||||||||",
+  "LqxhKdSinotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "QZIIgth5": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:e7e6|e1g1:f8e7|f1d1:e8g8|c2c4:d8c7|b1c3:a7a6|b2b3:b7b6|c1a3:c8b7|a1c1:c6b8|e4e5:d6e5|a3e7:c7e7|f3e5:b8d7|e5d7:f6d7|c3d5*",
+  "QZIIgth5eval": "||||||||||||||",
+  "QZIIgth5notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "R78UJrDZ": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:c8g4|e1g1:e7e6|f1d1:d8b8|c2c4:f8e7|b1c3:e8g8|b2b3:e7d8|e3d3:d8b6|c1g5:b8d8|d3d6:d8d6|d1d6:b6a5|g5f6:g7f6|c3a4*",
+  "R78UJrDZeval": "||||||||||||||",
+  "R78UJrDZnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "AOSZFOW6": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:c8g4|e1g1:e7e6|f1d1:f8e7|c2c4:d8c7|b1c3:a7a6|b2b3:e8g8|c1b2:c6e5|a1c1:g4f3|e2f3:c7c5|e3e2:a8c8|g2g3:e5f3|e2f3:c5c6|f3e2:f8e8|d1d2:h7h5|c1d1*",
+  "AOSZFOW6eval": "||||||||||||||",
+  "AOSZFOW6notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "iKJYeZmn": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:c8g4|e1g1:g7g6|f1d1:f6d7|h2h3:g4f3|e2f3:f8g7|c2c3:e8g8|b1a3:a7a6|a3c2:d8c7|g2g3:b7b5|f3g2:a8b8|e3e2:b5b4|c3b4:c6b4|c2b4:b8b4|a1b1:c7c4|e2c4:b4c4|c1g5*",
+  "iKJYeZmneval": "||||||||||||||",
+  "iKJYeZmnnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "UiJzAA98": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:d8b6|e3b6:a7b6|b1c3:c8e6|a2a3:e8g8|a1b1:f8c8|c1e3:f6d7|c3d5:e6d5|e4d5:c6e5|f3e5:d7e5|c2c3*",
+  "UiJzAA98eval": "||||||||||||||",
+  "UiJzAA98notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "IwruygkF": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:d8b6|e3b6:a7b6|b1c3:f6d7|c3d5:a8a4|f3d2:e7e6|d5e3:e8e7|c2c3:f7f5|e2b5:a4a5|a2a4:f5e4|d2e4:d6d5|e4g5:h7h6|g5f3:a5a8|f1e1:e7f7|e3g4*",
+  "IwruygkFeval": "||||||||||||||",
+  "IwruygkFnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "hr34gr90": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8d7|b1c3:a8c8|a2a3:a7a6|e3f4:d8c7|f4h4:c6e5|f3e5:d6e5|c1e3:d7e6|a1c1:f8d8|d1d8:c7d8|f2f3*",
+  "hr34gr90eval": "||||||||||||||",
+  "hr34gr90notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "TA5tpAuL": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8d7|b1c3:a8c8|a2a3:a7a6|e3f4:d8c7|f4h4:c6e5|f3e5:d6e5|c1e3:d7e6|a1c1:b7b5|a3a4:b5b4|c3d5:e6d5|e4d5*",
+  "TA5tpAuLeval": "||||||||||||||",
+  "TA5tpAuLnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "HU9l3OBA": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8d7|b1c3:a8c8|a2a3:a7a6|e3f4:d8c7|f4h4:c6e5|f3e5:d6e5|c1e3:d7e6|a1c1:b7b5|a3a4:e6c4|a4b5:c4e2|c3e2:a6b5|f2f3*",
+  "HU9l3OBAeval": "||||||||||||||",
+  "HU9l3OBAnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "khxzCrR3": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8d7|b1c3:a8c8|a2a3:a7a6|e3f4:d8c7|f4h4:b7b5|c1h6:c6e5|f3e5:d6e5|h6e3:d7e6|f2f3*",
+  "khxzCrR3eval": "||||||||||||||",
+  "khxzCrR3notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "PpiNa2uz": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8d7|b1c3:a8c8|a2a3:a7a6|e3f4:d8c7|f4h4:b7b5|c1h6:f8e8|c3d5:f6d5|e4d5:c6e5|h6g7:g8g7|c2c3:e5f3|e2f3*",
+  "PpiNa2uzeval": "||||||||||||||",
+  "PpiNa2uznotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "cdIVWtQ6": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:d8a5|b1c3:c8d7|a2a3:a8c8|a1b1:a7a6|b2b4:a5c7|c1b2:b7b5|c3d5:f6d5|e4d5:c6e5|f3e5:g7e5|b2e5:d6e5|b1c1:c7b8|c2c4:b5c4|e2c4*",
+  "cdIVWtQ6eval": "||||||||||||||",
+  "cdIVWtQ6notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "e5MRDEmn": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:d8a5|b1c3:c8d7|a2a3:a8c8|a1b1:a7a6|b2b4:a5c7|c1b2:b7b5|c3d5:f6d5|e4d5:c6e5|f3e5:g7e5|b2e5:d6e5|b1c1:c7c3|e3a7*",
+  "e5MRDEmneval": "||||||||||||||",
+  "e5MRDEmnnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "Nye54VpU": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:d8a5|f3g5:e6d7|c1d2:a5c7|a1c1:h7h6|g5f3:d7e6|e2f1:a8c8|d2e1*",
+  "Nye54VpUeval": "||||||||||||||",
+  "Nye54VpUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "m2ijZhgv": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:d8a5|f3g5:e6d7|c1d2:a5c7|a1c1:h7h6|g5f3:d7e6|e2f1:a7a6|d2e1:b7b5|c3d5*",
+  "m2ijZhgveval": "||||||||||||||",
+  "m2ijZhgvnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6cqShFMt": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:d8a5|f3g5:a8c8|g5e6:f7e6|e2c4:c6d8|c4b3:f6d7|c3e2:d7c5|c1d2:a5b5|d2c3:g7c3|e2c3*",
+  "6cqShFMteval": "||||||||||||||",
+  "6cqShFMtnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "2j1A677O": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:f6d7|c3d5:a8c8|c2c3:a7a6|e3f4:d7e5|f4h4:e5f3|e2f3:e6d7|c1g5:f8e8|f3g4:d7g4|h3g4*",
+  "2j1A677Oeval": "||||||||||||||",
+  "2j1A677Onotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "O95conmX": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:f6d7|c3d5:a8c8|c2c3:a7a6|e3f4:d7e5|f4h4:e5f3|e2f3:e6d7|c1g5:f7f6|g5e3:c6e5|f3e2:e5c4|e2c4:c8c4|f2f3*",
+  "O95conmXeval": "||||||||||||||",
+  "O95conmXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "297h9SIP": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:f6d7|c3d5:d7c5|a1b1:a7a5|a2a3:e6d7|b2b3:f7f5|e4f5:d7f5|c1b2:f5c2|b2g7:g8g7|e3c3*",
+  "297h9SIPeval": "||||||||||||||",
+  "297h9SIPnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "EoMuMdwD": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:f6d7|c3d5:d7c5|a1b1:a7a5|a2a3:e6d7|b2b3:f7f5|e4f5:d7f5|c1b2:e7e6|b2g7:g8g7|e3c3:g7g8|d5e3*",
+  "EoMuMdwDeval": "||||||||||||||",
+  "EoMuMdwDnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "OVODRTfr": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:f6d7|c3d5:d7c5|a1b1:a7a5|a2a3:a5a4|e2b5:e6d7|e3e2:a8c8|c1e3:c6b8|e3d4:g7d4|f3d4:d7c6|d5c3*",
+  "OVODRTfreval": "||||||||||||||",
+  "OVODRTfrnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "EExbQxST": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:f6d7|c3d5:d7c5|a1b1:a8c8|b2b4:c5d7|c2c4:e6d5|e4d5:c6e5|f3e5:d7e5|c4c5*",
+  "EExbQxSTeval": "||||||||||||||",
+  "EExbQxSTnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "BbLM9DWc": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:d8c7|a2a3:h7h6|a1b1:f8d8|c3d5:e6d5|e4d5:c6b8|c2c4:b8d7|f3d4:a7a5|b2b3:d8c8|c1b2*",
+  "BbLM9DWceval": "||||||||||||||",
+  "BbLM9DWcnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "HH0c1scC": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:d8c7|a2a3:c6a5|e3g5:e6c4|e2d3:c4d3|d1d3:a5c4|g5h4:a8c8|b2b3:c4e5|f3e5:d6e5|c1e3:f8d8|c3d5:f6d5|d3d5*",
+  "HH0c1scCeval": "||||||||||||||",
+  "HH0c1scCnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "eyqUeKYS": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:d8c7|a2a3:c6a5|e3g5:e6c4|e2d3:c4d3|d1d3:a5c4|g5h4:a8c8|b2b3:c4b6|c1d2:b6d7|d2h6:a7a6|a1d1*",
+  "eyqUeKYSeval": "||||||||||||||",
+  "eyqUeKYSnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Fbr1SWk0": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:d8c7|a2a3:c6a5|e3g5:e6c4|e2d3:c4d3|d1d3:a5c4|g5h4:a8c8|b2b3:c4b6|c1d2:d6d5|e4e5:f6d7|e5e6:f7e6|f3g5*",
+  "Fbr1SWk0eval": "||||||||||||||",
+  "Fbr1SWk0notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Zz2NHGOS": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:d8c7|a2a3:c6a5|e3g5:e6c4|e2d3:c4d3|d1d3:a5c4|g5h4:a8c8|b2b3:c4b6|c1d2:d6d5|e4e5:f6d7|e5e6:g7f6|f3g5:f6g5|e6f7:f8f7|d2g5*",
+  "Zz2NHGOSeval": "||||||||||||||",
+  "Zz2NHGOSnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "uhqJIWGH": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:d8c7|a2a3:a7a6|e3g5:a8c8|g5h4:c6e5|f3e5:d6e5|c1e3:b7b5|a3a4:b5b4|c3d5:e6d5|e4d5:a6a5|a1c1*",
+  "uhqJIWGHeval": "||||||||||||||",
+  "uhqJIWGHnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "PEzXNcqZ": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:d8c7|a2a3:a7a6|e3g5:a8c8|g5h4:c6e5|f3e5:d6e5|c1e3:b7b5|a3a4:b5b4|c3d5:c7b7|e2a6:b7a6|d5e7:g8h8|e7c8:f8c8|d1d2*",
+  "PEzXNcqZeval": "||||||||||||||",
+  "PEzXNcqZnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "bNiH9gY0": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6d7|e5d6:e7d6|d1d6:f8e8|e3f4:c6e5|d6d1:e6c4|f3d4:a7a6|a2a4:c4e2|d4e2:c8c4|f4g3:d8c8|c3d5:c4c2|e2c3*",
+  "bNiH9gY0eval": "||||||||||||||",
+  "bNiH9gY0notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "EiXX4R35": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6d7|e5d6:e7d6|d1d6:f8e8|e3f4:d8a5|c1e3:c6e7|e2b5:g7c3|b5d7:e6d7|d6d7:c3b2|a1d1:e7f5|g2g4:f5e7|d7b7*",
+  "EiXX4R35eval": "||||||||||||||",
+  "EiXX4R35notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "tBPhVMgH": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6d7|e5d6:e7d6|d1d6:f8e8|e3f4:d8a5|c1e3:c6e7|e2b5:g7c3|b5d7:e6d7|d6d7:c3b2|a1d1:a5a2|g2g4:b7b6|d1d4:b2d4|e3d4:e7c6|d4f6*",
+  "tBPhVMgHeval": "||||||||||||||",
+  "tBPhVMgHnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "aeFjAuA6": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6d7|e5d6:e7d6|d1d6:f8e8|e3f4:d8b6|c3b5:a7a6|c1e3:b6d8|b5c3:c6e5|a1d1:e5f3|e2f3:g7e5|f4h6:e5d6|d1d6*",
+  "aeFjAuA6eval": "||||||||||||||",
+  "aeFjAuA6notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ldVXiX4j": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6d7|e5d6:e7d6|d1d6:f8e8|e3f4:d8e7|c1e3:d7e5|a1d1:e5f3|f4f3*",
+  "ldVXiX4jeval": "||||||||||||||",
+  "ldVXiX4jnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "kwa5CxnZ": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6d7|e5d6:e7d6|d1d6:f8e8|e3f4:d8e7|c1e3:g7e5|f3e5:e7d6|e5c6:d6f4|e3f4:c8c6|e2b5:c6c8|c3e4*",
+  "kwa5CxnZeval": "||||||||||||||",
+  "kwa5CxnZnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "7KYCz0Pk": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6d7|e5d6:e7d6|d1d6:f8e8|e3f4:d8e7|c1e3:g7e5|f3e5:e7d6|e5c6:d6c6|a1d1*",
+  "7KYCz0Pkeval": "||||||||||||||",
+  "7KYCz0Pknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "45ZOrjli": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:g7e5|f2f4:e5f6|g5e6:f7e6|e2g4:e8g7|g4e6:g7e6|e3e6:g8g7|c1e3:c6b4|e6b3:b4c6|c3e4*",
+  "45ZOrjlieval": "||||||||||||||",
+  "45ZOrjlinotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "yYZpSMWS": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:g7e5|f2f4:e5c3|g5e6:f7e6|e3e6:g8h8|b2c3*",
+  "yYZpSMWSeval": "||||||||||||||",
+  "yYZpSMWSnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "m1L0e5TO": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:e6f5|e5e6:f5e6|g5e6:f7e6|e3e6:g8h8|e2g4:c8b8|c1e3*",
+  "m1L0e5TOeval": "||||||||||||||",
+  "m1L0e5TOnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "jv9PUF53": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:e5c6|e3e6:g8h8|c1e3:e8c7|e6b3:b7b6|b3a4:d8e8|a4e4*",
+  "jv9PUF53eval": "||||||||||||||",
+  "jv9PUF53notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "otZx82wj": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:e5f7|e3e6:g7c3|b2c3:c8c3|e2d3*",
+  "otZx82wjeval": "||||||||||||||",
+  "otZx82wjnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "KN5J5Bgw": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:e5f7|e3e6:d8b6|g1h2:e8c7|e6b3:b6b3|a2b3:a7a6|e2f3:b7b5|c1e3*",
+  "KN5J5Bgweval": "||||||||||||||",
+  "KN5J5Bgwnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "BwcdCMVi": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:e5d7|e3e6:g8h8|a1b1:g7c3|b2c3:c8c3|c1b2:d8b6|g1h2*",
+  "BwcdCMVieval": "||||||||||||||",
+  "BwcdCMVinotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "YPKtaUav": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:e5d7|e3e6:g8h8|a1b1:d7c5|e6e3:e7e6|b2b4:c5d7|c3b5:c8c2|b5d4:g7d4|e3d4:e6e5|d4e4:d8c7|e2f3*",
+  "YPKtaUaveval": "||||||||||||||",
+  "YPKtaUavnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "YJWGZ1mu": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:e8g7|g2g4:d8c7|c1d2:e5c4|e2c4:c7c4|g4g5:g7f5*",
+  "YJWGZ1mueval": "||||||||||||||",
+  "YJWGZ1munotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "3yF5E1TY": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:e8g7|g2g4:d8c7|c1d2:e5c4|e2c4:c7c4|b2b3:c4c5|e3c5:c8c5|g4g5*",
+  "3yF5E1TYeval": "||||||||||||||",
+  "3yF5E1TYnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "F0AI1WL5": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:e8g7|g2g4:d8c7|c1d2:e5c4|e2c4:c7c4|b2b3:h6f4|b3c4:f4e3|d2e3:c8c4|e3d2*",
+  "F0AI1WL5eval": "||||||||||||||",
+  "F0AI1WL5notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "76yUNg2h": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:e8g7|g2g4:d8c7|c1d2:e5f7|e3a7:d6d5|e2d3*",
+  "76yUNg2heval": "||||||||||||||",
+  "76yUNg2hnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "qHSc1D5c": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:e8g7|g2g4:d8c7|c1d2:a7a6|a1d1:b7b5|e3e4:e5d7|g4g5*",
+  "qHSc1D5ceval": "||||||||||||||",
+  "qHSc1D5cnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "HVhrNr5o": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:e8g7|g2g4:e5c6|g4g5:g7f5|e3e6*",
+  "HVhrNr5oeval": "||||||||||||||",
+  "HVhrNr5onotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "u85lm6c5": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:e8g7|g2g4:e5c4|e2c4:c8c4|g4g5:h6g5|f4g5:f8f1|g1f1*",
+  "u85lm6c5eval": "||||||||||||||",
+  "u85lm6c5notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "lsY9O7bH": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:e8g7|g2g4:a7a6|e3e4:d8b6|g1g2:e5c6|g4g5:d6d5*",
+  "lsY9O7bHeval": "||||||||||||||",
+  "lsY9O7bHnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Q4ZatTtE": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:e8g7|g2g4:a7a6|h3h4:e5c4|e2c4:c8c4|g4g5:h6g5|h4g5:d8c8|c1d2*",
+  "Q4ZatTtEeval": "||||||||||||||",
+  "Q4ZatTtEnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "rFV0svRH": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:e8g7|g2g4:a7a6|h3h4:e5f7|e3h3:g7e8|e2d3:h6g7|h4h5*",
+  "rFV0svRHeval": "||||||||||||||",
+  "rFV0svRHnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "d98jM3lx": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:d8d7|e3a7:e5c6|a7b6:d6d5|c1e3:e8d6|a1d1:d6f5|e2g4:h6g7|c3e4*",
+  "d98jM3lxeval": "||||||||||||||",
+  "d98jM3lxnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ch4QLlzI": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:d8d7|e3a7:e5c6|a7b6:h6g7|c3b5:e8f6|c2c3:f6d5|b6f2:e6e5|f2e1:d5f4|c1f4:e5f4|e2g4*",
+  "ch4QLlzIeval": "||||||||||||||",
+  "ch4QLlzInotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "G8dUZKAD": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:d8d7|e3a7:e5c6|a7b6:h6g7|c3b5:e8f6|c2c3:f6d5|b6f2:e6e5|f2e1:d5f6|c1e3:d6d5|a1d1*",
+  "G8dUZKADeval": "||||||||||||||",
+  "G8dUZKADnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dE1dkI9O": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:d8d7|e3a7:e5c6|a7b6:h6g7|c3b5:e8f6|c2c3:f6d5|b6f2:f8f7|f2h4:c8f8|c1d2*",
+  "dE1dkI9Oeval": "||||||||||||||",
+  "dE1dkI9Onotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "G3cbWwPJ": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:a7a6|h3h4:c8c6|h4h5:e8g7|e3h3*",
+  "G3cbWwPJeval": "||||||||||||||",
+  "G3cbWwPJnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "cieZdu5U": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:a7a6|h3h4:d8d7|e3h3:e5c6|h4h5:h6g7|h5g6:h7g6|e2d3*",
+  "cieZdu5Ueval": "||||||||||||||",
+  "cieZdu5Unotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "7ThoIBDL": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:a7a6|h3h4:d8d7|e3h3:e5f7|h4h5:e8f6|h5g6:h7g6|e2d3:g8g7|f1e1:f7d8|d3g6:g7g6|f4f5:g6f7|h3h6*",
+  "7ThoIBDLeval": "||||||||||||||",
+  "7ThoIBDLnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "1GcxAv7G": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:a7a6|h3h4:d8d7|e3h3:e5f7|h4h5:e8f6|h5g6:h7g6|e2d3:g8g7|f1e1:f7d8|d3g6:f8h8|h3g3:g7f8|c3e2*",
+  "1GcxAv7Geval": "||||||||||||||",
+  "1GcxAv7Gnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "MUseVCJt": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:a7a6|h3h4:d8d7|e3h3:e5f7|h4h5:e8f6|h5g6:h7g6|e2d3:g8g7|f1e1:e6e5|f4e5:d7h3|g2h3*",
+  "MUseVCJteval": "||||||||||||||",
+  "MUseVCJtnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "EHRs5XRQ": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:c8e6|b1c3:a8c8|e4e5:f6e8|f3g5:c6e5|g5e6:f7e6|f2f4:g7h6|d1f1:a7a6|h3h4:d8d7|e3h3:e5f7|h4h5:e8f6|h5g6:h7g6|e2d3:g8g7|f1e1:e6e5|f4e5:d6e5|c1h6:f7h6|h3d7:f6d7|a1d1*",
+  "EHRs5XRQeval": "||||||||||||||",
+  "EHRs5XRQnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "BOMR97cN": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:d8c7|b1c3:a7a6|e3f4:c6b4|e4e5*",
+  "BOMR97cNeval": "||||||||||||||",
+  "BOMR97cNnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "cmrZX9fF": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:d8c7|b1c3:a7a6|e3f4:b7b5|c3d5:f6d5|e4d5:c6e5|c2c3:a8b8|f3e5:g7e5|f4h4:f8e8|a2a3:a6a5|c1f4:e5g7|a1c1:c8d7|e2f1*",
+  "cmrZX9fFeval": "||||||||||||||",
+  "cmrZX9fFnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "TNcVA7wb": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:d8c7|b1c3:a7a6|e3f4:c6e5|f3e5:d6e5|f4h4:b7b5|c1e3:c8b7|f2f3:b5b4|c3b1:c7c2|b1d2:c2b2|e2f1*",
+  "TNcVA7wbeval": "||||||||||||||",
+  "TNcVA7wbnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "TQ85eQmF": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:d8c7|b1c3:a7a6|e3f4:c6e5|f3e5:d6e5|f4h4:b7b5|c1e3:c8b7|f2f3:b5b4|c3b1:a6a5|b1d2:b7a6|h4e1:a6e2|e1e2:c7c2|b2b3:c2c6|a1c1:c6e6|e2c4:e6c4|d2c4*",
+  "TQ85eQmFeval": "||||||||||||||",
+  "TQ85eQmFnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "A0iypG2u": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:d8c7|b1c3:a7a6|e3f4:c6e5|f3e5:d6e5|f4h4:b7b5|c1e3:b5b4|c3d5:f6d5|e4d5:c7c2|e2d3:c2b2|h4e7*",
+  "A0iypG2ueval": "||||||||||||||",
+  "A0iypG2unotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "CCdOOf7b": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:d8c7|b1c3:a7a6|e3f4:c6e5|f3e5:d6e5|f4h4:b7b5|c1e3:b5b4|c3d5:f6d5|e4d5:a6a5|c2c4:b4c3|b2c3*",
+  "CCdOOf7beval": "||||||||||||||",
+  "CCdOOf7bnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "inNhGKAQ": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:d8c7|b1c3:a7a6|e3f4:h7h6|c3d5:f6d5|e4d5:c6e5|c2c3:c8d7|c1e3:e5f3|e2f3:a8c8|e3d4*",
+  "inNhGKAQeval": "||||||||||||||",
+  "inNhGKAQnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "nyqHtMzt": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:d8c7|b1c3:a7a6|e3f4:h7h6|c3d5:f6d5|e4d5:c6e5|c2c3:c8d7|c1e3:d7b5|e2b5:a6b5|f3e5:g7e5|f4b4*",
+  "nyqHtMzteval": "||||||||||||||",
+  "nyqHtMztnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "mBGHIajv": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:a7a6|a2a3:b7b5|e3f4:d7e5|f3e5:c6e5|a3a4:b5b4|c3d5:a6a5|f4h4:f8e8|c2c3:b4c3|b2c3:c8a6|e2b5*",
+  "mBGHIajveval": "||||||||||||||",
+  "mBGHIajvnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "BJhVl8Jn": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:a7a6|a2a3:b7b5|e3f4:d7e5|f3e5:g7e5|f4h4:c6d4|e2d3:e7e6|c1g5:f7f6|g5e3:f6f5|h4d8:f8d8|e4f5:g6f5|f2f4:e5f6|d3e4:d4e2|c3e2:f5e4|c2c3*",
+  "BJhVl8Jneval": "||||||||||||||",
+  "BJhVl8Jnnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "4RrRCkFw": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:a7a6|a2a3:b7b5|e3f4:d7e5|f3e5:g7e5|f4h4:c6d4|e2d3:e7e6|c1g5:f7f6|g5e3:f6f5|h4d8:f8d8|e4f5:d4f5|e3b6*",
+  "4RrRCkFweval": "||||||||||||||",
+  "4RrRCkFwnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "JpUYMt1m": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:d8b6|e3f4:d7e5|c3d5:b6d8|f3e5:c6e5|f4h4*",
+  "JpUYMt1meval": "||||||||||||||",
+  "JpUYMt1mnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "auRuvpQr": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:b7b6|b2b3:c8b7|c1b2:d7c5|a2a3:d8c8|a1b1:c6e5|c3d5:e5f3|e2f3:b7d5|b2g7:g8g7|e4d5:f8e8|d1d4*",
+  "auRuvpQreval": "||||||||||||||",
+  "auRuvpQrnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "bxgpX6OX": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:b7b6|b2b3:c8b7|c1b2:a8c8|a2a3:d7c5|a1b1:c6e5|f3d4:a7a6|f2f4:e5c6|d4c6:c8c6|e4e5*",
+  "bxgpX6OXeval": "||||||||||||||",
+  "bxgpX6OXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Jcr5uJwQ": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:b7b6|b2b3:c8b7|c1b2:a8c8|a2a3:d7c5|a1b1:c6e5|f3d4:a7a6|f2f4:e5d7|b3b4:c5e6|d4e6:f7e6|e2g4:e6e5|f4e5:g7e5|c3a4:e5b2|b1b2*",
+  "Jcr5uJwQeval": "||||||||||||||",
+  "Jcr5uJwQnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "QNskJkba": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:b7b6|b2b3:c8b7|c1b2:a8c8|a2a3:a7a6|a1b1:b6b5|c3d5:g7b2|b1b2:c6e5|f3e5:d7e5|e3d4:e5d7|c2c4:b5c4|e2c4:b7d5|e4d5*",
+  "QNskJkbaeval": "||||||||||||||",
+  "QNskJkbanotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "rQc4wzxX": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:b7b6|b2b3:c8b7|c1b2:a8c8|a2a3:a7a6|a1b1:b6b5|c3d5:g7b2|b1b2:e7e6|d5b4:c6b4|a3b4:d8e7|c2c4*",
+  "rQc4wzxXeval": "||||||||||||||",
+  "rQc4wzxXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "vKHyfIVW": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:b7b6|b2b3:c8b7|c1b2:a8c8|a2a3:a7a6|a1b1:b6b5|c3d5:g7b2|b1b2:e7e6|d5b4:d8c7|b4c6:b7c6|c2c4:b5c4|e2c4:c6e4|e3e4:d6d5|e4e3:d5c4|b3c4:d7c5|b2d2*",
+  "vKHyfIVWeval": "||||||||||||||",
+  "vKHyfIVWnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Z8QUlQzh": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:g7g6|e1g1:f8g7|h2h3:e8g8|f1d1:f6d7|b1c3:b7b6|b2b3:c8b7|c1b2:a8c8|a2a3:a7a6|a1b1:b6b5|c3d5:g7b2|b1b2:e7e6|d5b4:d8c7|b4c6:c7c6|c2c4:b5c4|e2c4:c6e4|e3e4:b7e4|d1d6*",
+  "Z8QUlQzheval": "||||||||||||||",
+  "Z8QUlQzhnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "RruJt7vq": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:d6d5|e4d5:f6d5|e3b3:e7e6|a2a3:f8c5|e1g1:e8g8|f1d1*",
+  "RruJt7vqeval": "||||||||||||||",
+  "RruJt7vqnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "2VNl22BC": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:d6d5|e4d5:d8d5|b1c3:d5a5|e1g1*",
+  "2VNl22BCeval": "||||||||||||||",
+  "2VNl22BCnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Y8Dvnf8Y": "e2e4:c7c5|g1f3:d7d6|d2d4:c5d4|d1d4:b8c6|d4e3:g8f6|f1e2:d6d5|e4d5:d8a5|c1d2:f6d5|e3b3:a5c5|b1c3:e7e6|e1c1:c5f2|c3d5:e6d5|h1e1:f2g2|e2b5:f8e7|e1e7:e8e7|b3d5:g2g4|b5c6:b7c6|d5c5:e7f6|d2c3:f6e6|c5e5*",
+  "Y8Dvnf8Yeval": "||||||||||||||",
+  "Y8Dvnf8Ynotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "7DVQ3q5S": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:b8a6|f1a6:d8a5|b1c3:b7a6|e1g1:a5c5|c1e3:c5a5|e3d4*",
+  "7DVQ3q5Seval": "||||||||||||||",
+  "7DVQ3q5Snotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "neYwpmTO": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:b8a6|f1a6:b7a6|d1d5:a8b8|f3e5:e7e6|d5d6:c8b7|b1c3*",
+  "neYwpmTOeval": "||||||||||||||",
+  "neYwpmTOnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ugmQfqmp": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:g8f6|b1c3:d8a5|e4e5:f6e4|d1d4:e4c3|c1d2:b7b6|d2c3:a5c5|d4c5:b6c5|e1c1*",
+  "ugmQfqmpeval": "||||||||||||||",
+  "ugmQfqmpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "TOXqaMs7": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:d7d6|c1e3:c5c7|e4e5:d6e5|a3b5:c7d8|d1d8:e8d8|e3a7*",
+  "TOXqaMs7eval": "||||||||||||||",
+  "TOXqaMs7notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "HWAJkPCX": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:d7d6|c1e3:c5a5|e4e5:b8c6|a3c4:a5d8|e5d6*",
+  "HWAJkPCXeval": "||||||||||||||",
+  "HWAJkPCXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "0K9iPdjf": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:d7d6|c1e3:c5a5|e4e5:g7e5|f3e5:a5e5|a3b5:b8a6|f1e2*",
+  "0K9iPdjfeval": "||||||||||||||",
+  "0K9iPdjfnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "8WPXnEog": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:g7c3|b2c3:c5c3|d1d2:c3a1|a3b5:b8a6|b5c3:a6c5|f1c4:b7b5|e1g1:b5c4|c1a3:c5e4|c3e4:a1g7|e4d6:e7d6|d2d6*",
+  "8WPXnEogeval": "||||||||||||||",
+  "8WPXnEognotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "G3ORyNcY": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:g7c3|b2c3:c5c3|d1d2:c3a1|a3b5:b8a6|b5c3:a6c5|f1c4:b7b5|e1g1:b5c4|c1a3:c5e4|c3e4:a1g7|e4d6:e8f8|d2d5:a8b8|d5a5:c8a6|f3e5*",
+  "G3ORyNcYeval": "||||||||||||||",
+  "G3ORyNcYnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Pggl9Ooo": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:b7b6|c1e3:c5c6|f1c4:c8b7|e1g1*",
+  "Pggl9Oooeval": "||||||||||||||",
+  "Pggl9Ooonotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "P6WLGyvv": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:b7b6|c1e3:c5c7|a3b5:c7d8|d1d5:b8c6|f1c4*",
+  "P6WLGyvveval": "||||||||||||||",
+  "P6WLGyvvnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "MDVWm1Ha": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:b7b6|c1e3:c5c7|a3b5:c7c6|d1b3:a7a6|f1c4:e7e6|f3d4:g7d4|b5d4:c6e4|c4e2*",
+  "MDVWm1Haeval": "||||||||||||||",
+  "MDVWm1Hanotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "GO5sT5Qj": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:a7a6|a3c4:c5c7|c1e3*",
+  "GO5sT5Qjeval": "||||||||||||||",
+  "GO5sT5Qjnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dtYa7uuz": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:g8f6|a3b5:e8g8|c1e3:c5c6|f3d4:c6e4|b5c7:b7b6|d1f3:e4f3|d4f3:c8b7|c7a8:b7a8|f1e2*",
+  "dtYa7uuzeval": "||||||||||||||",
+  "dtYa7uuznotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "GldrMOQi": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:g8f6|a3b5:b7b6|b2b4:c5c6|e4e5:f6d5|d1d5:c6d5|b5c7:e8d8|c7d5*",
+  "GldrMOQieval": "||||||||||||||",
+  "GldrMOQinotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Rme3fWIX": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:g8f6|a3b5:b7b6|b2b4:c5c6|e4e5:f6e4|f3d4:c6b7|f1d3:g7e5|d1e2:d7d5|f2f3:e5d4|c3d4:a7a6|f3e4:a6b5|e1g1*",
+  "Rme3fWIXeval": "||||||||||||||",
+  "Rme3fWIXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "nBWhMnY0": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:g8f6|a3b5:b7b6|b2b4:c5c6|e4e5:f6e4|f3d4:c6b7|f1d3:d7d5|f2f3:a7a6|f3e4:d5e4|d3c2:a6b5|e1g1:e8g8|d1e2:b7c7|c2e4:a8a4|c1d2*",
+  "nBWhMnY0eval": "||||||||||||||",
+  "nBWhMnY0notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "rwS520FF": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:g8f6|a3b5:b8a6|e4e5:f6g4|d1d4:c5d4|c3d4*",
+  "rwS520FFeval": "||||||||||||||",
+  "rwS520FFnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "qbBTJtjY": "e2e4:c7c5|g1f3:g7g6|d2d4:f8g7|d4c5:d8a5|c2c3:a5c5|b1a3:g8f6|a3b5:f6g4|f3d4:a7a6|d1g4:a6b5|d4b5:d7d6|g4d1*",
+  "qbBTJtjYeval": "||||||||||||||",
+  "qbBTJtjYnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "72YHGRHD": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:f8g7|e4e5:f6g8|c1f4:g8h6|h2h3:e8g8|e1c1:a7a6|g2g4:a8b8|a4e4*",
+  "72YHGRHDeval": "||||||||||||||",
+  "72YHGRHDnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "w7NnqjB1": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:f8g7|e4e5:f6g8|c1f4:g8h6|h2h3:e8g8|e1c1:d8a5|a4a5:c6a5|c3d5:a5c6|f4g5:f7f6|e5f6:e7f6|g5f4*",
+  "w7NnqjB1eval": "||||||||||||||",
+  "w7NnqjB1notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dPXXQ3oU": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:f8g7|e4e5:f6g8|c1f4:f7f6|e5f6:g8f6|e1c1:e8g8|f1c4:g8h8|h1e1:d8a5|a4a5:c6a5|c4b3:a5b3|a2b3:b7b6|f4g3:f6g8|c3d5*",
+  "dPXXQ3oUeval": "||||||||||||||",
+  "dPXXQ3oUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Uc53QoVD": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d5|e4d5:f6d5|f1b5:d5c3|b5c6:b7c6|a4c6:c8d7|c6c3:f7f6|e1g1*",
+  "Uc53QoVDeval": "||||||||||||||",
+  "Uc53QoVDnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "PHaC5faQ": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:f6g4|h2h3:g4e5|f3e5:c6e5|c1e3:f8g7|e1c1:e8g8|c3d5:e5c6|h3h4*",
+  "PHaC5faQeval": "||||||||||||||",
+  "PHaC5faQnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "evENEjGl": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d8c7|c1g5:f8g7|e1c1:e8g8|c3d5:c7d8|g5f6:e7f6|h2h4*",
+  "evENEjGleval": "||||||||||||||",
+  "evENEjGlnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "7DQJC8g2": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:f6g4|e5d6:d8d6|c3b5:d6b8|c1f4:e7e5|f4g3:f8g7|a4a3:g7f8|a3b3:c8e6|f1c4:c6a5|b3a4:a5c4|h2h3:c4b6|b5c7:e8e7|a4b4:e7d7|b4d2:d7c7|f3e5:f8d6|d2c3:c7d8|e5f7:e6f7|e1c1*",
+  "7DQJC8g2eval": "||||||||||||||",
+  "7DQJC8g2notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "GfCnXMKZ": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:f6g4|e5d6:d8d6|c3b5:d6b8|c1f4:e7e5|f4g3:f8g7|a4a3:g7f8|a3b3:c8e6|f1c4:c6a5|b3a4:a5c4|h2h3:f8c5|b5c7:e8e7|c7e6:b7b5|a4b3:c5f2|g3f2:g4f2|h1f1:e7e6|f1f2:f7f6|e1c1*",
+  "GfCnXMKZeval": "||||||||||||||",
+  "GfCnXMKZnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "7SiCD1yI": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:f6g4|e5d6:d8d6|c3b5:d6b4|a4b4:c6b4|f1c4:b4c2|e1e2:c2a1|b5c7:e8d8|c7a8:c8d7|c1f4:a1c2|h1c1:c2b4|f3g5*",
+  "7SiCD1yIeval": "||||||||||||||",
+  "7SiCD1yInotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "MqtfwVP1": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:f6g4|e5d6:f8g7|h2h3:g4e5|f3e5:g7e5|d6e7:d8e7|c1e3:c8e6|f1c4:e8g8|e1g1:e5c3|b2c3:e6c4|a4c4:f8e8|a1d1*",
+  "MqtfwVP1eval": "||||||||||||||",
+  "MqtfwVP1notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ngpYjMur": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:f6g4|e5d6:d8b6|c3d1:e7d6|d1e3:g4f6|b2b3:d6d5|f1b5:f8g7|c1b2:e8g8|e1g1*",
+  "ngpYjMureval": "||||||||||||||",
+  "ngpYjMurnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "EqxUHOKe": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:f6d7|e5d6:d7b6|a4h4:d8d6|c3b5:d6d8|c1f4*",
+  "EqxUHOKeeval": "||||||||||||||",
+  "EqxUHOKenotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xUWVZjWY": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:f6d7|e5d6:d7b6|a4h4:e7d6|h4d8:c6d8|c1e3:f8g7|c3b5:e8g8|e1c1*",
+  "xUWVZjWYeval": "||||||||||||||",
+  "xUWVZjWYnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "t0VLJeiO": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:d8d4|e5c6:d4a4|c3a4:b7c6|b2b3:c8f5|f1a6:a8d8|a6b7:d8d6|e1g1:e7e5|c1b2:f6d7|a1d1:f7f6|d1d6:f8d6|b7c6:f5c2|a4c3*",
+  "t0VLJeiOeval": "||||||||||||||",
+  "t0VLJeiOnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "29Z7zoDn": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:d8d4|e5c6:d4a4|c3a4:b7c6|b2b3:c8f5|f1a6:a8b8|c1f4:b8b4|c2c4:f8g7|a1d1:e8g8|f4d2:b4b8|e1g1:f6d7|f1e1*",
+  "29Z7zoDneval": "||||||||||||||",
+  "29Z7zoDnnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "wncz4g3Q": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:d8d4|e5c6:d4a4|c3a4:b7c6|b2b3:f8g7|c1b2:e8g8|f1d3:f6g4|b2g7:g8g7|h2h3:g4e5|d3e2:c8f5|e1c1*",
+  "wncz4g3Qeval": "||||||||||||||",
+  "wncz4g3Qnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "V3UaSebV": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:f8g7|f1b5:e8g8|e5c6:b7c6|b5c6:a8b8|e1g1:c8f5|c6b5:d8c7|c1f4:e7e5|f4e3:f5c2|a4a7:b8b7|a7a6:e5e4|e3f4:c7f4|a6b7:f6g4|g2g3:f4h6|h2h4:e4e3|f2f4:g7d4|b5e2:g4f2|a2a4*",
+  "V3UaSebVeval": "||||||||||||||",
+  "V3UaSebVnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "7MegJvH9": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:f8g7|f1b5:e8g8|e5c6:b7c6|b5c6:a8b8|e1g1:c8f5|c6b5:f6d5|c3d5:d8d5|b5c4:f5d7|c4d5:d7a4|c2c3*",
+  "7MegJvH9eval": "||||||||||||||",
+  "7MegJvH9notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "cxGswIaJ": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:f8g7|f1b5:e8g8|e5c6:b7c6|b5c6:a8b8|e1g1:d8c7|f1e1:b8b6|c6f3:c8b7|f3e2:f8c8|e2f1:e7e6|a4h4:h7h5|c1f4:c7c6|f4e5:b6b2|c3d1*",
+  "cxGswIaJeval": "||||||||||||||",
+  "cxGswIaJnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "orHJWoNC": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:f8g7|f1b5:e8g8|e5c6:b7c6|b5c6:a8b8|e1g1:d8c7|f1e1:b8b6|c6f3:c8b7|f3e2:f8c8|e2f1:e7e6|a4h4:h7h5|c1f4:c7c6|f4e5:f6d5|e5g7:g8g7|c3d5:e6d5|b2b3*",
+  "orHJWoNCeval": "||||||||||||||",
+  "orHJWoNCnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Al9L2y2k": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:f8g7|f1b5:e8g8|e5c6:b7c6|b5c6:c8d7|e1g1:a8c8|c6d7:d8d7|a4a6:c8c6|a6e2:f8c8|f1d1:d7b7|a2a4:e7e6|e2f3:f6d7|a1a3*",
+  "Al9L2y2keval": "||||||||||||||",
+  "Al9L2y2knotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "nVwCKp6s": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:f8g7|f1b5:e8g8|e5c6:b7c6|b5c6:c8d7|e1g1:a8c8|c6d7:d8d7|a4a6:c8c6|a6e2:d7b7|e2f3:f8c8|a2a4:c6c7|a4a5:b7f3|g2f3*",
+  "nVwCKp6seval": "||||||||||||||",
+  "nVwCKp6snotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "8SXT5QWw": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:f8g7|f1b5:e8g8|e5c6:b7c6|b5c6:c8d7|e1g1:a8c8|c6d7:d8d7|a4a6:c8b8|f1d1:d7f5|a6a7:f5c2|a7d4:f8c8|a2a4*",
+  "8SXT5QWweval": "||||||||||||||",
+  "8SXT5QWwnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "gGDEIJvQ": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:f6d7|f1b5:f8g7|e1g1:e8g8|f1d1:g7c3|b2c3:d8c7|c1f4:e7e5|f4h6:f8e8|a4h4*",
+  "gGDEIJvQeval": "||||||||||||||",
+  "gGDEIJvQnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Cup8fC2P": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:f6d7|f1b5:f8g7|e1g1:e8g8|f1d1:d8c8|c1e3:a7a6|b5c6:b7c6|e3d4:e7e5|d4e3:f7f5|d1d6:f5f4|d6c6:c8b7|e3d2:a8d8|a4e4:b7b2|a1b1:b2a3|e4c4:g8h8|c3e4*",
+  "Cup8fC2Peval": "||||||||||||||",
+  "Cup8fC2Pnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "OMCjOPia": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:f6d7|f1b5:f8g7|e1g1:e8g8|f1d1:d8c8|c1e3:a7a6|b5c6:b7c6|e3d4:e7e5|d4e3:f7f5|d1d6:f5f4|d6c6:c8b7|e3d2:a8d8|a4e4:g8h8|b2b3*",
+  "OMCjOPiaeval": "||||||||||||||",
+  "OMCjOPianotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "mwFax5Wh": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:f6d7|f1b5:f8g7|e1g1:e8g8|f1d1:d8c8|c1e3:a7a6|b5c6:b7c6|e3d4:d7f6|a4c4*",
+  "mwFax5Wheval": "||||||||||||||",
+  "mwFax5Whnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "B61xj7f9": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:f6d7|f1b5:f8g7|e1g1:e8g8|f1d1:d8c8|c1e3:a7a6|b5c6:b7c6|e3d4:c8c7|d4g7:g8g7|h2h3*",
+  "B61xj7f9eval": "||||||||||||||",
+  "B61xj7f9notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "R2Da4kLi": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:d8d7|c1e3:f8g7|a1d1:d7c7|g2g3:e8g8|f1g2:a7a6|e1g1:b7b5|a4h4:f8d8|a2a4:b5a4|h4a4*",
+  "R2Da4kLieval": "||||||||||||||",
+  "R2Da4kLinotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VKx6BU5n": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:d8d7|c1e3:f8g7|a1d1:d7c7|g2g3:e8g8|f1g2:a7a6|e1g1:b7b5|a4h4:f8d8|a2a4:a8b8|d1d8:c6d8|a4b5:a6b5|h4b4*",
+  "VKx6BU5neval": "||||||||||||||",
+  "VKx6BU5nnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ftBu6IAE": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:d8d7|c1e3:f8g7|a1d1:d7g4|a4b3:g4b4|f1e2:e8g8|e2f3:b4b3|c2b3:f8d8|e1e2:g8f8|c3a4:d8c8|g2g4*",
+  "ftBu6IAEeval": "||||||||||||||",
+  "ftBu6IAEnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xPglO4n1": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:d8d7|c1e3:f8g7|a1d1:d7g4|a4b3:e8g8|h2h3:g4b4|f1e2:b4b3|c2b3:f8d8|e2f3:a7a6|e1e2:e7e5|f3c6:b7c6|e3b6:d8d7|d1d7:f6d7|b6e3:f7f5|h1d1:d7f6|e3g5*",
+  "xPglO4n1eval": "||||||||||||||",
+  "xPglO4n1notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "HXe7OfOU": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:d8d7|c1e3:f8g7|a1d1:d7c8|f1e2:e8g8|e1g1:a7a6|a4b3:a8b8|a2a4:e7e6|h2h3:c6a5|b3b4:a5c6|b4c4:f8d8|d1d8:c8d8|f1d1:d8a5|c4b3:a5c7|e2f1*",
+  "HXe7OfOUeval": "||||||||||||||",
+  "HXe7OfOUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "A7iPFLal": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:d8d7|c1e3:f8g7|a1d1:d7c8|f1e2:e8g8|e1g1:a7a6|a4b3:c6a5|b3b6:a5c4|e2c4:c8c4|e3c5:f8e8|f1e1:e7e5|h2h3*",
+  "A7iPFLaleval": "||||||||||||||",
+  "A7iPFLalnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "61S7HNIu": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:d8d7|c1e3:f8g7|a1d1:d7c8|f1e2:e8g8|e1g1:a7a6|a4b3:b7b5|a2a4:b5b4|c3d5:f6d5|d1d5*",
+  "61S7HNIueval": "||||||||||||||",
+  "61S7HNIunotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "CDZqfFG1": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:d8d7|c1e3:f8g7|a1d1:d7c8|f1e2:e8g8|e1g1:a7a6|a4b3:b7b5|a2a4:c6a5|b3b4:a5c6|b4h4:b5b4|c3e4:f6e4|h4e4:g7b2|e2f3*",
+  "CDZqfFG1eval": "||||||||||||||",
+  "CDZqfFG1notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "7Rah0qby": "e2e4:c7c5|g1f3:g7g6|d2d4:c5d4|d1d4:g8f6|b1c3:b8c6|d4a4:d7d6|e4e5:d6e5|f3e5:c8d7|e5d7:d8d7|c1e3:f8g7|a1d1:d7c8|f1e2:e8g8|e1g1:a7a6|a4b3:b7b5|a2a4:c6a5|b3b4:a5c6|b4h4:b5b4|c3e4:a6a5|b2b3:c8f5|e4g3:f5e5|e2b5*",
+  "7Rah0qbyeval": "||||||||||||||",
+  "7Rah0qbynotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "AZQxDIgW": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c5d4|d1d4:g8f6|e4e5:f6d5|e1g1:f8g7|d4h4:e8g8|c2c4:d5b4|b1c3*",
+  "AZQxDIgWeval": "||||||||||||||",
+  "AZQxDIgWnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "DmgBfPwP": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c5d4|d1d4:g8f6|e4e5:f6d5|e1g1:f8g7|d4h4:e8g8|c2c4:d5b6|c1h6:f7f6|h6g7:g8g7|c4c5:b6d5|b1c3:d5c3|b2c3*",
+  "DmgBfPwPeval": "||||||||||||||",
+  "DmgBfPwPnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VkhbSxyC": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c5d4|d1d4:g8f6|e4e5:f6d5|e1g1:f8g7|d4h4:h7h6|c2c4:d5c7|b1c3:c7e6|f1e1:a8b8|b2b3:d7d5|c4d5:c6d5|c1e3*",
+  "VkhbSxyCeval": "||||||||||||||",
+  "VkhbSxyCnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "zXFx5OJk": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c5d4|d1d4:g8f6|e4e5:f6d5|e1g1:f8g7|d4h4:h7h6|c2c4:d5c7|b1c3:c7e6|f1e1:g6g5|h4g3:c8a6|b2b3:d7d5|h2h4:d5c4|h4g5:h6g5|c3e4*",
+  "zXFx5OJkeval": "||||||||||||||",
+  "zXFx5OJknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "AkzW3Ag3": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c5d4|d1d4:g8f6|e4e5:f6d5|e1g1:f8g7|d4h4:h7h6|c2c4:d5c7|b1c3:c7e6|f1e1:d7d6|b2b3:c8b7:c8b7|c1b2:e8g8|a1d1:f8e8|b2a1:a8c8|h4g4:d6d5|f3h4:d5d4|h4g6:d8c7|d1d3*",
+  "AkzW3Ag3eval": "||||||||||||||",
+  "AkzW3Ag3notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ZYYjWdgq": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c5d4|d1d4:g8f6|e4e5:f6d5|e1g1:f8g7|d4h4:h7h6|c2c4:d5b4|b1c3:c8b7|c4c5:a7a5|f1d1:b4d5|c1d2:b7a6|c3d5:c6d5|d1e1:d8c7|a1c1*",
+  "ZYYjWdgqeval": "||||||||||||||",
+  "ZYYjWdgqnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "gMP4wfc2": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c5d4|d1d4:g8f6|e4e5:f6d5|e1g1:f8g7|d4h4:h7h6|c2c4:d5b4|b1c3:b4d3|h4e4:d3c1|a1c1:e8g8|f1d1*",
+  "gMP4wfc2eval": "||||||||||||||",
+  "gMP4wfc2notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "M6lprU2P": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c5d4|d1d4:f7f6|e1g1:d7d6|c2c4:c6c5|d4d3:f8g7|b1c3:g8h6|f3h4:h6f7|f2f4:e8g8|f4f5:g6g5|h4f3:a8b8|h2h3:e7e6|b2b3:d8d7|f5e6:d7e6|c3d5*",
+  "M6lprU2Peval": "||||||||||||||",
+  "M6lprU2Pnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "obO8zkCZ": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c5d4|d1d4:f7f6|e1g1:d7d6|c2c4:c6c5|d4d3:f8g7|b1c3:g8h6|f3h4:h6f7|f2f4:c8b7|f4f5:g6g5|h4f3:h7h5|c3d5*",
+  "obO8zkCZeval": "||||||||||||||",
+  "obO8zkCZnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "1Onwm8Sy": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c5d4|d1d4:f7f6|e1g1:d7d6|c2c4:c6c5|d4d3:f8g7|b1c3:g8h6|f3h4:a8b8|b2b3:e8g8|f1e1:h6f7|f2f4:f6f5|e4f5:g6f5|c1b2:e7e6|h4f3:f8e8|e1e3*",
+  "1Onwm8Syeval": "||||||||||||||",
+  "1Onwm8Synotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "4C4DMQ8j": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:a5c5|c2c4:a6c4|d1c2:d7d5|b2b3*",
+  "4C4DMQ8jeval": "||||||||||||||",
+  "4C4DMQ8jnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "n8OTnhkb": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:a5c5|c2c4:f8g7|e1g1:a6c4|d1c2:d7d5|e4e5:c5b5|d2c4:b5c4|c2c4:d5c4|c1e3:e7e6|f1c1:g8e7|c1c4*",
+  "n8OTnhkbeval": "||||||||||||||",
+  "n8OTnhkbnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "zMBwc53s": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:a5c5|c2c4:f8g7|e1g1:d7d6|d1a4:c5b6|d2b3:g8f6|e4e5:d6e5|c1e3:b6b7|b3c5*",
+  "zMBwc53seval": "||||||||||||||",
+  "zMBwc53snotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "yoivLUtr": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:a5c5|c2c4:f8g7|e1g1:d7d6|d1a4:c5b6|d2b3:g8f6|e4e5:f6e4|f1e1:e4f2|c1e3*",
+  "yoivLUtreval": "||||||||||||||",
+  "yoivLUtrnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "0AojFpca": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:a5c5|c2c4:f8g7|e1g1:d7d6|d1a4:c5b6|d2b3:g8f6|e4e5:f6e4|f1e1:b6f2|g1h1:a6b7|e1e4*",
+  "0AojFpcaeval": "||||||||||||||",
+  "0AojFpcanotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dBdkYlNQ": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:a5c5|c2c4:f8g7|e1g1:d7d6|d1a4:c5b6|d2b3:g8f6|e4e5:f6e4|f1e1:e4c5|b3c5:d6c5|c1e3*",
+  "dBdkYlNQeval": "||||||||||||||",
+  "dBdkYlNQnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "sE32Xnyd": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:a5c5|c2c4:f8g7|e1g1:c5b6|a1b1:d7d6|b2b4:g8f6|e4e5:d6e5|f3e5:e8g8|f1e1:a8d8|d1a4:a6b7|d2f3*",
+  "sE32Xnydeval": "||||||||||||||",
+  "sE32Xnydnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "qy8nArj6": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|c2c4:a6c4*",
+  "qy8nArj6eval": "||||||||||||||",
+  "qy8nArj6notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "UDRb9cj8": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:d7d5|e4e5:f6g4|e1g1:f8g7|c1b2:d5c4|b2d4:b6c7|f1e1:a8d8|d4c3:e8g8|h2h3:g4h6|d1e2:d8d3|d2e4*",
+  "UDRb9cj8eval": "||||||||||||||",
+  "UDRb9cj8notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Vday2AG7": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:d7d5|e4e5:f6e4|e1g1:e4d2|c1d2:a6c4|e5e6:f7e6|d2e3:b6c7|e3d4:c4f1|d4h8*",
+  "Vday2AG7eval": "||||||||||||||",
+  "Vday2AG7notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "XhUCcPcA": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:d7d5|e4e5:f6e4|e1g1:e4d2|c1d2:a6c4|e5e6:c4f1|e6f7:e8f7|f3e5:f7e8|d1f3:f1b5|f3f7:e8d8|f7e6:d8c7|e6d7:c7b8|d2f4*",
+  "XhUCcPcAeval": "||||||||||||||",
+  "XhUCcPcAnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "cAJjjwXr": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:d7d5|e4e5:f6e4|e1g1:f8g7|c4c5:b6c7|f1e1:g7e5|f3e5:c7e5|d2b3:a6c4|b3d4*",
+  "cAJjjwXreval": "||||||||||||||",
+  "cAJjjwXrnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "FvroSxBn": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:d7d5|e4e5:f6e4|e1g1:f8g7|c4c5:b6c7|f1e1:e4c3|d1c2:c3e2|g1h1:e2c1|a1c1*",
+  "FvroSxBneval": "||||||||||||||",
+  "FvroSxBnnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "XYmhzLz8": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:d7d5|e4e5:f6e4|e1g1:f8g7|c4c5:b6c7|f1e1:e4c3|d1c2:c3e2|g1h1:e2f4|d2b3:f4d3|e1e3:d3c1|a1c1:g7h6|e3e1:h6c1|c2c1*",
+  "XYmhzLz8eval": "||||||||||||||",
+  "XYmhzLz8notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "MiAK2oHq": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:d7d5|e4e5:f6e4|e1g1:e4c3|d1c2:c3e2|g1h1:e2c1|a1c1*",
+  "MiAK2oHqeval": "||||||||||||||",
+  "MiAK2oHqnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Am0A8vCb": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:d7d5|e4e5:f6e4|e1g1:e4c3|d1c2:c3e2|g1h1:f8g7|c1b2:e2f4|b2d4:b6b7|d4e3:f4e6|f1e1:e8g8|c4d5:c6d5|d2b3*",
+  "Am0A8vCbeval": "||||||||||||||",
+  "Am0A8vCbnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "kn7KawzQ": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:d7d5|e4e5:f6d7|c1b2:e8g8|a1c1:c6c5|f1e1:d5c4|d2c4:a6c4|c1c4:a8d8|d1c2:c5b4|c4b4*",
+  "kn7KawzQeval": "||||||||||||||",
+  "kn7KawzQnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "cEkIHe9T": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:d7d5|e4e5:f6d7|c1b2:e8g8|a1c1:c6c5|f1e1:c5b4|c4d5:b4a3|b2a3*",
+  "cEkIHe9Teval": "||||||||||||||",
+  "cEkIHe9Tnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "PcA8ZVIV": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:d7d5|e4e5:f6d7|c1b2:e8g8|a1c1:c6c5|f1e1:d5d4|d2b3:f8d8|b4c5:d7c5|b3c5:b6c5|b2d4:c5c7|c4c5:a6b7|e5e6:f7f6|d1e2*",
+  "PcA8ZVIVeval": "||||||||||||||",
+  "PcA8ZVIVnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "JguNHeJK": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:d7d5|e4e5:f6d7|c1b2:e8g8|a1c1:b6b7|f1e1:a6c4|d2c4:d5c4|c1c4:a7a5|c4d4:d7c5|b2c3:a5b4|c3b4:b7a7|h2h4*",
+  "JguNHeJKeval": "||||||||||||||",
+  "JguNHeJKnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "atTtsHeI": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:d7d5|e4e5:f6d7|c1b2:e8g8|a1c1:b6b7|f1e1:a6c4|d2c4:d5c4|c1c4:a7a5|c4d4:d7b6|e5e6:g7d4|e6f7:f8f7|d1d4*",
+  "atTtsHeIeval": "||||||||||||||",
+  "atTtsHeInotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "79hWN7rB": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:d7d5|e4e5:f6d7|c1b2:e8g8|a1c1:b6b7|f1e1:a6c4|d2c4:d5c4|c1c4:a7a5|c4d4:d7b6|e5e6:b6d5|e6f7:f8f7|f3g5:f7f5|g5e6*",
+  "79hWN7rBeval": "||||||||||||||",
+  "79hWN7rBnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "INWMltXK": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:d7d5|e4e5:f6d7|c1b2:e8g8|a1c1:b6b7|f1e1:a6c4|d2c4:d5c4|c1c4:a7a5|c4d4:d7b6|e5e6:f7f6|h2h4*",
+  "INWMltXKeval": "||||||||||||||",
+  "INWMltXKnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "y6ceOxg0": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:d7d5|e4e5:f6g4|c1b2:d5c4|b2d4:b6c7|f1e1:a8d8|d4c3:e8g8|h2h3:g4h6|d1e2:d8d3|d2e4:h6f5|a1c1*",
+  "y6ceOxg0eval": "||||||||||||||",
+  "y6ceOxg0notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "CpoJVoGh": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:d7d5|e4e5:f6g4|c1b2:d5c4|b2d4:b6c7|f1e1:e8g8|d1a4:a6b5|a4c2:f8d8|d2c4*",
+  "CpoJVoGheval": "||||||||||||||",
+  "CpoJVoGhnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "bFJ4NSsL": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:d7d5|e4e5:f6e4|c4c5:b6c7|f1e1:e4c3|d1c2:c3e2|g1h1:e2c1|a1c1*",
+  "bFJ4NSsLeval": "||||||||||||||",
+  "bFJ4NSsLnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "OUUERzKs": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:d7d5|e4e5:f6e4|c4c5:b6c7|f1e1:e4c3|d1c2:c3e2|g1h1:a8d8|c1b2:d5d4|c2e4:d4d3|a1d1:e8g8|d2c4:a6c8|h2h3*",
+  "OUUERzKseval": "||||||||||||||",
+  "OUUERzKsnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "c9uAAzaQ": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:f6e4|d2e4:g7a1|c1e3*",
+  "c9uAAzaQeval": "||||||||||||||",
+  "c9uAAzaQnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "EMmlPI3w": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:c8a6|d4c5:d8a5|b1d2:g8f6|a2a3:a5c5|b2b4:c5b6|c2c4:f8g7|e1g1:e8g8|c1b2:d7d6|d1c2*",
+  "EMmlPI3weval": "||||||||||||||",
+  "EMmlPI3wnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "X4oIiX35": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:c8a6|b1d2:d8a5|a1b1*",
+  "X4oIiX35eval": "||||||||||||||",
+  "X4oIiX35notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "bK0Q32uu": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:c8a6|b1d2:d7d5|c5d6:e7d6|c2c4:g8f6|b2b3:f6e4|d2e4:g7a1|c1g5:d8a5|g5d2:a5a2|e1g1*",
+  "bK0Q32uueval": "||||||||||||||",
+  "bK0Q32uunotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "T8EGGfQB": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:c8a6|b1d2:d7d5|c5d6:e7d6|c2c4:g8f6|b2b3:e8g8|e1g1:f6e4|d2e4:g7a1|f3d4:a1d4|d1d4:f7f6|c1h6:f8f7|e4d6:f7d7|f1d1*",
+  "T8EGGfQBeval": "||||||||||||||",
+  "T8EGGfQBnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "b6aQc6Wf": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:c8a6|b1d2:d7d5|c5d6:e7d6|c2c4:g8f6|b2b3:e8g8|e1g1:f8e8|d1c2:d6d5|e4d5:c6d5|c1b2:d5c4|d2c4:a8c8|f1e1*",
+  "b6aQc6Wfeval": "||||||||||||||",
+  "b6aQc6Wfnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "9y28rd1S": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a8b8|a2a3:a5c5|b2b4:c5b6|c2c4:g8h6|e1g1:e8g8|d1c2:d7d6|d2b3:b6c7|f1e1:h6g4|h2h3:g4e5|f3e5:g7e5|c1e3:a6c8|b1c1:c6c5|b4c5:d6c5|b3c5*",
+  "9y28rd1Seval": "||||||||||||||",
+  "9y28rd1Snotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "LtKYhB3v": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5a2|b2b4:a2e6|f3g5:e6f6|c1b2:e7e5|g5f3:f6e6|b1a1:a6b7|d1e2:g8h6|d2c4*",
+  "LtKYhB3veval": "||||||||||||||",
+  "LtKYhB3vnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dLQda1C6": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5a2|b2b4:a8b8|b1b3:a6b5|b3a3:a2e6|c2c4*",
+  "dLQda1C6eval": "||||||||||||||",
+  "dLQda1C6notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "k94HRk4r": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5a2|b2b4:a6b5|b1b3:g8f6|b3a3:a2e6|c2c4:f6e4|d1e2*",
+  "k94HRk4reval": "||||||||||||||",
+  "k94HRk4rnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "na9OUrxM": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5a2|b2b4:a6c4|e4e5:a2a6|d2c4:a6c4|d1e2:c4e2|e1e2:g8h6|h1d1:h6g4|c1b2*",
+  "na9OUrxMeval": "||||||||||||||",
+  "na9OUrxMnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "NqnRZ9ZK": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5a2|b2b4:a6c4|e4e5:g8h6|b1b2:a2a6|d2c4:a6c4|d1e2:c4e2|e1e2:h6g4|b2a2:g4e5|c1b2:f7f6|f3d2:e8g8|h1a1:a8b8|b2c3*",
+  "NqnRZ9ZKeval": "||||||||||||||",
+  "NqnRZ9ZKnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Tz0kBgxk": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5c5|b2b4:c5h5|c2c4:g8h6|e1g1:e8g8|f1e1:d7d5|e4d5:c6d5|b4b5:a6c8|c4c5*",
+  "Tz0kBgxkeval": "||||||||||||||",
+  "Tz0kBgxknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "JlDYk8xy": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5c5|b2b4:c5d6|c2c4:d6d3|c1b2:g7b2|b1b2:g8h6|b2b3:d3d6|b3a3:a6c8|c4c5:d6b8|e1g1:b8b4|d1c1*",
+  "JlDYk8xyeval": "||||||||||||||",
+  "JlDYk8xynotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "3VBuCzeU": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5c5|b2b4:c5d6|c2c4:d6d3|c1b2:g8f6|b2a1:g7h6|b1b3:h6d2|f3d2:d3d6|e4e5:d6e6|b3a3:a6c8|e1g1*",
+  "3VBuCzeUeval": "||||||||||||||",
+  "3VBuCzeUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "8jJEeRZo": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5c5|b2b4:c5d6|c2c4:c6c5|b4c5:d6c5|e1g1:g8h6|d1a4:c5c6|a4a3:d7d6|c1b2*",
+  "8jJEeRZoeval": "||||||||||||||",
+  "8jJEeRZonotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "H0hOjR8m": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5c5|b2b4:c5b6|c2c4:g8f6|e1g1:e8g8|c1b2:a8b8|b2d4:b6c7|d1a4:a6b7|f1e1*",
+  "H0hOjR8meval": "||||||||||||||",
+  "H0hOjR8mnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ybFKHOeC": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:c8a6|a1b1:a5c5|b2b4:c5b6|c2c4:g8f6|e1g1:d7d6|c1b2:e8g8|b2d4:b6c7|e4e5:d6e5|d4e5:c7c8|d1c2:c6c5|b4b5:a6b7|f1e1*",
+  "ybFKHOeCeval": "||||||||||||||",
+  "ybFKHOeCnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "K4iOKEMJ": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:g8f6|d2b3:c5h5|e4e5:f6g4|c1f4:g4e5|f3e5:g7e5|d1h5:g6h5|f4e5*",
+  "K4iOKEMJeval": "||||||||||||||",
+  "K4iOKEMJnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "MlCYxRVZ": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:g8f6|d2b3:c5h5|e4e5:f6g4|c1f4:h5f5|d1d4:f7f6|e5f6:g7f6|d4c4:a7a5|b3c5:d7d6|c5e4*",
+  "MlCYxRVZeval": "||||||||||||||",
+  "MlCYxRVZnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xfHSIiYR": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:g8f6|d2b3:c5h5|e4e5:f6g4|c1f4:h5f5|d1d4:f7f6|e5f6:g7f6|d4c4:a7a5|b3c5:f5d5|c4d5:c6d5|h2h3:d7d6|c5d3:g6g5|f4g5:f6g5|f3g5*",
+  "xfHSIiYReval": "||||||||||||||",
+  "xfHSIiYRnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "3RrJ3LMS": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:g8f6|d2b3:c5b6|e4e5:f6d5|c2c4:d5c7|c1e3:b6b4|d1e2:c7e6|b3d4:e6d4|e3d4:c8a6|b2b3:c6c5|d4b2*",
+  "3RrJ3LMSeval": "||||||||||||||",
+  "3RrJ3LMSnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "4k5ptkt2": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:g8f6|d2b3:c5b6|e4e5:f6e4|d1e2:f7f5|e5f6:e4f6|c1e3:b6a6|c2c4:d7d6|b3d4*",
+  "4k5ptkt2eval": "||||||||||||||",
+  "4k5ptkt2notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "8cIraF5g": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:g8f6|d2b3:c5b6|e4e5:f6g4|d1e2:c8a6|c2c4:b6b4|h2h3:a6c4|e2e4:b4b5|f1e1:g4h6|b3d4:b5a6|e4h4:h6f5|d4f5:g6f5|c1g5:g7f8|f3d4*",
+  "8cIraF5geval": "||||||||||||||",
+  "8cIraF5gnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Siqvoa72": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:g8f6|d2b3:c5b6|e4e5:f6g4|d1e2:c8a6|c2c4:b6b4|h2h3:g4h6|f1d1:b4c4|e2d2:a8d8|d2a5*",
+  "Siqvoa72eval": "||||||||||||||",
+  "Siqvoa72notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "bBmps2K1": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:g8f6|d2b3:c5b6|e4e5:f6g4|d1e2:c8a6|c2c4:b6b4|h2h3:g4h6|f1d1:b4c4|e2d2:e8g8|d2d7:h6f5|g2g4:c4e4|f3g5:e4e5|g4f5:h7h6|g5f3:e5e4|g1g2*",
+  "bBmps2K1eval": "||||||||||||||",
+  "bBmps2K1notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Oj0bcKUX": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:a7a5|d2b3:c5b6|e4e5:a5a4|c1e3:b6b7|b3c1:d6e5|c1d3:e5e4|d3c5:b7b2|f3d4*",
+  "Oj0bcKUXeval": "||||||||||||||",
+  "Oj0bcKUXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xHON4Fk3": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:a7a5|d2b3:c5h5|a2a4:c8g4|c1d2:g8f6|h2h3:g4f3|d1f3:h5f3|g2f3:f6d7|b3a5:g7b2|a1a2:b2f6|a5c6*",
+  "xHON4Fk3eval": "||||||||||||||",
+  "xHON4Fk3notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "bkE74fhO": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:a7a5|d2b3:c5h5|a2a4:c8g4|c1d2:g8f6|h2h3:g4f3|d1f3:h5f3|g2f3:f6d7|b3a5:g7b2|a1a2:d7e5|g1g2:b2d4|e1b1*",
+  "bkE74fhOeval": "||||||||||||||",
+  "bkE74fhOnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Kbb4MGun": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:f7f6|a2a3:g8h6|b2b4:c5b6|c2c4:e8g8|d2b3:h6f7|c4c5:b6a6|c1b2*",
+  "Kbb4MGuneval": "||||||||||||||",
+  "Kbb4MGunnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Iiy9uCNp": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:f7f6|a2a3:g8h6|b2b4:c5h5|c2c4:e8g8|d1a4:c8d7|d2f1:h6f7|f1g3*",
+  "Iiy9uCNpeval": "||||||||||||||",
+  "Iiy9uCNpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "v9nCmunw": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:g8f6|d2b3:c5h5|e4e5:d6e5|f3e5:h5d1|e1d1:c8f5|c2c3:a8c8|b3d4:f5g4|d1e1*",
+  "v9nCmunweval": "||||||||||||||",
+  "v9nCmunwnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "B2C5YAK4": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:g8f6|d2b3:c5b6|e4e5:d6e5|f3e5:e8g8|d1f3:f6d5|c2c4:d5b4|c4c5:b6c7|c1f4*",
+  "B2C5YAK4eval": "||||||||||||||",
+  "B2C5YAK4notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "lHmmGXdS": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:g8f6|d2b3:c5b6|e4e5:d6e5|f3e5:e8g8|d1f3:f6d5|c2c4:d5b4|c4c5:b6d8|e5c6:b4c6|f3c6:c8e6|c6a4:a8c8|c1f4:e6d5|a1d1:e7e6|f4d6:d8g5|d1d5:g5d5|d6f8:g7f8|a4a6*",
+  "lHmmGXdSeval": "||||||||||||||",
+  "lHmmGXdSnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "qdiTxF7o": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:g8f6|d2b3:c5b6|e4e5:d6e5|f3e5:e8g8|d1f3:f6d5|c2c4:d5b4|c4c5:b6d8|e5c6:b4c6|f3c6:c8e6|c6a4:d8c7|a4a3:e6d5|c1e3:a7a5|a1d1:f8d8|d1d2:a5a4|b3d4:c7b7|f2f3:e7e5|d4e2*",
+  "qdiTxF7oeval": "||||||||||||||",
+  "qdiTxF7onotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "wJehY7MP": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:g8f6|d2b3:c5b6|e4e5:d6e5|f3e5:e8g8|d1f3:c8b7|f3e3:f8d8|e5c4:b6e3|c1e3:f6g4|e3c1:b7a6|c4a5:a8c8|h2h3:g4e5|c1g5:f7f6|g5e3*",
+  "wJehY7MPeval": "||||||||||||||",
+  "wJehY7MPnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "S45lq7Jz": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:g8f6|d2b3:c5b6|e4e5:d6e5|f3e5:e8g8|d1f3:c8b7|f3e3:f8d8|e5c4:b6e3|c1e3:f6g4|e3c1:c6c5|h2h3:b7d5|c4a5:g4e5|c1f4:e5c4|a5c4:d5c4|c2c3*",
+  "S45lq7Jzeval": "||||||||||||||",
+  "S45lq7Jznotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Y6AOARYq": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:g8f6|d2b3:c5b6|e4e5:d6e5|f3e5:e8g8|d1f3:c8b7|f3e3:f6d5|e3e2:f8e8|c2c4:d5f6|c1e3:b6c7|e3c5:a7a5|e2f3:a5a4|b3d4:e7e6|a1d1*",
+  "Y6AOARYqeval": "||||||||||||||",
+  "Y6AOARYqnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "7Y3AMTPz": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:g8f6|d2b3:c5b6|e4e5:d6e5|f3e5:e8g8|d1f3:c8b7|f3e3:b6c7|c2c4:a8d8|c1d2:f6d7|d2c3*",
+  "7Y3AMTPzeval": "||||||||||||||",
+  "7Y3AMTPznotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "DCEY5XBp": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:g8f6|d2b3:c5b6|e4e5:d6e5|f3e5:e8g8|d1f3:c8b7|f3e3:c6c5|e3c5:f8c8|c5b6:a7b6|c2c3:a8a4|f2f3:f6d5|b3d4:f7f6|e5g4:e7e5|d4e6:h7h5|g4e3:g7h8|e1d1*",
+  "DCEY5XBpeval": "||||||||||||||",
+  "DCEY5XBpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "aCUazyym": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:g8f6|d2b3:c5b6|e4e5:d6e5|f3e5:e8g8|d1f3:c8b7|f3e3:c6c5|e3c5:f8c8|c5b6:a7b6|c2c3:a8a4|f2f3:f6d5|b3d4:f7f6|e5g4:e7e5|d4e6:h7h5|g4e3:g7h6|e3d5:b7d5|c1h6:d5e6|b2b3:a4a7|c3c4:g6g5|h2h4:g5h4|a2a4*",
+  "aCUazyymeval": "||||||||||||||",
+  "aCUazyymnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Ko400q4s": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:b7c6|d2d4:f8g7|d4c5:d8a5|b1d2:a5c5|e1g1:d7d6|f1e1:g8f6|d2b3:c5b6|e4e5:d6e5|f3e5:e8g8|d1f3:c8b7|f3e3:c6c5|e3c5:f8c8|c5b6:a7b6|c2c3:f6d5|f2f4:f7f6|e5f3:e7e5|f4e5:f6e5|f3g5*",
+  "Ko400q4seval": "||||||||||||||",
+  "Ko400q4snotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "twwzK0EF": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:e7e5|a4a5:a8b8|a5b6:a7b6|e1g1*",
+  "twwzK0EFeval": "||||||||||||||",
+  "twwzK0EFnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "T8Bkoyzo": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:e7e5|a4a5:c8a6|d1d2:d8e7|a5b6:a7b6|e1g1:a6b7|e3h6*",
+  "T8Bkoyzoeval": "||||||||||||||",
+  "T8Bkoyzonotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "mQ59Pzq1": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:e7e5|a4a5:c8a6|d1d2:d8e7|a5b6:a7b6|e1g1:f8d8|a1a2:a6b7|f1a1:a8a2|a1a2:d8a8|a2a8:b7a8|c3b1:f6d7|b1a3:g7f8|a3c4*",
+  "mQ59Pzq1eval": "||||||||||||||",
+  "mQ59Pzq1notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "yzuXtXe9": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:e7e5|a4a5:c8a6|d1d2:d8e7|a5b6:a7b6|e1g1:f8d8|a1a2:a6b7|f1a1:a8a2|a1a2:f6e8|d2e1:e7c7|c3a4:d8a8|e1a1:a8a6|a4c3:a6a2|a1a2:e8d6|c3a4:d6c8|h3h4:g7f6|g2g3*",
+  "yzuXtXe9eval": "||||||||||||||",
+  "yzuXtXe9notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "aOjuu0m8": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:d8c7|f3d2:c8a6|f2f4:a8d8|d1f3:f6d7|a1e1*",
+  "aOjuu0m8eval": "||||||||||||||",
+  "aOjuu0m8notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "NjPV7uB8": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:d8c7|f3d2:e7e5|f2f4:g7h6|d1f3:e5f4|e3f4:h6f4|f3f4:c7f4|f1f4:f6h5|f4f2:c8e6|b2b3:a8a7|c3e2:f8d8|g2g4:h5g7|e2f4*",
+  "NjPV7uB8eval": "||||||||||||||",
+  "NjPV7uB8notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xftwdndR": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:e7e5|f3e5:f6e4|c3e4:g7e5|f1e1:e5g7|e3g5:f7f6|g5f4:f6f5|e4d6:g7b2|c2c3:b2a1|d1b3:g8g7|f4e5:g7h6|d6f7:f8f7|b3f7*",
+  "xftwdndReval": "||||||||||||||",
+  "xftwdndRnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6hQL79LH": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:e7e5|f3e5:f6e4|c3e4:g7e5|f1e1:e5b2|e3g5:f7f6|g5h6:b2a1|d1a1:f8f7|e4d6*",
+  "6hQL79LHeval": "||||||||||||||",
+  "6hQL79LHnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6rRD5jBI": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:e7e5|f3e5:f6e4|c3e4:g7e5|f1e1:e5b2|e3g5:f7f6|g5h6:f8f7|e4d6:f7e7|e1e7:d8e7|d6c8:a8c8|a1b1:b2e5|b1b6*",
+  "6rRD5jBIeval": "||||||||||||||",
+  "6rRD5jBInotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "KkxmpQXy": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:e7e5|f3e5:f6e4|c3e4:g7e5|f1e1:c8e6|d1d2:e5b2|e3g5:f7f6|a1b1*",
+  "KkxmpQXyeval": "||||||||||||||",
+  "KkxmpQXynotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "TmcAeIFt": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:e7e5|f3e5:f6e4|c3e4:g7e5|f1e1:c8e6|d1d2:f8e8|e3g5:f7f6|g5f4:e6f7|f4e5:e8e5|d2f4*",
+  "TmcAeIFteval": "||||||||||||||",
+  "TmcAeIFtnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "uwllClkf": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:f6e8|f3d2:e8c7|f2f4:f7f5|e4e5:c7e6|d2f3:e6d4|g1h2:a8a7|b2b3:h7h6|c3b1:g8h7|b1d2:e7e6|f3e1*",
+  "uwllClkfeval": "||||||||||||||",
+  "uwllClkfnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "kkLiHjZc": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:f6e8|f3d2:e8c7|f2f4:f7f5|e4e5:c7e6|d2f3:e6d4|g1h2:a8a7|b2b3:h7h6|c3b1:g8h7|b1d2:f8g8|f1g1:a7d7|a1c1:c8b7|d1f1:e7e6|d2c4:b7a6|f1f2:g7f8|c1e1:a6c8|e3c1:c8b7|c1b2:b7a8|g2g4*",
+  "kkLiHjZceval": "||||||||||||||",
+  "kkLiHjZcnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "8clCk45Y": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:f6e8|f3d2:e7e5|f2f4:e5f4|e3f4:e8c7|f4g3:f7f6|g1h1:c7e6|c3e2:a8a7|d1e1:a7f7|a1d1:f6f5|e4f5:f7f5|f1f5:f8f5|d2c4:f5f7|b2b3*",
+  "8clCk45Yeval": "||||||||||||||",
+  "8clCk45Ynotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "hFgQ5Yw5": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:f6e8|f3d2:e7e5|f2f4:e5f4|e3f4:e8c7|f4g3:c7e6|e4e5:d8d4|g1h1:g7e5|d2f3*",
+  "hFgQ5Yw5eval": "||||||||||||||",
+  "hFgQ5Yw5notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ubN9hlpt": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:e8g8|c1e3:b7b6|a2a4:a7a5|e1g1:f6e8|f3d2:e7e5|f2f4:e5f4|e3f4:e8c7|f4g3:c7e6|e4e5:e6d4|c3e4:f8e8|d2f3:d4f3|d1f3:c8e6|e4d6:e6d5|f3f2:e8f8|c2c4:d5e6|f2e2:a8a7|f1f3:a7d7|a1f1*",
+  "ubN9hlpteval": "||||||||||||||",
+  "ubN9hlptnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "nrLQJHGv": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e8g8|d1d2:f8e8|e3h6:g7h8|h3h4:d7f6|h4h5:f6h5|h1h5:g6h5|d2g5*",
+  "nrLQJHGveval": "||||||||||||||",
+  "nrLQJHGvnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ajGNsip0": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e8g8|d1d2:f8e8|e3h6:g7h8|h3h4:e7e5|h4h5:d8e7|e1c1:d7f8|h5g6:f7g6|h1h4*",
+  "ajGNsip0eval": "||||||||||||||",
+  "ajGNsip0notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "8gA13quO": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e8g8|d1d2:e7e5|e3h6:d8e7|h6g7:g8g7|e1g1:f8d8|c3e2:d7f8|b2b3:f7f6|f3h2:f8e6|f2f4:e5f4|e2f4*",
+  "8gA13quOeval": "||||||||||||||",
+  "8gA13quOnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "4f8m80jU": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:b7b6|e3h6:e8g8|e1g1*",
+  "4f8m80jUeval": "||||||||||||||",
+  "4f8m80jUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "AMndYRoi": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:d8e7|e3h6:g7h6|d2h6:f7f6|f3d2:d7f8|f2f4:e5f4|h6f4:f8e6|f4f2:e6d4|d2f3:e7d6|f3d4:c5d4|c3e2:c6c5|e1g1:e8g8|f2h4:c8d7|f1f2:a8e8|a1f1:g8g7|g2g4*",
+  "AMndYRoieval": "||||||||||||||",
+  "AMndYRoinotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6rzfuppj": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:d8e7|e3h6:g7h6|d2h6:f7f6|f3d2:d7f8|f2f4:e5f4|h6f4:f8e6|f4f2:e6d4|d2f3:d4f3|f2f3:e7e5|e1g1:e8g8|f3f4:e5f4|f1f4:c8e6|b2b3:g8g7|a1f1*",
+  "6rzfuppjeval": "||||||||||||||",
+  "6rzfuppjnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Xig9wFv9": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:d8e7|e3h6:f7f6|h6g7:e7g7|f3h2:g6g5|h2g4:d7f8|g4e3*",
+  "Xig9wFv9eval": "||||||||||||||",
+  "Xig9wFv9notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "N6yERmz9": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:d8e7|e3h6:f7f6|h6g7:e7g7|f3h2:d7f8|f2f4:e5f4|d2f4:f8e6|f4f2:e8g8|e1g1:f6f5|e4f5:f8f5|f2d2*",
+  "N6yERmz9eval": "||||||||||||||",
+  "N6yERmz9notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "AZ1LvuvB": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:d8e7|e3h6:f7f6|h6g7:e7g7|f3h2:d7f8|f2f4:e5f4|d2f4:f8e6|f4f2:c8d7|h2f3:e8c8|e1c1:b7b6|h1f1:h8f8|d1e1:c8b7|c1b1:d7c8|c3e2:e6c7|g2g4*",
+  "AZ1LvuvBeval": "||||||||||||||",
+  "AZ1LvuvBnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "3KQ6iilI": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:d8e7|e3h6:f7f6|h6g7:e7g7|f3h2:d7f8|f2f4:e5f4|d2f4:f8e6|f4f2:e6d4|h2f3:d4f3|f2f3:c8e6|e1g1*",
+  "3KQ6iilIeval": "||||||||||||||",
+  "3KQ6iilInotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ATmKN7KI": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:g6g5|c3e2:d7f8|e2g3:f8g6|a2a3:c8e6|b2b4:c5b4|a3b4:a7a6|e3c5:e7c7|g3h5:f7f6|d3d4*",
+  "ATmKN7KIeval": "||||||||||||||",
+  "ATmKN7KInotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "coWUcTmQ": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:g6g5|c3e2:d7f8|e2g3:f8g6|a2a3:g6f4|d2c3:b7b6|b2b4*",
+  "coWUcTmQeval": "||||||||||||||",
+  "coWUcTmQnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "DymPxLID": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:g6g5|c3e2:d7f8|e2g3:f8g6|a2a3:g6f4|d2c3:e7f6|c3c5:h6h5|f1e1:g5g4|h3g4:h5g4|h2f1*",
+  "DymPxLIDeval": "||||||||||||||",
+  "DymPxLIDnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "kcK7P3cL": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:f8g6|a1e1:g7e5|g3e5:e7e5|h2f3:e5e7|c3d5*",
+  "kcK7P3cLeval": "||||||||||||||",
+  "kcK7P3cLnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xdMwHSYd": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:f8g6|a1e1:g7e5|g3e5:e7e5|h2f3:e5c7|d2e3:b7b6|e4e5*",
+  "xdMwHSYdeval": "||||||||||||||",
+  "xdMwHSYdnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "tHyzvv5Q": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:f8g6|a1e1:g7e5|g3e5:g6e5|c3d1:c8e6|d1e3:e8c8|d2c3:e5d7|e3f5:e6f5|f1f5*",
+  "tHyzvv5Qeval": "||||||||||||||",
+  "tHyzvv5Qnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "KwNYbT8V": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:f8g6|a1e1:c8e6|e4e5:e8g8|h2f3:a8e8|c3e4:b7b6|f3g5:h6g5|e4f6*",
+  "KwNYbT8Veval": "||||||||||||||",
+  "KwNYbT8Vnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "wmVpDxHj": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:f8g6|a1e1:c8e6|e4e5:e8g8|h2f3:e6d5|c3e4:d5e4|e1e4:f7f5|e5f6:e7f6|b2b3*",
+  "wmVpDxHjeval": "||||||||||||||",
+  "wmVpDxHjnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "X3r8zMpt": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:f8g6|a1e1:c8e6|e4e5:e8c8|h2f3:c8b8|c3e4:b8a8|d2c3:b7b6|d3d4*",
+  "X3r8zMpteval": "||||||||||||||",
+  "X3r8zMptnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "RccASvYx": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:f8g6|a1e1:c8e6|e4e5:e8c8|h2f3:c8b8|c3e4:b8a8|d2c3:d8d5|a2a3*",
+  "RccASvYxeval": "||||||||||||||",
+  "RccASvYxnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Rr0UpJV6": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4g3:e8g8|e4e5:e6d4|c3e4:d4f5|g3f4:g7e5|f4e5:e7e5|a1e1*",
+  "Rr0UpJV6eval": "||||||||||||||",
+  "Rr0UpJV6notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "UbKDv0Oe": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4g3:e8g8|e4e5:e6d4|c3e4:d4f5|g3f4:g6g5|f4g5:h6g5|h2g4*",
+  "UbKDv0Oeeval": "||||||||||||||",
+  "UbKDv0Oenotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "iMC0L3AL": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4g3:e8g8|e4e5:e7g5|d2e1:e6d4|c3e4:g5e7|e1d2*",
+  "iMC0L3ALeval": "||||||||||||||",
+  "iMC0L3ALnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "LOfxkdmm": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4g3:e8g8|e4e5:e7g5|d2e1:e6d4|c3e4:d4c2|e1d1:c2e3|d1f3:e3f1|e4g5:f1h2|g1h2:h6g5|a1c1*",
+  "LOfxkdmmeval": "||||||||||||||",
+  "LOfxkdmmnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "8O4hlMWD": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4g3:e6d4|a1e1:e8g8|c3d1:b7b6|d1e3:e7d8|c2c3:d4e6|e3g4:h6h5|g4h6:g7h6|d2h6:d8g5|h6g5:e6g5|h3h4:g5e6|f1f6*",
+  "8O4hlMWDeval": "||||||||||||||",
+  "8O4hlMWDnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "N6rE6C86": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4g3:e6d4|a1e1:e8g8|c3d1:b7b6|d1e3:f7f6|c2c3:d4e6|e3f5*",
+  "N6rE6C86eval": "||||||||||||||",
+  "N6rE6C86notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "cvr3w33P": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4g3:e6d4|a1e1:c8e6|c3d1:a8d8|d1e3:e8g8|c2c3:d4b5|e3f5*",
+  "cvr3w33Peval": "||||||||||||||",
+  "cvr3w33Pnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "wpWlp23n": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4g3:e7g5|d2e1:e6d4|e1f2:e8g8|g3d6:c8h3|d6f4:g5g2|f2g2:h3g2|g1g2:g6g5|f4d6:d4c2|d6c5:c2a1|c5f8:a8f8|f1a1*",
+  "wpWlp23neval": "||||||||||||||",
+  "wpWlp23nnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "NfjJw8yI": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:d8e7|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4g3:e7g5|d2e1:e6d4|e1f2:e8g8|g3d6:c8h3|d6f4:g5g2|f2g2:h3g2|g1g2:d4c2|a1d1*",
+  "NfjJw8yIeval": "||||||||||||||",
+  "NfjJw8yInotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ZboKcibB": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:g6g5|a2a3*",
+  "ZboKcibBeval": "||||||||||||||",
+  "ZboKcibBnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "pub5FOZy": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:c8e6|a1e1:g6g5|f4g3:f8g6|e4e5*",
+  "pub5FOZyeval": "||||||||||||||",
+  "pub5FOZynotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "rCoiCAcn": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:f8g6|e4e5:e8g8|a1e1:d8d4|e1e3:g6e5|g3e5:g7e5|h2f3*",
+  "rCoiCAcneval": "||||||||||||||",
+  "rCoiCAcnnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "V683b0IZ": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:f8g6|e4e5:e8g8|a1e1:d8d4|e1e3:c8e6|h2f3:d4d7|c3e4*",
+  "V683b0IZeval": "||||||||||||||",
+  "V683b0IZnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ciAvBkbg": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:f8g6|e4e5:g7e5|a1e1:f7f6|g3e5:f6e5|d2e2*",
+  "ciAvBkbgeval": "||||||||||||||",
+  "ciAvBkbgnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "3ho7m76M": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:f8g6|e4e5:g6e5|g3e5:g7e5|a1e1:f7f6|h2f3*",
+  "3ho7m76Meval": "||||||||||||||",
+  "3ho7m76Mnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "aw8btYKX": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:c8e6|e4e5:d8d4|f1f2:g7e5|h2f3:e5f4|f3d4:f4d2|d4e6:f8e6|f2d2*",
+  "aw8btYKXeval": "||||||||||||||",
+  "aw8btYKXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "zP9NqMrk": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:c8e6|e4e5:d8d4|f1f2:e8c8|h2f3:d4b4|a2a3:b4a5|d2e1*",
+  "zP9NqMrkeval": "||||||||||||||",
+  "zP9NqMrknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "3130rbao": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:g6g5|f4g3:c8e6|e4e5:f8g6|a1e1*",
+  "3130rbaoeval": "||||||||||||||",
+  "3130rbaonotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "d1zs7PwR": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:c5c4|d3d4:e8g8|a1d1*",
+  "d1zs7PwReval": "||||||||||||||",
+  "d1zs7PwRnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "KOuZ2wkl": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:c5c4|d3d4:e8g8|a1d1*",
+  "KOuZ2wkleval": "||||||||||||||",
+  "KOuZ2wklnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "tkiefT2G": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:c5c4|d3d4:e6d4|a1d1:d4e6|d2f2:d8e7|h2g4:e6g5|g4f6:e7f6|f2f6:g7f6|f1f6:c8e6|f6f2:a8d8|d1f1*",
+  "tkiefT2Geval": "||||||||||||||",
+  "tkiefT2Gnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "p74ow7RA": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:c5c4|d3d4:g7d4|a1d1:d4c5|d2f2:d8e7|g1h1*",
+  "p74ow7RAeval": "||||||||||||||",
+  "p74ow7RAnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "TSqC0w9S": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:c5c4|d3d4:g7d4|a1d1:d4e3|d2e3:d8g5|e3f3:e8g8|h2g4:h6h5|g4f6:g8g7|c3e2*",
+  "TSqC0w9Seval": "||||||||||||||",
+  "TSqC0w9Snotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "smRVNSIA": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d8c7|c3e4:g7e5|h2g4:e6g4|e4f6*",
+  "smRVNSIAeval": "||||||||||||||",
+  "smRVNSIAnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VOV8pMSN": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d8c7|c3e4:g7e5|h2g4:e6g4|e4f6:e5f6|e3d4:g4e6|d4f6*",
+  "VOV8pMSNeval": "||||||||||||||",
+  "VOV8pMSNnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6BJzmrJS": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d8c7|c3e4:e8c8|e4d6:d8d6|e5d6:c7d6|e3f4*",
+  "6BJzmrJSeval": "||||||||||||||",
+  "6BJzmrJSnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "C1BZrVAD": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d8c7|c3e4:e8c8|e4d6:c8b8|h2g4:d4f5|e3f4:f5d6|e5d6:c7d7|g4e5:g7e5|f4e5*",
+  "C1BZrVADeval": "||||||||||||||",
+  "C1BZrVADnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "euVvQYHu": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d8c7|c3e4:e8c8|e4d6:c8b8|h2g4:d4f5|e3f4:g7f8|d6f5:g6f5|g4e3*",
+  "euVvQYHueval": "||||||||||||||",
+  "euVvQYHunotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "QetIq4UE": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:g7e5|h2g4:e6g4|e3f4*",
+  "QetIq4UEeval": "||||||||||||||",
+  "QetIq4UEnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Wsx932RH": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:g7e5|h2g4:e5g7|g4h6:f7f5|c3e2:d8d6|e2d4:c5d4|h6f5:g6f5|e3f4:d6d5|e1e6:d5e6|f1e1*",
+  "Wsx932RHeval": "||||||||||||||",
+  "Wsx932RHnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "9cc5KHwt": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:g7e5|h2g4:e5g7|g4h6:f7f5|c3e2:d4e2|d2e2:e8d7|e3g5:d8e8|e2d2:e8f8|h6g4*",
+  "9cc5KHwteval": "||||||||||||||",
+  "9cc5KHwtnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "O5xHGcB3": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:g7e5|h2g4:e5g7|g4h6:f7f5|c3e2:d4e2|d2e2:e8d7|e3g5:d8e8|e2d2:d7c8|e1e2:e8d7|f1e1:h8e8|h6g8*",
+  "O5xHGcB3eval": "||||||||||||||",
+  "O5xHGcB3notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "eQvOkUUp": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:g7e5|h2g4:e5g7|g4h6:f7f5|c3e2:d4e2|d2e2:e8f8|c2c3:d8d5|e3g5:a8e8|e2d2:d5d6|h6g4*",
+  "eQvOkUUpeval": "||||||||||||||",
+  "eQvOkUUpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "nAd96lwi": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d4f5|e3f2:h6h5|h2f3*",
+  "nAd96lwieval": "||||||||||||||",
+  "nAd96lwinotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "suf9Otl7": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d4f5|e3f2:d8c7|h2f3:e8g8|c3e4:e6d5|g2g4:d5e4|e1e4:f5e7|f2e3:g8h7|d2e1*",
+  "suf9Otl7eval": "||||||||||||||",
+  "suf9Otl7notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "tnA2qqYS": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d4f5|e3f2:d8c7|h2f3:e8g8|c3e4:e6d5|g2g4:d5e4|e1e4:f5d4|f3d4:c5d4|f2d4*",
+  "tnA2qqYSeval": "||||||||||||||",
+  "tnA2qqYSnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "iM7EJMbh": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d4f5|e3f2:d8c7|h2f3:e8c8|c3e4:h6h5|a2a3*",
+  "iM7EJMbheval": "||||||||||||||",
+  "iM7EJMbhnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "l2yRegTM": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d4f5|e3f2:d8c7|h2f3:e8c8|c3e4:g6g5|a2a3:h8g8|b2b4*",
+  "l2yRegTMeval": "||||||||||||||",
+  "l2yRegTMnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "hlZWfx6b": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d4f5|e3f2:d8c7|h2f3:e8c8|c3e4:e6d5|a2a3:h8e8|c2c4:d5c4|e4d6:f5d6|e5d6:c7d6|e1e8:d8e8|d3c4:d6d2|f3d2*",
+  "hlZWfx6beval": "||||||||||||||",
+  "hlZWfx6bnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "OFKRHBRI": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d4f5|e3f2:d8c7|h2f3:e8c8|c3e4:e6d5|a2a3:h8e8|c2c4:d5e4|e1e4:f7f6|b2b4*",
+  "OFKRHBRIeval": "||||||||||||||",
+  "OFKRHBRInotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VAAG7Aky": "e2e4:c7c5|g1f3:b8c6|f1b5:g7g6|b5c6:d7c6|d2d3:f8g7|h2h3:g8f6|b1c3:f6d7|c1e3:e7e5|d1d2:h7h6|e1g1:b7b6|f3h2:d7f8|f2f4:e5f4|e3f4:f8e6|f4e3:e6d4|a1e1:c8e6|e4e5:d4f5|e3f2:d8c7|h2f3:e8c8|c3e4:e6d5|a2a3:h8e8|c2c4:d5e4|e1e4:g7e5|f1e1:f7f6|b2b4*",
+  "VAAG7Akyeval": "||||||||||||||",
+  "VAAG7Akynotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "5p26e1qP": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:d7c6|e1g1:g8f6|f1e1:f8e7|d2d3:h7h6|e4e5:f6d5|b1d2:a7a5|d2e4*",
+  "5p26e1qPeval": "||||||||||||||",
+  "5p26e1qPnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "XgpyP7zk": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:d7c6|e1g1:g8e7|d2d3:e7g6|e4e5:f8e7|b1c3:e8g8|f1e1:b7b6|d1e2:c8d7|a2a4:a7a5|g2g3:f7f6|e5f6:e7f6|c3e4*",
+  "XgpyP7zkeval": "||||||||||||||",
+  "XgpyP7zknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "naHI0xe2": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:d7c6|e1g1:g8e7|d2d3:e7g6|e4e5:f8e7|b1c3:e8g8|f1e1:f7f6|e5f6:g7f6|h2h4:f8f7|h4h5:g6f8|c1h6:e6e5|f3h4*",
+  "naHI0xe2eval": "||||||||||||||",
+  "naHI0xe2notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ut5vLQlT": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|d1e2:e6e5*",
+  "ut5vLQlTeval": "||||||||||||||",
+  "ut5vLQlTnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6r6EaSGn": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:e6e5|c2c3:g8f6|d3d4:c5d4|c3d4:d7d6|d4e5:d6e5|d1c2:f8d6|c1g5:f6d7|b1d2:f7f6|g5e3:e8g8|a1c1*",
+  "6r6EaSGneval": "||||||||||||||",
+  "6r6EaSGnnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "l1O2SAHU": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:d7d6|c2c3:g8f6|f1e1:a8b8|h2h3:e6e5|d3d4:c5d4|c3d4:f8e7|d4e5:d6e5|d1c2:e8g8|b2b3:f8e8|b1d2:f6h5|d2c4:f7f6|c1e3:e7f8|a1c1*",
+  "l1O2SAHUeval": "||||||||||||||",
+  "l1O2SAHUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "NFP6fkRc": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:d7d6|c2c3:g8f6|f1e1:e6e5|d3d4:c5d4|c3d4:c8g4|b1d2:f8e7|h2h3:g4h5|d1c2:e8g8|b2b3:a8c8|c1b2:f6d7|a1c1*",
+  "NFP6fkRceval": "||||||||||||||",
+  "NFP6fkRcnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xFGg2pKt": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:f8e7|e4e5:f7f6|c1f4:c7d8|f3d2:f6e5|d1h5:g7g6|h5e5:g8f6|d2e4:e8g8|f4h6:d7d6|e5c3:f8e8|b1d2*",
+  "xFGg2pKteval": "||||||||||||||",
+  "xFGg2pKtnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "SxkZwn8r": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:h7h5|e4e5:f7f6|f1e1:e7g6|b1a3:f6e5|a3c4:d7d6|c1g5:c8a6|d1e2:a6c4|d3c4:a8b8|a1d1:b8b2|e2d3:c7f7|d3e4:b2b6|f3e5*",
+  "SxkZwn8reval": "||||||||||||||",
+  "SxkZwn8rnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "lseR5YY7": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:h7h5|e4e5:f7f6|f1e1:e7g6|b1a3:f6e5|a3c4:d7d6|c1g5:c8a6|d1e2:a6c4|d3c4:c7f7|a1d1:f7f5|b2b4:c5b4|c4c5:d6c5|e2a6*",
+  "lseR5YY7eval": "||||||||||||||",
+  "lseR5YY7notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "sIKKDkmr": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:h7h5|e4e5:f7f6|f1e1:e7g6|b1a3:g6e5|f3e5:f6e5|a3c4:d7d6|c1g5:f8e7|g5e7:c7e7|d1f3:c8b7|a2a3*",
+  "sIKKDkmreval": "||||||||||||||",
+  "sIKKDkmrnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "U2Z9j4gE": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:h7h5|e4e5:f7f6|f1e1:e7g6|b1a3:d7d5|e5d6:f8d6|a3c4:e6e5|c4d6:c7d6|f3d2:g6h4|d2e4:d6d5|c2c4:d5d7|f2f4*",
+  "U2Z9j4gEeval": "||||||||||||||",
+  "U2Z9j4gEnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "AZvrB5vg": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:h7h5|e4e5:f7f6|f1e1:e7g6|b1a3:d7d5|e5d6:f8d6|a3c4:d6e7|d1e2:e6e5|c1d2:c8g4|e2e4:e8f7|d2c3:h8e8|g2g3:g4e6|f3d2:c7d7|g1h2:e6d5|e4e2:e8h8|e2f1*",
+  "AZvrB5vgeval": "||||||||||||||",
+  "AZvrB5vgnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "orqdwLVG": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:h7h5|e4e5:f7f6|f1e1:e7g6|b1a3:f8e7|a3c4:c8a6|b2b3:a6c4|b3c4:g6e5|f3e5:f6e5|g2g3:d7d6|d1f3:a8b8|c1d2*",
+  "orqdwLVGeval": "||||||||||||||",
+  "orqdwLVGnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "4wntG2T9": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:h7h5|e4e5:f7f6|f1e1:e7g6|b1a3:f8e7|a3c4:c8a6|b2b3:a6c4|b3c4:f6e5|g2g3:d7d6|c1g5:e7f6|a1b1*",
+  "4wntG2T9eval": "||||||||||||||",
+  "4wntG2T9notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "WhAsSQA5": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:e6e5|h4h5:h7h6|f3h4:d7d6|f2f4:e5f4|c1f4:g7g5|h5g6:e7g6|h4g6:f7g6|b1d2*",
+  "WhAsSQA5eval": "||||||||||||||",
+  "WhAsSQA5notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "5EKhfpuk": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:e6e5|h4h5:d7d6|f3h2:e7g8|f2f4:c5c4|d3c4:g8f6|b1c3*",
+  "5EKhfpukeval": "||||||||||||||",
+  "5EKhfpuknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "tdWiwkPZ": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:e6e5|h4h5:e7g8|f3h2:g8f6|f2f4:c5c4|h5h6:c4d3|c2d3:h8g8|b1c3:g7h6|f4e5:c7e5|c1f4:f8c5|g1h1:e5h5|f1f3*",
+  "tdWiwkPZeval": "||||||||||||||",
+  "tdWiwkPZnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "nNJHSnLU": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:e6e5|h4h5:e7g8|f3h2:g8f6|f2f4:f8e7|b1c3:d7d6|d1f3:e5f4|c1f4:e8g8|h5h6:g7g6|f4g5:f6e8|g5e7:c7e7|a1e1*",
+  "nNJHSnLUeval": "||||||||||||||",
+  "nNJHSnLUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "DmKVSfkk": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d8c7|e1g1:g8e7|h2h4:e6e5|h4h5:e7g8|f3h2:g8f6|f2f4:f8e7|b1c3:d7d6|d1f3:e8g8|h5h6:g7g6|f4e5:d6e5|c1g5:f6h5|g5e7:c7e7|f3e3:h5f4|c3e2:f4e6|h2g4*",
+  "DmKVSfkkeval": "||||||||||||||",
+  "DmKVSfkknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "JhOzICUw": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d7d5|d1e2:g8e7|b2b3*",
+  "JhOzICUweval": "||||||||||||||",
+  "JhOzICUwnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "XV8iPW6Z": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d7d5|d1e2:g8f6|c2c4:f8e7|e1g1:e8g8|c1g5:h7h6|g5f6:e7f6|e4e5:f6e7|b1c3:a8b8|c3a4:c8a6|a1c1:d5d4|b2b3:d8c7|f3d2*",
+  "XV8iPW6Zeval": "||||||||||||||",
+  "XV8iPW6Znotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xvYnwOrj": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d7d5|d1e2:g8f6|c2c4:f8e7|e1g1:e8g8|c1g5:h7h6|g5f6:e7f6|e4e5:f6e7|b1c3:a8b8|c3a4:c8a6|a1c1:d8a5|b2b3*",
+  "xvYnwOrjeval": "||||||||||||||",
+  "xvYnwOrjnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "1EEaApGX": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d8c7|h2h4:e6e5|h4h5:d7d6|b1a3:c8g4|a3c4:f7f6|c4e3:g4e6|f3d2*",
+  "1EEaApGXeval": "||||||||||||||",
+  "1EEaApGXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "bGXWdYxG": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d8c7|h2h4:e6e5|h4h5:d7d6|b1a3:f7f6|f3h2:c8e6|f2f4:e5f4|c1f4:g7g5|f4g3*",
+  "bGXWdYxGeval": "||||||||||||||",
+  "bGXWdYxGnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "t8JbYIQp": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:f7f6|f3h4:g7g6|e1g1:f8g7|f2f4:f6f5|h4f3:g8h6|e4e5*",
+  "t8JbYIQpeval": "||||||||||||||",
+  "t8JbYIQpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dptifgEd": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:f7f6|f3h4:g7g6|e1g1:f8g7|f2f4:c5c4|b1c3:c4d3|c2d3:g8e7|c1e3:e8g8|h4f3*",
+  "dptifgEdeval": "||||||||||||||",
+  "dptifgEdnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "0X4kg2ho": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d7d6|e4e5:d6e5|f3e5:d8d5|e5f3:c5c4|b1c3:f8b4|c1d2:b4c3|d2c3:g8e7|d3c4:d5c4|d1d4:c4d4|c3d4:f7f6|e1c1*",
+  "0X4kg2hoeval": "||||||||||||||",
+  "0X4kg2honotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VQjW9q5o": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:d7d6|e4e5:d6d5|c2c4:g8e7|b1c3:e7g6|h2h4:h7h5|b2b3:f8e7|g2g3*",
+  "VQjW9q5oeval": "||||||||||||||",
+  "VQjW9q5onotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "H9N7AToe": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d7d6|e1g1:e6e5|c2c3:c8a6|f1d1:g7g6|e2c2:f8g7|d3d4:c5d4|c3d4:e5d4|f3d4:a6b7|c1f4:e8g8|d4b3:e7c8|b1c3*",
+  "H9N7AToeeval": "||||||||||||||",
+  "H9N7AToenotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "7FLSbFP3": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d7d6|e1g1:f7f6|f1d1:e7g6|d3d4:c5d4|f3d4:c6c5|d4f3:f8e7|c2c4:c8b7|b1c3:a7a5|b2b3:d8c8|a1b1:e8g8|h2h4*",
+  "7FLSbFP3eval": "||||||||||||||",
+  "7FLSbFP3notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "XRzEVMbM": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d7d6|e1g1:f7f6|f1d1:e7g6|d3d4:c5d4|f3d4:c8d7|c2c4:f8e7|b1c3:c6c5|d4f3:e8g8|h2h4*",
+  "XRzEVMbMeval": "||||||||||||||",
+  "XRzEVMbMnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "UNnFTfRd": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d8c7|h2h4:e6e5|h4h5:d7d6|b1a3:f7f6|f3h2:c8e6|f2f4:e8c8|f4e5:f6e5|h2f3*",
+  "UNnFTfRdeval": "||||||||||||||",
+  "UNnFTfRdnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "y20Wbsqn": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d8c7|h2h4:h7h5|e4e5:e7f5|b1a3:f5d4|e2e4:d4f3|g2f3*",
+  "y20Wbsqneval": "||||||||||||||",
+  "y20Wbsqnnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "EpdNMfSa": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d8c7|h2h4:h7h5|e4e5:e7f5|b1a3:d7d5|e5d6:f8d6|a3c4*",
+  "EpdNMfSaeval": "||||||||||||||",
+  "EpdNMfSanotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VEF5cE1h": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d8c7|h2h4:h7h5|e4e5:e7f5|b1a3:f7f6|a3c4:d7d5|e5d6:f8d6|c1e3:e6e5|e1c1:c8e6|f3d2:f5d4|e2f1:d6e7|f2f3*",
+  "VEF5cE1heval": "||||||||||||||",
+  "VEF5cE1hnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "qX71FH6Q": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d8c7|h2h4:h7h5|e4e5:f7f6|e1g1:e7g6|f1e1:g6e5|f3e5:f6e5|e2e5:c7e5|e1e5:d7d6|e5e4:f8e7|c1g5:e7g5|h4g5*",
+  "qX71FH6Qeval": "||||||||||||||",
+  "qX71FH6Qnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "5i4LwzWx": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d8c7|h2h4:h7h5|e4e5:f7f6|e1g1:e7g6|f1e1:g6e5|f3e5:c7e5|e2e5:f6e5|e1e5:d7d6|e5e4:f8e7|c1g5:e7f6|b1c3:a7a5|e4e2:e8e7|c3e4:h8f8|a1f1:a5a4|f2f4*",
+  "5i4LwzWxeval": "||||||||||||||",
+  "5i4LwzWxnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "3cCOQ6bb": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d8c7|h2h4:h7h5|e4e5:f7f6|e1g1:f6e5|f3e5:d7d6|e5f3:e7f5|c1g5:g7g6|g5f6:f8g7|f6g7:c7g7|c2c3:e8g8|b1d2*",
+  "3cCOQ6bbeval": "||||||||||||||",
+  "3cCOQ6bbnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xn8bf0MP": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:f7f6|f3h4:g7g6|f2f4:f8g7|e1g1:e8g8|c2c4:d7d6|b1c3:h7h6|g2g3:g6g5|h4g2:g5f4|c1f4*",
+  "xn8bf0MPeval": "||||||||||||||",
+  "xn8bf0MPnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "OcBnH3Hp": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:f7f6|f3h4:g7g6|f2f4:f8g7|e1g1:e8g8|c2c4:d7d6|b1c3:h7h6|g2g3:g6g5|h4g2:a8b8|g1h1:e7g6|c3a4:f6f5|e4e5*",
+  "OcBnH3Hpeval": "||||||||||||||",
+  "OcBnH3Hpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "oV4d5PM5": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:f7f6|f3h4:g7g6|f2f4:f8g7|e1g1:e8g8|c2c4:d7d6|b1c3:h7h6|g2g3:a8b8|g1h1:d8a5|a1b1:b8b7|c1d2:a5d8|c3a4:g6g5|h4f3*",
+  "oV4d5PM5eval": "||||||||||||||",
+  "oV4d5PM5notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "oljCKYXc": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:f7f6|f3h4:g7g6|f2f4:f8g7|e1g1:e8g8|c2c4:d7d6|b1c3:h7h6|g2g3:f6f5|c1e3:a8b8|e4e5:d6e5|h4f3:e5f4|g3f4*",
+  "oljCKYXceval": "||||||||||||||",
+  "oljCKYXcnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dK2awRE1": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:e6e5|h4h5:g6f4|c1f4:e5f4|e4e5*",
+  "dK2awRE1eval": "||||||||||||||",
+  "dK2awRE1notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "KkWcxyzG": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:f8e7|h4h5:g6f8|h5h6:g7g6|e4e5*",
+  "KkWcxyzGeval": "||||||||||||||",
+  "KkWcxyzGnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "j8oD4d6v": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:d8c7|h4h5:g6f4|e2d2:f4g2|e1f1*",
+  "j8oD4d6veval": "||||||||||||||",
+  "j8oD4d6vnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "0aBfmMd5": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:d8c7|h4h5:g6f4|e2d2:e6e5|d2c3:f4g2|e1f1:g2f4|c1f4:e5f4|h5h6:h8g8|b1d2:g7h6|e4e5:c8a6|d2e4:e8c8|e4c5:c7b6|b2b4*",
+  "0aBfmMd5eval": "||||||||||||||",
+  "0aBfmMd5notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "CmUoyeui": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:d8c7|h4h5:g6f4|e2d2:e6e5|d2c3:f4g2|e1f1:g2f4|c1f4:e5f4|h5h6:h8g8|b1d2:d7d6|f3g5:g7h6|g5h7:g8g6|c3h8:c7e7|d2f3:c8e6|f3h4:g6g7|h4f5:e6f5|e4f5:e8c8|a1e1:e7b7|b2b3*",
+  "CmUoyeuieval": "||||||||||||||",
+  "CmUoyeuinotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "fnfF81QU": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:d8c7|h4h5:g6f4|e2d2:e6e5|d2c3:f4g2|e1f1:g2f4|c1f4:e5f4|h5h6:h8g8|b1d2:d7d6|f3g5:g7h6|g5h7:g8g6|c3h8:c7e7|d2f3:c8e6|f3h4:g6g7|h4f5:g7h7|h8h7*",
+  "fnfF81QUeval": "||||||||||||||",
+  "fnfF81QUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ZJxjAK6x": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:d8c7|h4h5:g6f4|e2d2:e6e5|d2c3:f4g2|e1f1:g2f4|c1f4:e5f4|h5h6:h8g8|b1d2:d7d5|e4d5:c6d5|a1e1:c8e6|f3g5:e8c8|e1e6:f7e6|g5e6:c7d6|e6d8:c8d8|c3b3*",
+  "ZJxjAK6xeval": "||||||||||||||",
+  "ZJxjAK6xnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "EcyKayLv": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:d8c7|h4h5:g6f4|e2d2:e6e5|d2c3:f4g2|e1f1:g2f4|c1f4:e5f4|h5h6:h8g8|b1d2:d7d5|e4d5:c6d5|a1e1:c8e6|f3g5:e8c8|e1e6:g7h6|g5f7:c7f7|h1h6:f8h6|c3c5:c8b8|e6e7*",
+  "EcyKayLveval": "||||||||||||||",
+  "EcyKayLvnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "5ix0ov8V": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:h7h5|e4e5:d7d5|e5d6:f8d6|b1a3:e6e5|f3g5:d6c7|a3c4:d8d5|f2f3:e8g8|c1e3*",
+  "5ix0ov8Veval": "||||||||||||||",
+  "5ix0ov8Vnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xcJzfcdp": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:h7h5|e4e5:f8e7|e2e4:c5c4|d3c4:a8b8|b2b3:c8b7|b1d2:d7d5|e5d6:e7f6|a1b1:c6c5|e4e3:d8d6|d2e4:b7e4|e3e4:f6c3|e1e2*",
+  "xcJzfcdpeval": "||||||||||||||",
+  "xcJzfcdpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "nXoDkYRS": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:h7h5|e4e5:f8e7|e2e4:a8b8|b1d2:d7d5|e5d6:d8d6|d2c4:d6d5|b2b3:c8a6|c4d2:e7f6|a1b1:e8g8|c1a3:f8d8|e1g1*",
+  "nXoDkYRSeval": "||||||||||||||",
+  "nXoDkYRSnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "u5Hd9pln": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:h7h5|e4e5:f7f6|e2e4:f6f5|e4e2:f8e7|b1a3:g6h4|f3h4:e7h4|a3c4:g7g6|c4d6:e8f8|c1e3*",
+  "u5Hd9plneval": "||||||||||||||",
+  "u5Hd9plnnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "FX1UO9Dx": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:h7h5|e4e5:f7f6|e2e4:e8f7|b1a3:c8a6|h1h3:d8b8|f3g5:f6g5|h3f3:g6f4|h4g5*",
+  "FX1UO9Dxeval": "||||||||||||||",
+  "FX1UO9Dxnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dvmQPGf1": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:h7h5|e4e5:f7f6|e2e4:e8f7|b1a3:c8a6|h1h3:d8b8|f3g5:f6g5|h3f3:f7g8|e4g6:b8e5|e1f1*",
+  "dvmQPGf1eval": "||||||||||||||",
+  "dvmQPGf1notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "s83L6Brq": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:h7h5|e4e5:f7f6|e2e4:e8f7|b1a3:d7d5|e5d6:d8d6|a3c4:d6d5|c4e3:d5d6|b2b3:e6e5|c1b2:c8e6|e1c1:d6d7|f3d2:e6d5|e4a4*",
+  "s83L6Brqeval": "||||||||||||||",
+  "s83L6Brqnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "WmREctkg": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:h7h5|e4e5:f7f6|e2e4:e8f7|b1a3:d7d5|e5d6:d8d6|a3c4:d6d5|c4e3:d5e4|d3e4:c8a6|b2b3:e6e5|g2g3*",
+  "WmREctkgeval": "||||||||||||||",
+  "WmREctkgnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "M6uYqnWb": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:e7g6|h2h4:h7h5|e4e5:f7f6|e2e4:e8f7|b1a3:d7d5|e5d6:d8d6|a3c4:d6d5|c4e3:d5e4|d3e4:e6e5|g2g3:c8e6|f3d2:g6e7|b2b3:e7c8|a2a4:c8d6|c1a3:d6b7|d2c4*",
+  "M6uYqnWbeval": "||||||||||||||",
+  "M6uYqnWbnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "2oCRAkY6": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d7d5|b2b3:e7g6|h2h4:d8f6|e4e5:f6f5|g2g3:f5h5|c1b2:f8e7|b1d2*",
+  "2oCRAkY6eval": "||||||||||||||",
+  "2oCRAkY6notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Z39YaN8i": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d7d5|b2b3:e7g6|h2h4:h7h5|e4e5:f7f6|g2g3:f8e7|c1b2:d5d4|b1d2:d8d5|d2c4:c8a6|e1c1:e8c8|h1e1*",
+  "Z39YaN8ieval": "||||||||||||||",
+  "Z39YaN8inotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "KyjCFTZd": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d7d5|b2b3:e7g6|h2h4:h7h5|e4e5:f7f6|g2g3:f8e7|c1b2:a8b8|b1d2:d8a5|e1g1*",
+  "KyjCFTZdeval": "||||||||||||||",
+  "KyjCFTZdnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "0ruxbTm0": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d7d5|b2b3:e7g6|h2h4:h7h5|e4e5:f8e7|g2g3:c5c4|d3c4:c8a6|e1g1:c6c5|c1g5:d5c4|b1d2*",
+  "0ruxbTm0eval": "||||||||||||||",
+  "0ruxbTm0notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "SnrmoKej": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d7d5|b2b3:e7g6|h2h4:h7h5|e4e5:f8e7|g2g3:a7a5|a2a4:c8a6|b1d2:d8b6|c1b2:e7d8|b2a3:b6a7|c2c4:g6e7|a1c1:d8b6|e1g1*",
+  "SnrmoKejeval": "||||||||||||||",
+  "SnrmoKejnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "JafDPAhf": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d7d5|b2b3:f7f6|e4e5:e7g6|c1b2:f8e7|b1d2:a7a5|a2a4:e8g8|e1c1:f6f5|h2h4:g6h8|f3g5:e7g5|h4g5:d8g5|b2a3*",
+  "JafDPAhfeval": "||||||||||||||",
+  "JafDPAhfnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "rKE1GPzX": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e6|b5c6:b7c6|d2d3:g8e7|d1e2:d7d5|b2b3:f7f6|e4e5:e7g6|c1b2:f8e7|b1d2:a7a5|a2a4:e8g8|e1c1:f6f5|h2h4:g6h8|f3g5:h8f7|g5f7:f8f7|f2f4*",
+  "rKE1GPzXeval": "||||||||||||||",
+  "rKE1GPzXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ByrAzZqp": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8g4|h2h3:g4h5|c2c3:d8b6|b1a3:g8f6|d2d4:c5d4|c3d4:d6d5|e4e5:f6d7|g2g4:h5g6|e5e6:f7e6|f3g5*",
+  "ByrAzZqpeval": "||||||||||||||",
+  "ByrAzZqpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "cXgrBib9": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8g4|h2h3:g4h5|c2c3:d8b6|b1a3:a7a6|b5a4:g8f6|d2d4:h5f3|d1f3:c5d4|e4e5:d6e5|a3c4:b6c5|c4e5*",
+  "cXgrBib9eval": "||||||||||||||",
+  "cXgrBib9notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6Lhs7uBM": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8g4|h2h3:g4h5|c2c3:a7a6|b5c6:b7c6|d2d4:c5d4|c3d4:g8f6|c1e3:f6e4|d1c2*",
+  "6Lhs7uBMeval": "||||||||||||||",
+  "6Lhs7uBMnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "1HquNCvB": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8g4|h2h3:g4h5|c2c3:a7a6|b5c6:b7c6|d2d4:c5d4|c3d4:g8f6|c1e3:e7e6|b1d2:f8e7|d1a4:d8d7|a1c1*",
+  "1HquNCvBeval": "||||||||||||||",
+  "1HquNCvBnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "TNGH2AS2": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8g4|h2h3:g4h5|c2c3:a7a6|b5c6:b7c6|d2d4:c5d4|c3d4:e7e6|b1c3:g8f6|d1a4:d8d7|f3d2*",
+  "TNGH2AS2eval": "||||||||||||||",
+  "TNGH2AS2notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "aMhtIvnW": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:g8f6|e4e5:f6g4|b5c6:b7c6|e5d6:e7d6|d2d4:c5d4|f3d4:d8c7|d1f3:g4e5|f3g3*",
+  "aMhtIvnWeval": "||||||||||||||",
+  "aMhtIvnWnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ZyKfO8Ag": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:g8f6|e4e5:f6d5|d2d4:c5d4|f3d4:c8d7|e5d6:e7d6|c2c4:d5f6|b5c6:b7c6|d1f3*",
+  "ZyKfO8Ageval": "||||||||||||||",
+  "ZyKfO8Agnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dfot4j9E": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:g8f6|e4e5:d6e5|f3e5:c8d7|b5c6:d7c6|e5c6:b7c6|d2d3*",
+  "dfot4j9Eeval": "||||||||||||||",
+  "dfot4j9Enotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "zMUw5g2S": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:g7g6|c2c3:f8g7|d2d4:e8g8|d4c5:d6c5|c1f4:d7e6|d1c2:h7h6|b1d2:f6d7|d2c4:b7b5|c4e3*",
+  "zMUw5g2Seval": "||||||||||||||",
+  "zMUw5g2Snotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ffTsdVmc": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:g7g6|c2c3:f8g7|d2d4:e8g8|d4c5:d6c5|c1f4:d7e6|d1c2:h7h6|b1d2:b7b5|d2b3:f6d7|f4e3:d8b6|b3c5:d7c5|b2b4:f8c8|e3c5*",
+  "ffTsdVmceval": "||||||||||||||",
+  "ffTsdVmcnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "5Bcg9jbp": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:g7g6|c2c3:f8g7|d2d4:c5d4|c3d4:e8g8|b1c3:b7b5|c1g5:h7h6|g5f4:b5b4|c3d5*",
+  "5Bcg9jbpeval": "||||||||||||||",
+  "5Bcg9jbpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "JgrzUWWs": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:g7g6|c2c3:f8g7|d2d4:c5d4|c3d4:e8g8|b1c3:b7b5|c1g5:b5b4|c3d5:e7e6|d5f6:g7f6|g5f6:d8f6|e4e5:f6e7|d1d2:f8d8|d2f4:d7e8|h3h4*",
+  "JgrzUWWseval": "||||||||||||||",
+  "JgrzUWWsnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "jvgn2xqP": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:g7g6|c2c3:f8g7|d2d4:c5d4|c3d4:e8g8|b1c3:e7e5|d4e5:d6e5|c1e3:d7e6|f3g5:c6d4|c3e2:d4e2|d1e2:d8e7|g5e6:e7e6|e2f3*",
+  "jvgn2xqPeval": "||||||||||||||",
+  "jvgn2xqPnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "bc5G1Lwe": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:g7g6|c2c3:f8g7|d2d4:c5d4|c3d4:e8g8|b1c3:e7e5|d4e5:d6e5|c1e3:d7e6|f3g5:d8e7|g5e6:e7e6|c3d5*",
+  "bc5G1Lweeval": "||||||||||||||",
+  "bc5G1Lwenotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "TZv0Iklj": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:g7g6|c2c3:f8g7|d2d4:c5d4|c3d4:e8g8|b1c3:a8c8|c1g5:b7b5|a2a4:b5b4|c3d5*",
+  "TZv0Ikljeval": "||||||||||||||",
+  "TZv0Ikljnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "T5oEByJj": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:g7g6|c2c3:f8g7|d2d4:c5d4|c3d4:e8g8|b1c3:a8c8|c1g5:e7e5|d4d5:c6a5|f3d2:b7b5|a2a4:b5b4|c3a2:d8b6|a2c1*",
+  "T5oEByJjeval": "||||||||||||||",
+  "T5oEByJjnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "JubcrocW": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:g7g6|c2c3:f8g7|d2d4:c5d4|c3d4:e8g8|b1c3:a8c8|c1g5:h7h6|g5e3:b7b5|e4e5:f6e8|a2a4*",
+  "JubcrocWeval": "||||||||||||||",
+  "JubcrocWnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "gUC4MKP5": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e6|c2c3:f8e7|d2d4:c5d4|c3d4:e8g8|d4d5*",
+  "gUC4MKP5eval": "||||||||||||||",
+  "gUC4MKP5notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "lXTX4zf0": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e6|c2c3:f8e7|d2d4:c5d4|c3d4:d6d5|e4e5:f6e4|b1d2:e4d2|c1d2:e8g8|f1d3:a8c8|a1c1:d8b6|d2c3:a6a5|d3b1:b6a6|d1c2:g7g6|c2d2*",
+  "lXTX4zf0eval": "||||||||||||||",
+  "lXTX4zf0notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "htShefY3": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e6|c2c3:f8e7|d2d4:c5d4|c3d4:d6d5|e4e5:f6e4|b1d2:e4d2|c1d2:c6a5|f1d3:d7b5|d3c2:a8c8|a1c1:d8b6|d2c3:a5c4|c2b1:e8g8|h3h4*",
+  "htShefY3eval": "||||||||||||||",
+  "htShefY3notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "z4VDIUTR": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e6|c2c3:f8e7|d2d4:c5d4|c3d4:d6d5|e4e5:f6e4|b1d2:e4d2|c1d2:d8b6|d2c3:c6a7|d1d2:b6d8|f1d3:d7b5|d3c2*",
+  "z4VDIUTReval": "||||||||||||||",
+  "z4VDIUTRnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6BLVHZVy": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e6|c2c3:f8e7|d2d4:c5d4|c3d4:d6d5|e4e5:f6e4|b1d2:e4d2|c1d2:d8b6|d2c3:e8g8|f1d3:f7f5|e5f6:g7f6|e1e3:f8f7|d1e2:c6d8|f3h2*",
+  "6BLVHZVyeval": "||||||||||||||",
+  "6BLVHZVynotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "z0ezeHkP": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e6|c2c3:f8e7|d2d4:c5d4|c3d4:d6d5|e4e5:f6e4|b1d2:e4d2|c1d2:d8b6|d2c3:e8g8|f1d3:f7f5|e5f6:f8f6|d3c2:a8f8|d1d3:g7g6|c2a4:e7d6|c3d2*",
+  "z0ezeHkPeval": "||||||||||||||",
+  "z0ezeHkPnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "G3QCTFDR": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:g7g5|d2d4:g5g4|d4d5:c6e5|f3e5:d6e5|h3g4:d7g4|f2f3:g4d7|c1e3:d8c7|a2a4*",
+  "G3QCTFDReval": "||||||||||||||",
+  "G3QCTFDRnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "h0LIgRNo": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:g7g5|d2d4:g5g4|d4d5:g4f3|d5c6:d7c6|d1f3:f6d7|b1c3:e7e6|f3g3:d8e7|c3d5*",
+  "h0LIgRNoeval": "||||||||||||||",
+  "h0LIgRNonotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "4ahwSTxd": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:e8g8|d4d5:c6b8|a2a4:b7b6|b2b4:d7c8|b4c5:b6c5|b1d2*",
+  "4ahwSTxdeval": "||||||||||||||",
+  "4ahwSTxdnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xgtfQ9iw": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:e8g8|d4d5:c6a7|f3e5:d6e5|d5d6:d7e6|d6e7:d8e7|d1f3:a7c6|c1e3:f8d8|b1d2*",
+  "xgtfQ9iweval": "||||||||||||||",
+  "xgtfQ9iwnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "d3jKVKvk": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:c5d4|c3d4:e8g8|d4d5:c6a7|c1e3:d7b5|f1b5:a7b5|b1d2*",
+  "d3jKVKvkeval": "||||||||||||||",
+  "d3jKVKvknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "20WRRISV": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:c5d4|c3d4:e5d4|f3d4:e8g8|b1c3:a8c8|c1f4:f8e8|d4f3:d7e6|f3g5:e7f8|g5e6:f7e6|a1c1*",
+  "20WRRISVeval": "||||||||||||||",
+  "20WRRISVnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "y2Gy6IZk": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:d8c7|d4d5:c6d8|a2a4:e8g8|a4a5:f6e8|b1d2:f7f5|f1d3:f5f4|b2b4:g7g5|b4c5:d6c5|f3e5:c7e5|d2c4:e5c7|e4e5*",
+  "y2Gy6IZkeval": "||||||||||||||",
+  "y2Gy6IZknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "bAmMpqyc": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:d8c7|d4d5:c6d8|a2a4:e8g8|a4a5:f6e8|b1d2:f7f5|f1d3:f5f4|b2b4:g7g5|b4c5:d6c5|f3e5:c7e5|d2c4:e5g7|c4b6*",
+  "bAmMpqyceval": "||||||||||||||",
+  "bAmMpqycnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "JkqK5leb": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:d8c7|d4d5:c6d8|a2a4:e8g8|a4a5:f6e8|b1d2:f7f5|f1d3:f5f4|b2b4:g7g5|b4c5:c7c5|c1a3:c5c7|f3e5:d6e5|a3e7*",
+  "JkqK5lebeval": "||||||||||||||",
+  "JkqK5lebnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "GHd9Mp4o": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:d8c7|d4d5:c6d8|a2a4:e8g8|a4a5:f6e8|b1d2:f7f5|f1d3:f5f4|b2b4:c5b4|c3b4:g7g5|d2c4:g5g4|c4b6:a8b8|d1c2:c7c2|d3c2:d7c8|h3g4:c8g4|f3h2:g4c8|c2a4*",
+  "GHd9Mp4oeval": "||||||||||||||",
+  "GHd9Mp4onotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "GnlxltYJ": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:d8c7|d4d5:c6d8|a2a4:e8g8|a4a5:f6e8|b1d2:f7f5|f1d3:f5e4|d2e4:d8f7|c3c4:e8f6|d1c2:f6e4|d3e4:h7h6|a1a3*",
+  "GnlxltYJeval": "||||||||||||||",
+  "GnlxltYJnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ISVh92cb": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:d8c7|d4d5:c6d8|a2a4:b7b6|b1a3:e8g8|f1d3:f6e8|b2b4:g7g6|b4c5:b6c5|c1h6:e8g7|a3c4:f7f6|a4a5:d8f7|h6g7:g8g7|c4b6*",
+  "ISVh92cbeval": "||||||||||||||",
+  "ISVh92cbnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "9DBG8inS": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:f8e7|d2d4:d8c7|d4d5:c6d8|a2a4:b7b6|b1a3:e8g8|f1d3:d8b7|c1e3:g7g6|f3d2:f6e8|d1e2:d7a4|d3a6:f7f5|e3h6:e8g7|e4f5:g6f5|a3b5:a4b5|a6b5*",
+  "9DBG8inSeval": "||||||||||||||",
+  "9DBG8inSnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "B8kWXKzn": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:g7g5|f3g5:h8g8|d2d4:c5d4|c3d4:c6d4|b1c3:h7h6|g5f3:d4f3|d1f3*",
+  "B8kWXKzneval": "||||||||||||||",
+  "B8kWXKznnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VoqvJ5iG": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:g7g5|f3g5:h8g8|d2d4:h7h6|g5f3:d7h3|d4e5:c6e5|f3e5:d6e5|d1d8:a8d8|b1d2:h3e6|d2c4:f6d7|a2a4*",
+  "VoqvJ5iGeval": "||||||||||||||",
+  "VoqvJ5iGnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ldtCGVvj": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g8f6|h2h3:a7a6|b5f1:e7e5|c2c3:g7g5|f3g5:h8g8|d2d4:h7h6|g5f3:d7h3|d4e5:d6e5|d1d8:a8d8|b1d2:h3e6|d2c4:f6g4|c4b6:c6a5|b6d5*",
+  "ldtCGVvjeval": "||||||||||||||",
+  "ldtCGVvjnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "g44F5qWg": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g7g6|h2h3:f8g7|c2c3:g8f6|d2d4:c5d4|c3d4:e8g8|b1c3:a7a6|b5f1*",
+  "g44F5qWgeval": "||||||||||||||",
+  "g44F5qWgnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "DVvoGvzq": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g7g6|h2h3:f8g7|c2c3:g8f6|d2d4:e8g8|d4c5:d6c5|a2a4:d8c7|e4e5:f6e8|d1e2*",
+  "DVvoGvzqeval": "||||||||||||||",
+  "DVvoGvzqnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6IJYeLZ0": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g7g6|h2h3:f8g7|c2c3:g8f6|d2d4:e8g8|d4c5:d6c5|a2a4:e7e5|c1g5:h7h6|g5f6:g7f6|b1a3*",
+  "6IJYeLZ0eval": "||||||||||||||",
+  "6IJYeLZ0notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "B0hjqQLn": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:g7g6|h2h3:f8g7|c2c3:g8f6|d2d4:e8g8|d4c5:d6c5|a2a4:e7e5|c1g5:d8c7|b1a3:a8d8|d1c2:a7a6|b5f1:h7h6|g5e3:c6a5|f3d2:d8c8|e1d1:f8d8|a3c4:a5c4|d2c4*",
+  "B0hjqQLneval": "||||||||||||||",
+  "B0hjqQLnnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "0lML4YxD": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:e7e6|c2c3:a7a6|b5f1:g8f6*",
+  "0lML4YxDeval": "||||||||||||||",
+  "0lML4YxDnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Abzo5RlS": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:b7c6|e4e5:d6e5|f3e5*",
+  "Abzo5RlSeval": "||||||||||||||",
+  "Abzo5RlSnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "OvUwLKno": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:b7c6|e4e5:d6d5|h2h4:e7e6|d2d3:g8e7|b1c3:e7g6|b2b3:f8e7|c1a3:c5c4|a3e7:d8e7|d3c4:d5c4|b3c4*",
+  "OvUwLKnoeval": "||||||||||||||",
+  "OvUwLKnonotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "9mqNbNFL": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:b7c6|e4e5:d6d5|h2h3:e7e6|d2d3:g8e7|b1c3:e7g6|b2b3:f8e7|c1a3:e8g8|c3a4:d8a5|d1d2:a5d2|f3d2*",
+  "9mqNbNFLeval": "||||||||||||||",
+  "9mqNbNFLnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "iRvGiYAL": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:c6d7|b2b3:e7e6|f2f4:f8e7|e4e5*",
+  "iRvGiYALeval": "||||||||||||||",
+  "iRvGiYALnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "0HwYf3Gp": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:c6d7|b2b3:g7g6|e4e5:d6e5|e1e5:f8g7|c1a3*",
+  "0HwYf3Gpeval": "||||||||||||||",
+  "0HwYf3Gpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "klro23ig": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:c6d7|b2b3:b7b5|c1g5:b5c4|c3d5:f6d5|e4d5*",
+  "klro23igeval": "||||||||||||||",
+  "klro23ignotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "YPGp4BWY": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:c6d7|b2b3:b7b5|c1g5:b5c4|c3d5:h7h6|g5f6:g7f6|d1f3*",
+  "YPGp4BWYeval": "||||||||||||||",
+  "YPGp4BWYnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "KsrCsGEE": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:g7g6|b2b3:f8g7|c1b2:e8g8|d1d2:d8a5|a1d1:c6d7|c3d5:a5d2|d5e7:g8h8|d1d2*",
+  "KsrCsGEEeval": "||||||||||||||",
+  "KsrCsGEEnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "uKq5w2qA": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:g7g6|b2b3:f8g7|c1b2:e8g8|d1d2:d8a5|a1d1:f8d8|d4c6:c8c6|e4e5*",
+  "uKq5w2qAeval": "||||||||||||||",
+  "uKq5w2qAnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "vpZ7xuzE": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:g7g6|b2b3:f8g7|c1b2:e8g8|d1d2:d8a5|a1d1:f8d8|d4c6:c8c6|e4e5*",
+  "vpZ7xuzEeval": "||||||||||||||",
+  "vpZ7xuzEnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "p2IYzG3A": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:g7g6|b2b3:f8g7|c1b2:e8g8*",
+  "p2IYzG3Aeval": "||||||||||||||",
+  "p2IYzG3Anotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "H2neDm1N": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:e7e6|b2b3:f8e7|c1b2:e8g8|d1d2:d8a5|a1d1:f8e8|d4c6:c8c6|c3d5:a5d2|d5e7:e8e7|d1d2*",
+  "H2neDm1Neval": "||||||||||||||",
+  "H2neDm1Nnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "7XQTk1s7": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:e7e6|b2b3:f8e7|c1b2:e8g8|d1d2:f8e8|e1e3:f6d7|e3g3:e7f6|d4c6:c8c6|a1d1:g7g6|f2f4*",
+  "7XQTk1s7eval": "||||||||||||||",
+  "7XQTk1s7notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "BedesYa0": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:e7e6|b2b3:f8e7|c1b2:e8g8|d1d2:f8e8|e1e3:e7f8|d4c6:b7c6|e3d3:f6g4|c3a4:d8h4|d2f4:e6e5|f4g3:h4g3|d3g3:g4f6|g3e3*",
+  "BedesYa0eval": "||||||||||||||",
+  "BedesYa0notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "SGXjqrrm": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:e7e6|b2b3:f8e7|c1b2:e8g8|d1d2:f8e8|e1e3:f6h5|e3d3:e7g5|d2e1:h5f4|d3d1:g5f6|d4c6:c8c6|e1e3:f4g6|a1b1:d8a5|a2a4*",
+  "SGXjqrrmeval": "||||||||||||||",
+  "SGXjqrrmnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "wLW2ZJ76": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:a8c8|c2c4:g8f6|b1c3:e7e6|b2b3:f8e7|c1b2:e8g8|d1d2:f8e8|e1e3:f6h5|e3d3:e7g5|d2e1:h5f4|d3d1:g5f6|d4c6:b7c6|g2g3:f4g6|e1d2:f6e5|h2h4:c6c5|h4h5:g6f8|c3a4:e5b2|a4b2*",
+  "wLW2ZJ76eval": "||||||||||||||",
+  "wLW2ZJ76notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "DjVOcRIh": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:c6d7|c2c4:a8c8|b2b3:g8f6|c1b2:e7e6|b1c3:f8e7|e1e3:e8g8|d1e2:d8a5|a1d1:f8e8|h2h3:e7f8|a2a4:e8d8|b2a3:d7e8|e2d2:a5c7|e3d3:f6d7|d4f3*",
+  "DjVOcRIheval": "||||||||||||||",
+  "DjVOcRIhnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "hk8oHHwy": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:g7g6|d4c6:b7c6|d1f3:g8f6|e4e5:d6e5|f3c6:f6d7|b1c3:d8c8|c6a4*",
+  "hk8oHHwyeval": "||||||||||||||",
+  "hk8oHHwynotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "U3nPxipx": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:g7g6|d4c6:b7c6|d1f3:f8g7|b1a3:g8f6|e4e5:d6e5|f3c6:f6d7|c1e3:d8c8|c6a4*",
+  "U3nPxipxeval": "||||||||||||||",
+  "U3nPxipxnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Q31ihahd": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:g7g6|d4c6:b7c6|d1f3:f8g7|b1a3:d6d5|c1g5:h7h6|g5h4:g6g5|h4g3:g8f6|e4d5:c6d5|c2c4*",
+  "Q31ihahdeval": "||||||||||||||",
+  "Q31ihahdnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "yM8YDCxk": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:e7e5|d4c6:b7c6|b1d2:g8f6|d2c4:f8e7|c1g5:e8g8|g5f6:g7f6|c4e3*",
+  "yM8YDCxkeval": "||||||||||||||",
+  "yM8YDCxknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "kpLHpoVA": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:e7e5|d4c6:b7c6|b1d2:g8f6|d2c4:f8e7|c1g5:e8g8|g5f6:e7f6|d1d6*",
+  "kpLHpoVAeval": "||||||||||||||",
+  "kpLHpoVAnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "LejURo4f": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:g8f6|d4c6:b7c6|d1f3:d8c7|b1a3:e7e6|c1f4:e6e5|f4g5:f8e7|a1d1:e8g8|a3c4*",
+  "LejURo4feval": "||||||||||||||",
+  "LejURo4fnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "P97htI9r": "e2e4:c7c5|g1f3:b8c6|f1b5:d7d6|e1g1:c8d7|f1e1:a7a6|b5c6:d7c6|d2d4:c5d4|f3d4:g8f6|d4c6:b7c6|d1f3:e7e5|c1g5:f8e7|b1d2:e8g8|d2c4:d8c7|a1d1:f8d8|b2b3:d8d7|c4e3:f6e8|g5e7:d7e7|e1e2:g7g6|e2d2*",
+  "P97htI9reval": "||||||||||||||",
+  "P97htI9rnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "mPWd2rVX": "e2e4:c7c5|g1f3:b8c6|f1b5:d8b6|b1c3:c6d4|f3d4:c5d4|c3d5:b6b5|d5c7:e8d8|c7b5*",
+  "mPWd2rVXeval": "||||||||||||||",
+  "mPWd2rVXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "k75XjTTX": "e2e4:c7c5|g1f3:b8c6|f1b5:d8b6|b1c3:c6d4|f3d4:c5d4|c3d5:b6d8|d1h5:e7e6|h5e5*",
+  "k75XjTTXeval": "||||||||||||||",
+  "k75XjTTXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "DWqmjtpz": "e2e4:c7c5|g1f3:b8c6|f1b5:d8b6|b1c3:c6d4|f3d4:c5d4|c3d5:b6d8|d1h5:g8f6|d5f6:g7f6|c2c3:a7a6|b5e2:d4c3|d2c3*",
+  "DWqmjtpzeval": "||||||||||||||",
+  "DWqmjtpznotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "KJjHk2U8": "e2e4:c7c5|g1f3:b8c6|f1b5:d8b6|b1c3:c6d4|f3d4:c5d4|c3d5:b6d6|d2d3:a7a6|b5a4:g8f6|d5f6:d6f6|e1g1*",
+  "KJjHk2U8eval": "||||||||||||||",
+  "KJjHk2U8notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Cz1SmTdE": "e2e4:c7c5|g1f3:b8c6|f1b5:d8b6|b1c3:c6d4|f3d4:c5d4|c3d5:b6d6|d2d3:a7a6|b5a4:g8f6|d5f6:d6f6|e1g1*",
+  "Cz1SmTdEeval": "||||||||||||||",
+  "Cz1SmTdEnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "heM6WApO": "e2e4:c7c5|g1f3:b8c6|f1b5:d8b6|b1c3:e7e6|b5c6:b7c6|e1g1:d7d5|d2d3:g8f6|c3a4:b6c7|b2b3:d5e4|d3e4:f6e4|f1e1:e4f6|c1b2*",
+  "heM6WApOeval": "||||||||||||||",
+  "heM6WApOnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "eFodJP6O": "e2e4:c7c5|g1f3:b8c6|f1b5:d8b6|b1c3:e7e6|b5c6:b6c6|d2d4:c5d4|f3d4:c6c7|e1g1:a7a6|f1e1:f8c5|d4f5:e6f5|e4f5:e8f8|c3d5:c7c6|b2b4:c5a7|c1f4*",
+  "eFodJP6Oeval": "||||||||||||||",
+  "eFodJP6Onotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "rxmzPSsF": "e2e4:c7c5|g1f3:b8c6|f1b5:d8b6|b1c3:e7e6|b5c6:b6c6|d2d4:c5d4|f3d4:c6c7|e1g1:a7a6|f1e1:b7b5|a2a4:b5b4|c3d5:e6d5|e4d5:f8e7|d1g4:e8f8|d4f5:e7f6|c1f4*",
+  "rxmzPSsFeval": "||||||||||||||",
+  "rxmzPSsFnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dHF0n2Vj": "e2e4:c7c5|g1f3:b8c6|f1b5:d8b6|b1c3:e7e6|b5c6:b6c6|d2d4:c5d4|f3d4:c6c7|e1g1:a7a6|f1e1:b7b5|a2a4:b5b4|c3d5:e6d5|e4d5:f8e7|d1g4:g7g6|c1f4:d7d6|g4g3*",
+  "dHF0n2Vjeval": "||||||||||||||",
+  "dHF0n2Vjnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6blS7vIf": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:a7a6|b5a4:b7b5|a4c2:d4c3|b1c3:c8b7|e1g1:e7e6|d2d4:a8c8|c1e3:f8b4|a2a4:b4c3|b2c3:c8c3|a4b5:a6b5|e3d2:c3c8|d4d5:g8e7|d2a5*",
+  "6blS7vIfeval": "||||||||||||||",
+  "6blS7vIfnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "hbvgH7o1": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:a7a6|b5a4:b7b5|a4c2:d4c3|b1c3:c8b7|e1g1:e7e6|d2d4:a8c8|c1e3:b5b4|c3a4:g8f6|d4d5:e6d5|a4b6:d5e4|b6c8:d8c8|a1c1*",
+  "hbvgH7o1eval": "||||||||||||||",
+  "hbvgH7o1notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "NedBxNsL": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:a7a6|b5a4:b7b5|a4c2:d4c3|b1c3:c8b7|e1g1:e7e6|d2d4:a8c8|c1e3:g8f6|e4e5:f6d5|c3d5:b7d5|c2b3:d5b3|a2b3*",
+  "NedBxNsLeval": "||||||||||||||",
+  "NedBxNsLnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "E6KiYgoi": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:a7a6|b5a4:b7b5|a4c2:d4c3|b1c3:c8b7|e1g1:e7e6|d2d4:a8c8|c1e3:g8f6|e4e5:f6d5|c3d5:b7d5|c2b3:d5b7|d4d5*",
+  "E6KiYgoieval": "||||||||||||||",
+  "E6KiYgoinotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "iy5r4ffv": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:a7a6|b5a4:b7b5|a4c2:d8b6|c3d4:b6d4|b1c3:c8b7|d2d3:g8f6|c1e3:d4d6|f2f4:d6b8|e1g1*",
+  "iy5r4ffveval": "||||||||||||||",
+  "iy5r4ffvnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "cqw8H101": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:d4c3|b1c3:g7g6|d2d4:f8g7|e1g1:e7e6|e4e5*",
+  "cqw8H101eval": "||||||||||||||",
+  "cqw8H101notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "f9vbDwrG": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:d4c3|b1c3:g7g6|d2d4:f8g7|e1g1:a7a6|b5c4:e7e6|e4e5:d7d5|e5d6:d8d6|d4d5*",
+  "f9vbDwrGeval": "||||||||||||||",
+  "f9vbDwrGnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "TKAvWVa5": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:d4c3|b1c3:g7g6|d2d4:f8g7|e1g1:a7a6|b5c4:e7e6|e4e5:d7d5|e5d6:g8f6|c1f4:e8g8|f1e1:b7b5|c4b3:c8b7|d4d5*",
+  "TKAvWVa5eval": "||||||||||||||",
+  "TKAvWVa5notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "hSxN1xJ8": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:d4c3|b1c3:g7g6|d2d4:f8g7|e1g1:a7a6|b5c4:e7e6|e4e5:b7b5|c3e4:b5c4|e4d6:e8f8|d1f3*",
+  "hSxN1xJ8eval": "||||||||||||||",
+  "hSxN1xJ8notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "36EqUwfT": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:g8f6|e4e5:f6d5|e1g1:e7e6|d1g4:d4c3|b1c3:d5c3|d2c3*",
+  "36EqUwfTeval": "||||||||||||||",
+  "36EqUwfTnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "YwfMS6Mq": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:g8f6|e4e5:f6d5|e1g1:e7e6|d1g4:d8b6|b5a4:d4d3|b1a3:a7a6|a3c4:b6c7|a4b3:h7h5|g4g3:h5h4|g3d3*",
+  "YwfMS6Mqeval": "||||||||||||||",
+  "YwfMS6Mqnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "aVAnXGqh": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:g8f6|e4e5:f6d5|e1g1:e7e6|d1g4:d8b6|b5a4:a7a6|f1e1:b6a7|a4b3:h7h5|g4f3:d5e7|c3d4:a7d4|e1e4:d4c5|b1c3*",
+  "aVAnXGqheval": "||||||||||||||",
+  "aVAnXGqhnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "CVLO0hgm": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:d8b6|b5a4:g8f6|e4e5:f6d5|e1g1:e7e6|d1g4*",
+  "CVLO0hgmeval": "||||||||||||||",
+  "CVLO0hgmnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "NKZZ7GsA": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:d8b6|b5a4:g7g6|c3d4:f8g7|d4d5:g7b2|c1b2:b6b2|b1c3*",
+  "NKZZ7GsAeval": "||||||||||||||",
+  "NKZZ7GsAnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "RJhcnef6": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:d8b6|b5a4:g7g6|c3d4:b6d4|b1c3:g8f6|e1g1:f6e4|c3b5:d4b6|d2d3:a7a6|c1e3:b6d8|d3e4:a6b5|d1d4*",
+  "RJhcnef6eval": "||||||||||||||",
+  "RJhcnef6notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "9ZxWTIgk": "e2e4:c7c5|g1f3:b8c6|f1b5:c6d4|f3d4:c5d4|c2c3:d8b6|b5a4:g7g6|c3d4:b6d4|b1c3:g8f6|e1g1:f8g7|d2d3:e8g8|c1e3:d4b4|a4b3*",
+  "9ZxWTIgkeval": "||||||||||||||",
+  "9ZxWTIgknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "wTqmFvwG": "e2e4:c7c5|g1f3:b8c6|f1b5:c6a5|c2c3:a7a6|b5a4:b7b5|a4c2:c8b7|d2d4:c5d4|c3d4:a8c8|e1g1:g8f6|b1d2:d7d5|e4e5:f6e4|e5e6:f7f6|f1e1*",
+  "wTqmFvwGeval": "||||||||||||||",
+  "wTqmFvwGnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Lumc0e38": "e2e4:c7c5|g1f3:b8c6|f1b5:c6a5|c2c3:a7a6|b5a4:b7b5|a4c2:c8b7|d2d4:c5d4|c3d4:a8c8|e1g1:e7e6|f1e1:g8f6|b1d2:f8e7|d2f1:e8g8|f1g3*",
+  "Lumc0e38eval": "||||||||||||||",
+  "Lumc0e38notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VCdsBwTj": "e2e4:c7c5|g1f3:b8c6|f1b5:a7a6|b5c6:d7c6|d2d3*",
+  "VCdsBwTjeval": "||||||||||||||",
+  "VCdsBwTjnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "kWhMkMxy": "e2e4:c7c5|g1f3:b8c6|f1b5:a7a6|b5c6:b7c6|e1g1:d7d5|d2d3:c8g4|b1d2:e7e6|c2c3:f8d6|d1a4:d8d7|e4e5:g4f3|d2f3:d6c7|c1e3:c7b6|b2b4*",
+  "kWhMkMxyeval": "||||||||||||||",
+  "kWhMkMxynotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Mk1ZHNgM": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e5|e1g1:g8e7|c2c3:g7g6|d2d4:c5d4|c3d4:e5d4|f3d4:f8g7|c1e3:e8g8|b1c3:d7d5|e4d5:e7d5|d4c6:b7c6|c3d5:c6d5|e3c5*",
+  "Mk1ZHNgMeval": "||||||||||||||",
+  "Mk1ZHNgMnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "9WExr78D": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e5|e1g1:g8e7|c2c3:g7g6|d2d4:c5d4|c3d4:e5d4|f3d4:f8g7|c1e3:e8g8|b1c3:d7d5|e4d5:e7d5|d4c6:b7c6|c3d5:d8d5|d1d5:c6d5|b5c6:a8b8|e3a7:b8b2|a7c5:f8d8|c5e7*",
+  "9WExr78Deval": "||||||||||||||",
+  "9WExr78Dnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "jA2F8Xy7": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e5|e1g1:g8e7|c2c3:g7g6|d2d4:c5d4|c3d4:e5d4|f3d4:f8g7|c1e3:e8g8|b1c3:d7d5|e4d5:e7d5|d4c6:b7c6|c3d5:c6b5|e3c5:f8e8|c5e7:e8e7|d5f6*",
+  "jA2F8Xy7eval": "||||||||||||||",
+  "jA2F8Xy7notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "flXSPQYA": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e5|e1g1:g8e7|c2c3:g7g6|d2d4:c5d4|c3d4:e5d4|f3d4:f8g7|c1e3:e8g8|b1c3:d7d5|e4d5:e7d5|d4c6:b7c6|c3d5:c6b5|e3c5:f8e8|c5e7:d8a5|e7f6:c8b7|d5e7:e8e7|f6e7*",
+  "flXSPQYAeval": "||||||||||||||",
+  "flXSPQYAnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "jxvUbDpQ": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e5|e1g1:g8e7|c2c3:g7g6|d2d4:c5d4|c3d4:e5d4|f3d4:f8g7|c1e3:e8g8|b1c3:d7d5|e4d5:e7d5|d4c6:b7c6|c3d5:c6b5|e3c5:f8e8|c5e7:d8d7|a1c1:g7b2|c1c7:d7f5|c7c5:f5g4|d5c7:g4d1|f1d1:e8e7|c7a8*",
+  "jxvUbDpQeval": "||||||||||||||",
+  "jxvUbDpQnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "i23FxDnB": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e5|e1g1:f8d6|c2c3:a7a6|b5a4:b7b5|a4c2:g8e7|d2d3:e8g8|c1e3:c8b7|f3h4:f8e8|b1d2:e7g6|h4f5:d6f8|d1g4:d7d6|h2h4*",
+  "i23FxDnBeval": "||||||||||||||",
+  "i23FxDnBnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "J3AUH7JF": "e2e4:c7c5|g1f3:b8c6|f1b5:e7e5|e1g1:f8d6|c2c3:a7a6|b5a4:b7b5|a4c2:g8e7|d2d3:e7g6|c1e3:e8g8|b1d2:d6e7|c2b3:d7d6|b3d5:d8e8|d3d4*",
+  "J3AUH7JFeval": "||||||||||||||",
+  "J3AUH7JFnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "1s10iNHe": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:g8f6|f1e1:c6d4|f3d4:c5d4|e4e5:f6d5|c2c3:d4c3|b1c3:d5c3|d2c3:e7e6|d1g4:b7b6|c1f4:h7h5|g4g5*",
+  "1s10iNHeeval": "||||||||||||||",
+  "1s10iNHenotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "dEZmisOF": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:g8f6|f1e1:e7e6|e4e5:f6g4|d2d4:c5d4|b5c6:d7c6|h2h3:g4h6|c1h6*",
+  "dEZmisOFeval": "||||||||||||||",
+  "dEZmisOFnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "AxvNd5Bf": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:g8f6|f1e1:e7e6|e4e5:f6d5|c2c4:d5b4|d2d3:c6d4|f3d4:c5d4|a2a3:b4c6|c1f4:c6e7|b1d2*",
+  "AxvNd5Bfeval": "||||||||||||||",
+  "AxvNd5Bfnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "WDM5x7Gn": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:g8f6|f1e1:e7e6|e4e5:f6d5|c2c4:d5b6|b5c6:c7c6|b2b3:d7d5|e5d6:f8d6|d2d4:e8g8|d4c5:d6c5|c1a3:f7f6|f3d4:c5d4|d1d4:e6e5|d4e3*",
+  "WDM5x7Gneval": "||||||||||||||",
+  "WDM5x7Gnnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "jDWT7kCi": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:g8f6|f1e1:e7e6|e4e5:f6d5|c2c4:d5b6|b5c6:b7c6|d2d3:d7d5|b2b3:f8e7|b1c3:e8g8|c1f4:f8d8|d1c1:d8d7|c3e2:a7a5|a2a4:c7b8|c1e3*",
+  "jDWT7kCieval": "||||||||||||||",
+  "jDWT7kCinotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "tBDj5MrP": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:e7e6|c2c3:g8f6|f1e1:d7d5|e4e5:f6d7|d2d4*",
+  "tBDj5MrPeval": "||||||||||||||",
+  "tBDj5MrPnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "KKnO9cPM": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:e7e6|c2c3:a7a6|b5c6:d7c6|e4e5:c5c4|d2d3:c4d3|d1d3:c8d7|b1d2:e8c8|d2e4:c6c5|c1g5*",
+  "KKnO9cPMeval": "||||||||||||||",
+  "KKnO9cPMnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "aQpkzswq": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:e7e6|c2c3:a7a6|b5c6:c7c6|f1e1:g8f6|d2d4:d7d5|f3e5:c6c7|e4d5:f6d5|c3c4:d5f6|c1f4:c7d8|d4d5*",
+  "aQpkzswqeval": "||||||||||||||",
+  "aQpkzswqnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "g4FheaUP": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:e7e6|c2c3:a7a6|b5c6:c7c6|f1e1:g8f6|d2d4:d7d5|f3e5:c6c7|e4d5:f6d5|c3c4:d5f6|c1f4:f8d6|d4c5:c7c5|b1c3:e8g8|c3a4:c5a5|d1d6:a5a4|f4g5*",
+  "g4FheaUPeval": "||||||||||||||",
+  "g4FheaUPnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Ak4C7yM2": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:e7e6|c2c3:a7a6|b5c6:c7c6|f1e1:g8f6|d2d4:c5d4|c3d4:f8e7|b1c3:d7d6|c1g5*",
+  "Ak4C7yM2eval": "||||||||||||||",
+  "Ak4C7yM2notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "lKY1R8Yk": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:e7e6|c2c3:a7a6|b5c6:c7c6|f1e1:g8f6|d2d4:c5d4|c3d4:f6e4|f3e5:c6d5|d1h5:g7g6|h5h4:d7d6|b1c3:e4c3|h4f6:d6e5|f6h8:c8d7|b2c3*",
+  "lKY1R8Ykeval": "||||||||||||||",
+  "lKY1R8Yknotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "hzjOvTNm": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:a7a6|b5c6:d7c6|a2a4:g8f6|d2d3:a6a5|b1d2:g7g6|b2b3:f8g7|c1b2:e8g8|b2e5:c7d8|d2c4:b7b5|c4e3:g7h6|h2h3*",
+  "hzjOvTNmeval": "||||||||||||||",
+  "hzjOvTNmnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ZF96TttA": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:a7a6|b5c6:d7c6|a2a4:a6a5|d2d4:c5d4|d1d4:c8g4|d4e5:c7e5|f3e5:g4e2|f1e1:e2a6|c1d2:f7f6|e5f3:b7b6|e4e5:e8c8|b2b4:a5b4|d2b4:c6c5|b4c3:g8h6|b1d2*",
+  "ZF96TttAeval": "||||||||||||||",
+  "ZF96TttAnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "mea4SqWU": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:a7a6|b5c6:b7c6|f1e1:e7e5|c2c3:d7d6|d2d4:c5d4|c3d4:c8g4|d4e5:d6e5|h2h3:g4f3|d1f3:g8f6|c1e3:f8e7|b1d2:e8g8|a1c1*",
+  "mea4SqWUeval": "||||||||||||||",
+  "mea4SqWUnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VhLj8sV9": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:a7a6|b5c6:c7c6|d2d4:c6e4|f1e1:e4c6|f3e5:c6c7|c1f4:d7d6|e5c4*",
+  "VhLj8sV9eval": "||||||||||||||",
+  "VhLj8sV9notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "vAVPwDzp": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:a7a6|b5c6:c7c6|d2d4:c5d4|f3d4:c6c7|b1c3:e7e6|f1e1:b7b5|a2a4:b5b4|c3d5:e6d5|e4d5:f8e7|d1g4*",
+  "vAVPwDzpeval": "||||||||||||||",
+  "vAVPwDzpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "f9yqycB9": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:a7a6|b5c6:c7c6|d2d4:c5d4|f3d4:c6c7|b1c3:e7e6|f1e1:d7d6|c1f4:e6e5|c3d5:c7d8|f4e3:e5d4|e3d4:c8e6|d4b6:d8c8|d5c7:e8e7|e4e5:d6e5|e1e5*",
+  "f9yqycB9eval": "||||||||||||||",
+  "f9yqycB9notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "9ZaXqJ9e": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:a7a6|b5c6:c7c6|d2d4:c5d4|f3d4:c6c7|b1c3:e7e6|f1e1:d7d6|c1f4:e6e5|c3d5:c7d8|f4e3:g8e7|d4c6:b7c6|e3b6:c6d5|b6d8:e8d8|e4d5*",
+  "9ZaXqJ9eeval": "||||||||||||||",
+  "9ZaXqJ9enotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "vD9Ln5JM": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:a7a6|b5c6:c7c6|d2d4:c5d4|f3d4:c6c7|b1c3:e7e6|f1e1:d7d6|c1f4:c8d7|d4f5:e6f5|c3d5:c7c6|e4f5:e8d8|f4g5:d8c8|e1e3*",
+  "vD9Ln5JMeval": "||||||||||||||",
+  "vD9Ln5JMnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "r8Jutkkv": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:a7a6|b5c6:c7c6|d2d4:c5d4|f3d4:c6c7|b1c3:e7e6|f1e1:d7d6|c1f4:c8d7|d4f5:e6f5|c3d5:c7c6|e4f5:e8d8|f4g5:f7f6|g5e3:d7f5|d1f3:f5g6|a1d1:g8e7|e3b6:d8c8|e1e7*",
+  "r8Jutkkveval": "||||||||||||||",
+  "r8Jutkkvnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "YuFpbSZX": "e2e4:c7c5|g1f3:b8c6|f1b5:d8c7|e1g1:a7a6|b5c6:c7c6|d2d4:c5d4|f3d4:c6c7|b1c3:e7e6|f1e1:d7d6|c1f4:c8d7|d4f5:e6f5|c3d5:c7c6|e4f5:e8d8|f4g5:f7f6|g5e3:d7f5|d1f3:f5g6|a1d1:g8e7|e3b6:d8d7|f3e3:d7c8|c2c4:c8b8|b2b4*",
+  "YuFpbSZXeval": "||||||||||||||",
+  "YuFpbSZXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "zrge4EFc": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:b7c6|e4e5:f6d5|e1g1:d7d6|f1e1:c8g4|h2h3:g4h5|d2d3:e7e6|b1d2:f8e7|d2c4:e8g8|e5d6:e7d6|c4d6:d8d6|d1e2*",
+  "zrge4EFceval": "||||||||||||||",
+  "zrge4EFcnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ZCOWQfEF": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:b7c6|e4e5:f6d5|e1g1:g7g6|c2c4:d5c7|d2d4:c5d4|d1d4:f8g7|d4h4:e8g8|c1h6:f7f6|h6g7:g8g7|b1c3*",
+  "ZCOWQfEFeval": "||||||||||||||",
+  "ZCOWQfEFnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "r0Yxpx1q": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:b7c6|e4e5:f6d5|e1g1:g7g6|c2c4:d5c7|d2d4:c5d4|d1d4:f8g7|d4h4:h7h6|b1c3*",
+  "r0Yxpx1qeval": "||||||||||||||",
+  "r0Yxpx1qnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "NQSGeHQ4": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:d8c7|e4e5:f6d5|c2c4:d5b4|a2a3:b4a6|e1g1:c8g4|f1e1:e8c8|b1c3:e7e6|h2h3:g4h5|c3e4*",
+  "NQSGeHQ4eval": "||||||||||||||",
+  "NQSGeHQ4notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "rsOQxV97": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:d8c7|e4e5:f6d5|c2c4:d5b6|b1d2:c8f5|d1e2:e8c8|d2e4:e7e6|c1f4:c8b8|h2h3:h7h6|e1c1:g7g5|f4d2:b6d7|d2c3:f8e7|b2b3*",
+  "rsOQxV97eval": "||||||||||||||",
+  "rsOQxV97notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Ngv7m3nm": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:d8c7|e4e5:f6d5|c2c4:d5b6|b1d2:c8g4|h2h3:g4h5|e5e6:f7e6|d1e2*",
+  "Ngv7m3nmeval": "||||||||||||||",
+  "Ngv7m3nmnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "R8drPEhi": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:d8c7|e4e5:f6d5|c2c4:d5b6|b1d2:c8g4|h2h3:g4h5|e5e6:e8c8|d1e2:c7d6|e6f7:h5f7|f3e5:f7g6|e1g1:g6d3|e2g4:e7e6|f1e1:d3f5|g4e2*",
+  "R8drPEhieval": "||||||||||||||",
+  "R8drPEhinotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "8PpzhGcu": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:d8c7|e4e5:f6d5|c2c4:d5b6|b1d2:c8g4|h2h3:g4h5|e5e6:e8c8|d1e2:c7d6|e6f7:e7e5|e1g1:f8e7|e2e5:d6e5|f3e5*",
+  "8PpzhGcueval": "||||||||||||||",
+  "8PpzhGcunotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "EgBEdxfi": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:g7g6|h2h3:f8g7|b1c3*",
+  "EgBEdxfieval": "||||||||||||||",
+  "EgBEdxfinotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "pI8gZqhE": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:e7e6|h2h3:g4h5|b2b3:f8e7|c1b2:e8g8|g2g4:h5g6|h3h4*",
+  "pI8gZqhEeval": "||||||||||||||",
+  "pI8gZqhEnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ubMCLWYu": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:e7e5|h2h3:g4h5|g2g4:h5g6|f3e5*",
+  "ubMCLWYueval": "||||||||||||||",
+  "ubMCLWYunotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VllztNaz": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|d2c4:f7f6|d1e2:e7e5|g2g4:h5f7*",
+  "VllztNazeval": "||||||||||||||",
+  "VllztNaznotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "RS2PNslp": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|g2g4:h5g6|d2c4:h7h5|f3h4:g6h7|c1e3:h5g4|h3g4:b7b5|c4d2:h7g8|g4g5*",
+  "RS2PNslpeval": "||||||||||||||",
+  "RS2PNslpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "GNO11NSZ": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|g2g4:h5g6|d2c4:b7b5|c4e5:d7e5|f3e5:e7e6|c1e3:f8d6|e5g6:h7g6|d1f3:a8c8|e1c1:e8g8|h3h4*",
+  "GNO11NSZeval": "||||||||||||||",
+  "GNO11NSZnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "qwELkKXx": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|g2g4:h5g6|d2c4:d8c7|c1d2:h7h5|f3h4:h5g4|h4g6:f7g6|d1g4*",
+  "qwELkKXxeval": "||||||||||||||",
+  "qwELkKXxnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "f6ZvFIlt": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|g2g4:h5g6|d2c4:d8c7|c1d2:h7h5|f3h4:g6h7|d1e2*",
+  "f6ZvFIlteval": "||||||||||||||",
+  "f6ZvFIltnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "2yloGY8l": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|g2g4:h5g6|d2c4:d8c7|c1d2:b7b5|d2a5:c7b8|c4e3:c5c4|d1d2:e7e6|e1c1:f8d6|d3c4*",
+  "2yloGY8leval": "||||||||||||||",
+  "2yloGY8lnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "E7wQDSRZ": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|g2g4:h5g6|d2c4:d8c7|c1d2:b7b5|d2a5:c7b7|c4e5:d7e5|f3e5:b5b4|e5c4*",
+  "E7wQDSRZeval": "||||||||||||||",
+  "E7wQDSRZnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "JJzwFGvL": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|g2g4:h5g6|d2c4:d8c7|c1d2:b7b5|d2a5:c7b7|c4e5:d7e5|f3e5:f7f6|e5g6:h7g6|a5d2:e7e5|d1f3*",
+  "JJzwFGvLeval": "||||||||||||||",
+  "JJzwFGvLnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "p9qfibAs": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|g2g4:h5g6|d2c4:d8c7|c1d2:e7e5|f3h4:b7b5|c4e3:c5c4|h4g6:h7g6|d3c4*",
+  "p9qfibAseval": "||||||||||||||",
+  "p9qfibAsnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "pUlmUjJW": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|g2g4:h5g6|d2c4:d8c7|c1d2:e7e5|f3h4:b7b5|c4e3:d7b6|d1f3:f7f6|h4g6:h7g6|h3h4*",
+  "pUlmUjJWeval": "||||||||||||||",
+  "pUlmUjJWnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "RNkC87Pf": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|g2g4:h5g6|d2c4:d8c7|c1d2:e7e5|f3h4:f7f6|h4g6:h7g6|h3h4:g6g5|h4h5*",
+  "RNkC87Pfeval": "||||||||||||||",
+  "RNkC87Pfnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "8CYryQep": "e2e4:c7c5|g1f3:b8c6|f1b5:g8f6|b5c6:d7c6|d2d3:c8g4|b1d2:f6d7|h2h3:g4h5|g2g4:h5g6|d2c4:d8c7|c1d2:e7e5|f3h4:f7f6|h4g6:h7g6|h3h4:f8e7|d1f3:d7f8|e1c1:e8c8|g4g5:c8b8|f3g3*",
+  "8CYryQepeval": "||||||||||||||",
+  "8CYryQepnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "BUBKugf1": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c8b7|d4d5:e6d5|e4d5:d8f6|c2c3:h7h6|f1c4:g8e7|e1g1:e7c8|b1d2:c8d6|f1e1:e8d8|d2e4*",
+  "BUBKugf1eval": "||||||||||||||",
+  "BUBKugf1notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "zZmPuyWL": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:a7a6|c1b2:c8b7|b1d2:d7d6|f1d3:g8f6|d1e2*",
+  "zZmPuyWLeval": "||||||||||||||",
+  "zZmPuyWLnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "NrblJfQV": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:d8f6|c1e3:f8c5|c2c3:b8c6|b3b4:c5d4|c3d4:c6b4|b1c3:g8e7|a1b1:b4c6|h2h4*",
+  "NrblJfQVeval": "||||||||||||||",
+  "NrblJfQVnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "GJtZ64wD": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:d8f6|c1e3:b8c6|d4c6:f6a1|e3d4*",
+  "GJtZ64wDeval": "||||||||||||||",
+  "GJtZ64wDnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "NJEEFRQ4": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:d8f6|c1e3:b8c6|d4c6:d7c6|d1d4:f6d4|e3d4*",
+  "NJEEFRQ4eval": "||||||||||||||",
+  "NJEEFRQ4notes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "xj8NiGxL": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:d8f6|c1e3:c8b7|b1d2:b8c6|d4c6:b7c6|f1d3:f8b4|e1g1:g8e7|d1e2*",
+  "xj8NiGxLeval": "||||||||||||||",
+  "xj8NiGxLnotes": ["", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "XNVDlFS1": "e2e4:c7c5|g1f3:h7h6|c2c3:d7d6|d2d4:c5d4|c3d4:g8f6|b1c3:a7a6|c1e3:b8c6|e4e5:f6g4|e5e6:f7e6|f1d3:g4e3|d3g6:e8d7|f2e3:d8a5|a2a3:d7c7|b2b4:a5b6|a1c1:c8d7|e1g1*",
+  "XNVDlFS1eval": "||||||||||||||",
+  "XNVDlFS1notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "W8ZzCdAc": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:f8c5|c1b2:g8f6|e4e5:f6d5|b1d2:e8g8|c2c4:d5e7|d1f3:b8c6|d4c6:e7c6|f1d3:d7d5|e5d6:c8b7|f3g3:c6d4|d3e4:b7e4|d2e4:d4c2|e1d2:c2d4|e4c5:b6c5|b2d4:c5d4|g3e5*",
+  "W8ZzCdAceval": "||||||||||||||",
+  "W8ZzCdAcnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Eqn5RHuY": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:f8c5|c1b2:g8f6|e4e5:f6d5|b1d2:e8g8|c2c4:d5e7|d1f3:b8c6|d4c6:e7c6|f1d3:d7d5|e5d6:c8b7|f3g3:c5d4|b2d4:c6d4|e1g1*",
+  "Eqn5RHuYeval": "||||||||||||||",
+  "Eqn5RHuYnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "WM9Xa3Dl": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:f8c5|c1b2:g8f6|e4e5:f6d5|b1d2:e8g8|c2c4:d5e7|d1f3:b8c6|d4c6:e7c6|f1d3:d7d5|e5d6:c8b7|f3g3:f7f6|d2e4:c5b4|b2c3:e6e5|c3b4:c6b4|a1d1:f6f5|e4c3*",
+  "WM9Xa3Dleval": "||||||||||||||",
+  "WM9Xa3Dlnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "DCXB7glE": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:f8c5|c1b2:g8f6|e4e5:f6d5|b1d2:e8g8|c2c4:d5e7|d1f3:b8c6|d4c6:e7c6|f1d3:d7d5|e5d6:c8b7|f3g3:f7f6|d2e4:c5b4|b2c3:e6e5|c3b4:c6b4|a1d1:f6f5|e4c3:b4d3|g3d3:b7g2|h1g1:g2c6|d3g3*",
+  "DCXB7glEeval": "||||||||||||||",
+  "DCXB7glEnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "VWdepxjM": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:f8c5|c1b2:c8b7|d4e6:f7e6|b2g7:d8h4|d1f3*",
+  "VWdepxjMeval": "||||||||||||||",
+  "VWdepxjMnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "DKWYBVJ7": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:f8c5|c1b2:d8f6|b1a3:a7a6|a3c4*",
+  "DKWYBVJ7eval": "||||||||||||||",
+  "DKWYBVJ7notes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "jRpnTFzx": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:f8c5|c1b2:d8f6|b1a3:b8c6|a3b5:c6d4|b2d4:c5d4|d1d4:f6d4|b5d4:c8b7|f2f3:a7a6|c2c4:g8e7|e1f2*",
+  "jRpnTFzxeval": "||||||||||||||",
+  "jRpnTFzxnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "sqgemIkS": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|f1d3:f8c5|c1b2:d8f6|c2c3:b8c6*",
+  "sqgemIkSeval": "||||||||||||||",
+  "sqgemIkSnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xE0Q4HxH": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:d8f6|d2c4:f6h4|f1d3:g8f6|g2g3:h4h3|d1e2:d7d5|e4d5:b7d5|f2f3:h3h5|h1f1:b8d7|h2h4*",
+  "xE0Q4HxHeval": "||||||||||||||",
+  "xE0Q4HxHnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "nEbDQQ9O": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:d8f6|d2c4:f6h4|f1d3:g8f6|g2g3:h4h6|d1e2:e8g8|f2f4:d7d5|e4d5:b7d5|h1f1:c5d4|b2d4:b8c6|d4b2:c6b4|c4e5:b4d3|e5d3:d5e4|e1c1*",
+  "nEbDQQ9Oeval": "||||||||||||||",
+  "nEbDQQ9Onotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6g0opKCp": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:d8f6|d2c4:f6h4|f1d3:g8f6|g2g3:h4h6|d1e2:e8g8|f2f4:b8c6|d4c6:b7c6|c4e5:c6b7|e1c1*",
+  "6g0opKCpeval": "||||||||||||||",
+  "6g0opKCpnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "4JHf202I": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:g8h6|d1e2:e6e5|d4f5:h6f5|e4f5:e8g8|e1c1:f7f6|f2f4:e5f4|e2c4:d7d5|c4f4:b8c6|d2e4*",
+  "4JHf202Ieval": "||||||||||||||",
+  "4JHf202Inotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "xIHBGgqX": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:g8h6|d1e2:e6e5|d4f5:h6f5|e4f5:e8g8|e1c1:f7f6|f2f4:e5f4|e2c4:d7d5|c4f4:b8a6|d2e4:d8c7|f4c7:a6c7|e4c5:b6c5|b2a3*",
+  "xIHBGgqXeval": "||||||||||||||",
+  "xIHBGgqXnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "SjCgyb3n": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:g8h6|d1e2:e6e5|d4f5:h6f5|e4f5:e8g8|e1c1:f7f6|f2f4:e5f4|e2c4:d7d5|c4f4:b8a6|d2e4:d8c7|f4c7:c5e3|c1b1:a6c7|e4g3:f8e8|f1e2:e3c5|e2f3*",
+  "SjCgyb3neval": "||||||||||||||",
+  "SjCgyb3nnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "l2GIUcIC": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:g8h6|d1e2:e6e5|d4f5:h6f5|e4f5:e8g8|e1c1:f7f6|f2f4:b8c6|d2e4:e5f4|e4c5:b6c5|e2b5:a8b8|b5c5*",
+  "l2GIUcICeval": "||||||||||||||",
+  "l2GIUcICnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "BY2doYgL": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:g8h6|d1e2:e6e5|d4f5:h6f5|e4f5:e8g8|e1c1:f7f6|f2f4:b8c6|d2e4:e5f4|e4c5:b6c5|e2b5:d8b6|d1d7*",
+  "BY2doYgLeval": "||||||||||||||",
+  "BY2doYgLnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "Nhtb3fiC": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:g8h6|d1e2:e6e5|d4f5:h6f5|e4f5:e8g8|e1c1:f7f6|f2f4:b8c6|d2e4:c6d4|b2d4:c5d4|e4d6:d8b8|d1d4:e5d4|e2c4:g8h8|c4d4*",
+  "Nhtb3fiCeval": "||||||||||||||",
+  "Nhtb3fiCnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "ThFunBSA": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:g8h6|d1e2:e6e5|d4f5:h6f5|e4f5:e8g8|e1c1:f7f6|f2f4:b8c6|d2e4:c6d4|b2d4:c5d4|e4d6:d8c7|e2c4*",
+  "ThFunBSAeval": "||||||||||||||",
+  "ThFunBSAnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "lY99Eqjz": "e2e4:e7e6|g1f3:c7c5|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:g8h6|d1e2:e6e5|d4f5:h6f5|e4f5:e8g8|e1c1:f7f6|f2f4:b8c6|d2e4:c6d4|b2d4:c5d4|e4d6:b7c6|d1d4:e5d4|e2c4:g8h8|c4d4*",
+  "lY99Eqjzeval": "||||||||||||||",
+  "lY99Eqjznotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "6m160c1W": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:g8h6|d1e2:e6e5|d4f5:h6f5|e4f5:e8g8|e1c1:f7f6|f2f4:b8c6|d2e4:c6d4|b2d4:e5d4|e4c5:b6c5|e2c4*",
+  "6m160c1Weval": "||||||||||||||",
+  "6m160c1Wnotes": ["", "", "", "", "", "", "", "", "", ""],
+
+  "fJuYFHwH": "e2e4:c7c5|g1f3:e7e6|b2b3:b7b6|d2d4:c5d4|f3d4:c8b7|b1d2:f8c5|c1b2:g8h6|d1e2:e8g8|e1c1:e6e5|d4f5:h6f5|e4f5:f7f6|f2f4*",
+  "fJuYFHwHeval": "||||||||||||||",
+  "fJuYFHwHnotes": ["", "", "", "", "", "", "", "", "", ""]
+}

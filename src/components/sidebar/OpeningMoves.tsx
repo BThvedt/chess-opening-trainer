@@ -67,7 +67,12 @@ const OpeningMoves: FC<IProps> = () => {
 
     moveArray?.forEach((moveArr) => {
       moveArr.forEach((move) => {
-        dummyChess.move(move)
+        try {
+          dummyChess.move(move)
+        } catch (e) {
+          console.log(selectedAlternateLineMoves)
+          alert("error)")
+        }
       })
     })
 
@@ -93,7 +98,10 @@ const OpeningMoves: FC<IProps> = () => {
 
   return (
     <div>
-      <AlternateMoves />
+      <div className="alternate-moves-container">
+        <AlternateMoves />
+      </div>
+
       <CheckInput
         classes="my-2"
         value={highlight}

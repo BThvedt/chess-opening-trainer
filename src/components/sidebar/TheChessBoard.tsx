@@ -112,6 +112,10 @@ const TheChessBoard: FC<IProps> = ({ alternateMoves }) => {
     return moves
   })
 
+  const alternateButtonClickToggle = useSelector(
+    ({ appStore }: RootState) => appStore.alternateButtonClickToggle
+  )
+
   const [
     waitForAlternateMovesToBeChecked,
     setWaitForALternateMovesToBeChecked
@@ -229,6 +233,8 @@ const TheChessBoard: FC<IProps> = ({ alternateMoves }) => {
   const makeAMove: (game: Chess, move: Move) => string = (game, move) => {
     let { from, to } = move
     let onLastMove = false
+
+    console.log("Making a move... ")
 
     if (!generateMoveMode) {
       let index = 0
@@ -598,7 +604,8 @@ const TheChessBoard: FC<IProps> = ({ alternateMoves }) => {
     // note to self, get better at code! Or forseeing complications at least
     setWaitForALternateMovesToBeChecked(false)
     dispatch(showSelectMoveMessage(false)) // just in case
-  }, [selectedAlternateMove])
+    // if the player makes a move then mobes back...
+  }, [selectedAlternateMove, alternateButtonClickToggle])
 
   // this is the part where the other side's automatic moves are made.
   // There are important times when the auto move isn't made like when the back arrow is toggeled,
