@@ -25,3 +25,7 @@ I don't think I have to worry about promotions
 last move is signified by a '*'
 so for example, the closed basic sicilian is 
 e2e4:c7c5|b1c3*
+
+
+push to gh pages 
+https://github.com/gitname/react-gh-pages

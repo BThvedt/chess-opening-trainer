@@ -112,7 +112,7 @@ function App() {
 
   useEffect(() => {
     if (process.env.NODE_ENV !== "development") {
-      setNeedPassword(true)
+      // setNeedPassword(true) // took this out for demo purposes
     }
   }, [])
 
