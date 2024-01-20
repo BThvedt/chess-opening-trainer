@@ -5,7 +5,7 @@ export const LoadOpenings: (dispatch: AppDispatch) => Promise<boolean> = async (
   dispatch
 ) => {
   try {
-    let response = await fetch("/json/openings.json", {
+    let response = await fetch("json/openings.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json"
