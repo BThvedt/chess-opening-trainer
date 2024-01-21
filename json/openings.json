@@ -206,13 +206,6 @@
       },
 
       {
-        "name": "UGA 4 dxe5 Qh4 7..Bc5",
-        "id": "",
-        "note": "",
-        "parent": "ehRNtQOa"
-      },
-
-      {
         "name": "UGA 3..Nxe4 4..Bc5",
         "id": "gBMVMtMA",
         "note": ""
@@ -380,12 +373,7 @@
         "note": "Inaccuracies by black but gotta know the follow ups",
         "parent": "M5Kgtiat"
       },
-      {
-        "name": "UGA 3..Bb4? 4..Bd6+? 5..exf4",
-        "id": "",
-        "note": "Inaccuracies by black but gotta know the follow ups",
-        "parent": "M5Kgtiat"
-      },
+
       {
         "name": "UGA 3..Bb4? 4..Bd6+? 5..Nxd4",
         "id": "Xhs9fFIy",
@@ -1372,12 +1360,6 @@
         "parent": "QFBo97lG"
       },
 
-      {
-        "name": "UGA exd4 Nxe4 h6 7 Nc6",
-        "id": "",
-        "note": "#50",
-        "parent": "QFBo97lG"
-      },
       {
         "name": "UGA exd4 fxd4 f5 Qf3",
         "id": "ftErgYtX",
@@ -3492,12 +3474,6 @@
       },
 
       {
-        "name": "Hybrid Vienna - 8..Bxc3 9..Bg4",
-        "id": "",
-        "note": "Nf6 Na5 #3",
-        "parent": "3Mg1r4NM"
-      },
-      {
         "name": "Hybrid Vienna - 8..Bxc3 9..d6",
         "id": "WBvs3CCz",
         "note": "Nf6 Na5 #3",
@@ -3636,12 +3612,6 @@
       {
         "name": "Hybrid Vienna - d3 Bc5 7..Nd4 8..O-O",
         "id": "TJs80953",
-        "note": "Knight goes to the center. What now?",
-        "parent": "3Mg1r4NM"
-      },
-      {
-        "name": "Hybrid Vienna - d3 Bc5 7..Nd4 8..Bg4",
-        "id": "",
         "note": "Knight goes to the center. What now?",
         "parent": "3Mg1r4NM"
       },
@@ -4771,13 +4741,6 @@
       },
 
       {
-        "name": "2..Qf3 3..d6 4..c6 5..h6",
-        "id": "",
-        "note": "White is immdiately a bit better according to the engine with Nc6.",
-        "parent": "PHaupa52"
-      },
-
-      {
         "name": "Odds and Ends 2...Qg5",
         "id": "cznx0zPc",
         "note": "",
@@ -5314,12 +5277,6 @@
       {
         "name": "2..d6 3..c5 4..Nd7 5..exd4",
         "id": "Z02ZMLi8",
-        "note": "",
-        "parent": "JSyt2U7t"
-      },
-      {
-        "name": "2..d6 3..c5 4..Nd7 5..Qc7",
-        "id": "",
         "note": "",
         "parent": "JSyt2U7t"
       },
@@ -6241,12 +6198,6 @@
         "id": "RMhhIAEw",
         "note": "",
         "parent": "vsYdGxJ8"
-      },
-      {
-        "name": "",
-        "id": "",
-        "note": "",
-        "parent": "vsYdGxJ8"
       }
     ]
   },
@@ -6925,13 +6876,6 @@
       {
         "name": "London System 5 Bxd3 8 NBd2 9 O-O",
         "id": "DsRLjhxM",
-        "note": "",
-        "parent": "tcC1xlbU"
-      },
-
-      {
-        "name": "London System 5 Bxd3 8 NBd2 9 O-O",
-        "id": "",
         "note": "",
         "parent": "tcC1xlbU"
       },
@@ -7776,18 +7720,7 @@
         "note": "White moves the pawn out on move 5 in a good, but not great move. Here are teh top moves by black and the top-ish moves by white",
         "parent": "wRUVAeeD"
       },
-      {
-        "name": "Exchange Bg5",
-        "id": "",
-        "note": "White attacks with Bg5. Black goes 5..Ne4, whte's 'best' response is Bf4",
-        "parent": "wRUVAeeD"
-      },
-      {
-        "name": "Exchange Bg5 6 Nxe4",
-        "id": "",
-        "note": "White attacks with Bg5. Black goes 5..Ne4, whte's 'best' response is Bf4",
-        "parent": "wRUVAeeD"
-      },
+
       {
         "name": "Exchange Bg5 6 Bd2",
         "id": "1O1TREOO",
@@ -9100,31 +9033,6 @@
       },
 
       {
-        "name": "3 Qa5 4 Bf5? 5 Qa4",
-        "id": "9aam6ihf",
-        "note": "",
-        "parent": "6tKzhWQU"
-      },
-      {
-        "name": "3 Qa5 4 Bf5? 5 Qa6",
-        "id": "lF6M8CGC",
-        "note": "",
-        "parent": "6tKzhWQU"
-      },
-      {
-        "name": "3 Qa5 4 Bf5? 5 Qd5",
-        "id": "NMbD6DMC",
-        "note": "",
-        "parent": "6tKzhWQU"
-      },
-      {
-        "name": "3 Qa5 4 Bf5? 5 Qc5?",
-        "id": "PeNDc0tO",
-        "note": "",
-        "parent": "6tKzhWQU"
-      },
-
-      {
         "name": "2 Nc3 3 f4 4 Nc3 5 Nb1",
         "id": "hV795qXu",
         "note": "",
@@ -9628,12 +9536,6 @@
       },
 
       {
-        "name": "2 Nf3 3 exd4 4 Nc3 5 Ne4 6 Qe2",
-        "id": "",
-        "note": "Ne4! Weird move. Black should do a queen pin. This line develops into a threatened fork on move 11",
-        "parent": "VaQgGren"
-      },
-      {
         "name": "2 Nf3 3 exd4 4 Nc3 5 Ne4 6 Qe2 7 Neg5",
         "id": "s70NSKWI",
         "note": "Ne4! Weird move. Black should do a queen pin. Then white moves the knight out",
@@ -9952,25 +9854,6 @@
       },
 
       {
-        "name": "4 Bb3 5 d4 8 Qe2+",
-        "id": "",
-        "note": "A couple follow ups by black",
-        "parent": "aFHDRidT"
-      },
-      {
-        "name": "4 Bb3 5 d4 8 Qf3",
-        "id": "",
-        "note": "A couple follow ups by black",
-        "parent": "aFHDRidT"
-      },
-      {
-        "name": "4 Bb3 5 d4 8 Bf4+",
-        "id": "",
-        "note": "A couple follow ups by black",
-        "parent": "aFHDRidT"
-      },
-
-      {
         "name": "4 Bb5+",
         "id": "V4CCveL3",
         "note": "Weird bishop opening by white. White opts to continue with b5 check",
@@ -10130,12 +10013,6 @@
         "parent": "ZVivLV0M"
       },
 
-      {
-        "name": "Steinitz 4 Bd3 9 Nh3",
-        "id": "",
-        "note": "Continueing Steinitz 4 Bd3 things continued down to a previously analyzed line until 9Nh3. The top response is for black to develop their knight to d2. I follow up with Bf4 mimicing a move my opponent played next, and then the reponse to THAT would be to use the knight - now on d2 - to support an attack the bishop with the e-pawn! Ah, stockfish.",
-        "parent": "ZVivLV0M"
-      },
       {
         "name": "Steinitz 7 - Be3",
         "id": "MAvBE9Mp",
@@ -11189,13 +11066,6 @@
         "name": "Advance 6 Be3 7 dxc5",
         "id": "r1U0Ed6E",
         "note": "",
-        "parent": "aqfMnmvc"
-      },
-
-      {
-        "name": "Advance 6 b3 7 a5",
-        "id": "",
-        "note": "A lot of trades happen, before players casle on move 16",
         "parent": "aqfMnmvc"
       },
 
@@ -12673,25 +12543,6 @@
       },
 
       {
-        "name": "Exchange 4 Be2 5 c4",
-        "id": "",
-        "note": "After the top move white responds with c4. The best move after this and many other possible moves seems to be Nf6",
-        "parent": "uE83nmF5"
-      },
-      {
-        "name": "Exchange 4 Be2 5 d4",
-        "id": "",
-        "note": "After the top move white responds with c4. The best move after this and many other possible moves seems to be Nf6",
-        "parent": "uE83nmF5"
-      },
-      {
-        "name": "Exchange 4 Be2 5 O-O",
-        "id": "",
-        "note": "After the top move white responds with c4. Although Nf6 appears to be the best folloup to many moves, here the engine can't decide between Nf6 and Nc6, although I think it still gvies the slight edge to Nf6",
-        "parent": "uE83nmF5"
-      },
-
-      {
         "name": "Exchange 5 Nc3 6 Bd2",
         "id": "dH2Yw2O3",
         "note": "Played this in a daily game, didn't know the best meoves so here's a line",
@@ -13585,12 +13436,6 @@
       },
 
       {
-        "name": "2Nf3 3 e5 4 d3 5 c3",
-        "id": "",
-        "note": "",
-        "parent": "GyTcEjCm"
-      },
-      {
         "name": "2Nf3 3 e5 4 d3 5 g3",
         "id": "X7rCPCTD",
         "note": "",
@@ -13705,13 +13550,6 @@
         "name": "2Nf3 3e5 4 Bb5 5 Bxd7 6 d4 7 Qxd4 8 Bf4",
         "id": "SwP2XZkC",
         "note": "",
-        "parent": "GyTcEjCm"
-      },
-
-      {
-        "name": "2Nf3 3e5 4 Bb5 5 Bxd7 6 d4 8 Nxd4 11 Re1",
-        "id": "",
-        "note": "An inaccuracy I failed to exploit completely here is a line played out going into middle game territory",
         "parent": "GyTcEjCm"
       },
 
@@ -14308,12 +14146,7 @@
         "id": "XOpdiVQW",
         "note": "A rather odd move by white but apparently it's a real line. Here is a combo of top/interesting moves until about move 8. Ends with a 0.4 advantage for black"
       },
-      {
-        "name": "La Bourdonnais 5 c3 6 Na3",
-        "id": "",
-        "note": "Wow this line c3 is dangerous. I got bored after 14 moves but it's still even and white is applying immense pressure",
-        "parent": "XOpdiVQW"
-      },
+
       {
         "name": "La Bourdonnais 5 c3 6 Be2",
         "id": "nlahM3hw",
@@ -14494,12 +14327,6 @@
         "parent": "1bZtLW1w"
       },
 
-      {
-        "name": "Kings Indian Attack Exchange 4 Nf3 5 Be2 6 O-O",
-        "id": "",
-        "note": "Two brilliant moves in a row on this line!",
-        "parent": "1bZtLW1w"
-      },
       {
         "name": "Kings Indian Attack Exchange 4 Nf3 5 Be2 6 a3",
         "id": "vdNPuB0H",
@@ -15428,12 +15255,7 @@
         "id": "oQlIyVsr",
         "note": "An inaccuracy I think by black but I've seen a few times. Re-tooled for top moves"
       },
-      {
-        "name": "Hillbilly Attack Main LIne 3..dxe4 4..Nf6 6..b6",
-        "id": "",
-        "note": "An inaccuracy I think by black but I've seen a few times. Re-tooled for top moves",
-        "parent": "oQlIyVsr"
-      },
+
       {
         "name": "Hillbilly Attack Main LIne 3..dxe4 4..Nf6 6..Qa5",
         "id": "0ppEK7eU",
@@ -15603,12 +15425,7 @@
         "note": "I follow mostly the best moves from this point until white castles, ahead a pawn, but with only slight advantage because of black's position",
         "parent": "up2ygVH5"
       },
-      {
-        "name": "Hillbilly Attack 3..e5 4..dxe4 5 Nh6??",
-        "id": "",
-        "note": "Black moves the pawn out and then chooses to exchange the next move this time on d4. Nh6 looks natural but is actually a big blunder if exploited correctly",
-        "parent": "up2ygVH5"
-      },
+
       {
         "name": "Hillbilly Attack 3..e5 4..dxe4 5 Nh6??",
         "id": "NAgvZGV0",
@@ -20693,25 +20510,6 @@
       },
 
       {
-        "name": "4..Qd8 5..a6",
-        "id": "",
-        "note": "EXAMPLE.. check move 8",
-        "parent": "mXR1ffgM"
-      },
-      {
-        "name": "4..Qd8 5..Nc6",
-        "id": "",
-        "note": "EXAMPLE.. check move 8",
-        "parent": "mXR1ffgM"
-      },
-      {
-        "name": "4..Qd8 5..e6",
-        "id": "",
-        "note": "EXAMPLE.. check move 8",
-        "parent": "mXR1ffgM"
-      },
-
-      {
         "name": "3..Qd8 4..e6",
         "id": "cx3ACUlV",
         "note": "Unsure of what to do after the Queen goes back to d8, the engine reccomends Be2! I play out reasonable/top moves for about the first 8 moves or so down this line"
@@ -20907,12 +20705,7 @@
         "id": "2xiyt3Ea",
         "note": "How do I not have lines for a5"
       },
-      {
-        "name": "3..Qa5 4..e6",
-        "id": "",
-        "note": "How do I not have lines for a5",
-        "parent": "2xiyt3Ea"
-      },
+
       {
         "name": "3..Qa5 4..Nf6",
         "id": "z9EIQYKp",
@@ -24068,25 +23861,6 @@
       {
         "name": "2 e4 3 Nc3 4 d4 5 Ne2",
         "id": "QTSVMPgm",
-        "note": "2 e4 4 Nc3",
-        "parent": "oeOFgHUn"
-      },
-
-      {
-        "name": "2 e4 3 Nc3 4 d4",
-        "id": "",
-        "note": "2 e4 4 Nc3",
-        "parent": "oeOFgHUn"
-      },
-      {
-        "name": "2 e4 3 Nc3 4 d4",
-        "id": "",
-        "note": "2 e4 4 Nc3",
-        "parent": "oeOFgHUn"
-      },
-      {
-        "name": "2 e4 3 Nc3 4 d4",
-        "id": "",
         "note": "2 e4 4 Nc3",
         "parent": "oeOFgHUn"
       },
