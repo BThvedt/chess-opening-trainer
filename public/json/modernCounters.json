@@ -39,6 +39,18 @@
   "xDFBDucOeval": "|||||||||||",
   "xDFBDucOnotes": ["", "", "", "", "", "", "", "", "", "", "", "", "", ""],
 
+  "gcQLD2SQ": "e2e4:g7g6|d2d4:f8g7|b1c3:c7c6|f2f4:d7d5|e4e5:b8d7|h2h3:h7h5|g1f3:d7b6|a2a4:a7a5|c1e3:c8f5|e3f2:e7e6|f2h4:d8d7|d1d2*",
+  "gcQLD2SQeval": "|||||||||||",
+  "gcQLD2SQnotes": ["", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "jVChRhZl": "e2e4:g7g6|d2d4:f8g7|b1c3:c7c6|f2f4:d7d5|e4e5:b8d7|h2h3:d7b6|a2a4:a7a5|c1e3:h7h5|e3f2*",
+  "jVChRhZleval": "|||||||||||",
+  "jVChRhZlnotes": ["", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+
+  "iWW28k0q": "e2e4:g7g6|d2d4:f8g7|b1c3:c7c6|f2f4:d7d5|e4e5:b8d7|h2h3:d7f8|c1e3:c8f5|g2g4:f5d7|f1e2:h7h5|g4h5:g6h5|d1d2*",
+  "iWW28k0qeval": "|||||||||||",
+  "iWW28k0qnotes": ["", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+
   "bcYbcbos": "e2e4:g7g6|d2d4:f8g7|b1c3:d7d5|e4d5:g8f6|f1c4:b8d7|g1f3:d7b6|c4b3:b6d5|c3d5:f6d5|e1g1:e8g8|c1g5:c7c6|c2c4:d5c7|f1e1*",
   "bcYbcboseval": "|||||||||||",
   "bcYbcbosnotes": ["", "", "", "", "", "", "", "", "", "", "", "", "", ""],

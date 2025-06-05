@@ -16,7 +16,9 @@ export const LoadOpenings: (dispatch: AppDispatch) => Promise<boolean> = async (
 
     dispatch(setOpeningList(json))
   } catch (e) {
-    console.log("there was an error loading the openings")
+    console.log(
+      "there was an error loading the openings fetch path is json/openings.json"
+    )
     console.log(e)
     return false
   }
@@ -31,7 +33,7 @@ export const LoadTheOpening: (
   dispatch: AppDispatch
 ) => Promise<boolean> = async (openingName, file, dispatch) => {
   try {
-    let response = await fetch(`/json/${file}.json`, {
+    let response = await fetch(`json/${file}.json`, {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json"

@@ -89,7 +89,7 @@ const Material: FC = () => {
                   break
               }
 
-              return <img key={i} className="h-6" src={`/pieces/${imgFile!}`} />
+              return <img key={i} className="h-6" src={`pieces/${imgFile!}`} />
             })}
             {/* <div className="text-sm text-gray-400">
           {sortedWhitePieces.length !== 0 && whiteScoreAdvantage > 0 && "+"}
@@ -136,7 +136,7 @@ const Material: FC = () => {
                 <img
                   key={i}
                   className="black-piece-material-filter h-6"
-                  src={`/pieces/${imgFile!}`}
+                  src={`pieces/${imgFile!}`}
                 />
               )
             })}

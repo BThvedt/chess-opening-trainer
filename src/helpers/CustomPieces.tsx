@@ -21,7 +21,7 @@ const CustomPieces = () => {
         style={{
           width: squareWidth,
           height: squareWidth,
-          backgroundImage: `url(/pieces/${p}.png)`,
+          backgroundImage: `url(pieces/${p}.png)`,
           backgroundSize: "100%"
         }}
       />

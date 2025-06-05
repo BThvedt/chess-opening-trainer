@@ -53,6 +53,27 @@
         "note": "A sorta suspicious move by black, but I failed to capatialize over the board so here's the top computer moves. Here's variation 3, on move 5 black can go Nc6 but that leads to Max-Lange type positions, so I'll explore the line where they go d6 to prevent that. I go quite deep, including several logical looking but sub-optimal moves by black.",
         "parent": "hbwlwSpT"
       },
+
+      {
+        "name": "Qe2 exd4 g6 6 Nh5",
+        "id": "QgMSZpwU",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+      {
+        "name": "Qe2 exd4 g6 6 Ng8",
+        "id": "wWAdmIAQ",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+
+      {
+        "name": "Qe2 exd4 g6 6 Ng4",
+        "id": "aIQ6ViCu",
+        "note": "",
+        "parent": "hbwlwSpT"
+      },
+
       {
         "name": "3..Qe7 5..Qb4+",
         "id": "lw7H3sCd",
@@ -104,6 +125,43 @@
       {
         "name": "UGA 4 dxe5 Qh4 5..Bc5 6..Kf8",
         "id": "p0Qoumym",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+
+      {
+        "name": "UGA 4 dxe5 Qh4 5 Bd4 6 Bc5 7 Kf8 8.Qh5",
+        "id": "XBM9Y5Fj",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4 dxe5 Qh4 5 Bd4 6 Bc5 7 Kf8 8.Qe7",
+        "id": "7ajq0ZLq",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4 dxe5 Qh4 5 Bd4 6 Bc5 7 Kf8 8.Qd8",
+        "id": "EYjdLa5P",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4 dxe5 Qh4 5 Bd4 6 Bc5 7 Kf8 8.Qg4",
+        "id": "InyTnatK",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4 dxe5 Qh4 5 Bd4 6 Bc5 7 Kf8 8.Nf2",
+        "id": "VfaVYUoA",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4 dxe5 Qh4 5 Bd4 6 Bc5 7 Kf8 8.Be3",
+        "id": "UZ2vQQPN",
         "note": "",
         "parent": "ehRNtQOa"
       },
@@ -187,6 +245,75 @@
       },
 
       {
+        "name": "UGA 4..Bc5 6.Qe7 7.Bb6 8.Qc5",
+        "id": "sLOh6Nrv",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4..Bc5 6.Qe7 7.Bb6 8.Nc6",
+        "id": "GLfMvg3G",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4..Bc5 6.Qe7 7.Bb6 8.d6",
+        "id": "TX2eZWYk",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4..Bc5 6.Qe7 7.Bb6 8.d5",
+        "id": "krcHHYRp",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+
+      {
+        "name": "UGA 4..Bc5 6.Qe7 7.Bb6 8.O-O 9.Qc5",
+        "id": "7iRXLxFx",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4..Bc5 6.Qe7 7.Bb6 8.O-O 9.Qe6",
+        "id": "y4J3kphS",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4..Bc5 6.Qe7 7.Bb6 8.O-O 9.Qd8",
+        "id": "33e5r9Ai",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+
+      {
+        "name": "UGA 4..Bc5 5.Bxf2 6.Qh4 9.Qe7",
+        "id": "eHky1HlM",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4..Bc5 5.Bxf2 6.Qh4 9.Re7",
+        "id": "5mYWRjL4",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4..Bc5 5.Bxf2 6.Qh4 9.Ng4+",
+        "id": "XNnEFcy3",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+      {
+        "name": "UGA 4..Bc5 5.Bxf2 6.Qh4 9.Ng4+",
+        "id": "xnj6zokB",
+        "note": "",
+        "parent": "ehRNtQOa"
+      },
+
+      {
         "name": "UGA 3 Nxe4 4 Bc5? 5 O-O? 6 d6",
         "id": "Rwyaik1T",
         "note": "The follow ups if black makes a mistake",
@@ -202,13 +329,6 @@
         "name": "UGA 3 Nxe4 4 Bc5? 5 O-O? 6 Qf4",
         "id": "gRWnKv0M",
         "note": "The follow ups if black makes a mistake",
-        "parent": "ehRNtQOa"
-      },
-
-      {
-        "name": "UGA 4 dxe5 Qh4 7..Bc5",
-        "id": "",
-        "note": "",
         "parent": "ehRNtQOa"
       },
 
@@ -380,12 +500,7 @@
         "note": "Inaccuracies by black but gotta know the follow ups",
         "parent": "M5Kgtiat"
       },
-      {
-        "name": "UGA 3..Bb4? 4..Bd6+? 5..exf4",
-        "id": "",
-        "note": "Inaccuracies by black but gotta know the follow ups",
-        "parent": "M5Kgtiat"
-      },
+
       {
         "name": "UGA 3..Bb4? 4..Bd6+? 5..Nxd4",
         "id": "Xhs9fFIy",
@@ -856,6 +971,32 @@
         "note": "The UGA dream attack.. expanded to show a tactical line that leads to checkmate",
         "parent": "QFBo97lG"
       },
+
+      {
+        "name": "UGA 3.exd4 4.Nxe4 5.Nd6 6.Nxc4 8.f8 9.d6 12.Nc6",
+        "id": "dZk97VMr",
+        "note": "Black walks into a trap but can escape checkmate. They have a steep uphill to climb, white seeks to maintain huge advantage",
+        "parent": "QFBo97lG"
+      },
+      {
+        "name": "UGA 3.exd4 4.Nxe4 5.Nd6 6.Nxc4 8.f8 9.d6 12.b6",
+        "id": "vX21wHaW",
+        "note": "Black walks into a trap but can escape checkmate. They have a steep uphill to climb, white seeks to maintain huge advantage. I ",
+        "parent": "QFBo97lG"
+      },
+      {
+        "name": "UGA 3.exd4 4.Nxe4 5.Nd6 6.Nxc4 8.f8 9.d6 12.Kd8",
+        "id": "8QmFx70i",
+        "note": "Black walks into a trap but can escape checkmate. They have a steep uphill to climb, white seeks to maintain huge advantage",
+        "parent": "QFBo97lG"
+      },
+      {
+        "name": "UGA 3.exd4 4.Nxe4 5.Nd6 6.Nxc4 8.f8 9.d6 12.Nb2",
+        "id": "w7ZfA4Xr",
+        "note": "Black walks into a trap but can escape checkmate. They have a steep uphill to climb, white seeks to maintain huge advantage",
+        "parent": "QFBo97lG"
+      },
+
       {
         "name": "UGA 3..exd4 4..Nf3 5..Nd6 6..f6 7..Be7 8..Nc6",
         "id": "Nt2sDwY8",
@@ -1037,6 +1178,14 @@
         "note": "#21",
         "parent": "QFBo97lG"
       },
+
+      {
+        "name": "UGA exd4 11...Ke7",
+        "id": "",
+        "note": "#21",
+        "parent": "QFBo97lG"
+      },
+
       {
         "name": "UGA exd4 11...Nbd7",
         "id": "lxGImSWj",
@@ -1049,6 +1198,27 @@
         "note": "#23",
         "parent": "QFBo97lG"
       },
+
+      {
+        "name": "UGA exd4 11.Kf8 13.Nfd7",
+        "id": "mIeEKCJz",
+        "note": "#23",
+        "parent": "QFBo97lG"
+      },
+      {
+        "name": "UGA exd4 11.Kf8 13.Nbd7",
+        "id": "RSGgF5jb",
+        "note": "#23",
+        "parent": "QFBo97lG"
+      },
+
+      {
+        "name": "UGA exd4 11.Kf8 13.Na6",
+        "id": "YA9ysUj9",
+        "note": "#23",
+        "parent": "QFBo97lG"
+      },
+
       {
         "name": "UGA exd4 10...Qa5",
         "id": "fqlkR95A",
@@ -1303,6 +1473,52 @@
         "note": "#50",
         "parent": "QFBo97lG"
       },
+
+      {
+        "name": "UGA exd4 Nxd4 6.Nc6 7.Nb4 8.Be7",
+        "id": "x1Z2NIiN",
+        "note": "",
+        "parent": "QFBo97lG"
+      },
+      {
+        "name": "UGA exd4 Nxd4 6.Nc6 7.Nb4 8.d5",
+        "id": "yNKeBHEk",
+        "note": "",
+        "parent": "QFBo97lG"
+      },
+
+      {
+        "name": "UGA exd4 Nxd4 6.Nc6 7.Nb4 8.c6",
+        "id": "3D6RW4jk",
+        "note": "",
+        "parent": "QFBo97lG"
+      },
+
+      {
+        "name": "UGA exd4 Nxd4 6.Nc6 7.Bc5 8.Bb4",
+        "id": "Wfhj8Yfy",
+        "note": "",
+        "parent": "QFBo97lG"
+      },
+      {
+        "name": "UGA exd4 Nxd4 6.Nc6 7.Bc5 8.Be7",
+        "id": "xa6zcNcA",
+        "note": "",
+        "parent": "QFBo97lG"
+      },
+      {
+        "name": "UGA exd4 Nxd4 6.Nc6 7.Bc5 8.Qe7+",
+        "id": "J6ufwkSd",
+        "note": "",
+        "parent": "QFBo97lG"
+      },
+      {
+        "name": "UGA exd4 Nxd4 6.Nc6 7.Bc5 8..h6",
+        "id": "8pFKElCJ",
+        "note": "",
+        "parent": "QFBo97lG"
+      },
+
       {
         "name": "UGA exd4 Nxe4 h6 7 d5",
         "id": "XpC4pj41",
@@ -1372,12 +1588,6 @@
         "parent": "QFBo97lG"
       },
 
-      {
-        "name": "UGA exd4 Nxe4 h6 7 Nc6",
-        "id": "",
-        "note": "#50",
-        "parent": "QFBo97lG"
-      },
       {
         "name": "UGA exd4 fxd4 f5 Qf3",
         "id": "ftErgYtX",
@@ -1807,6 +2017,13 @@
       },
 
       {
+        "name": "Boi Variation 4.Bg4+ 5.Qd7",
+        "id": "FFXR3Ul7",
+        "note": "",
+        "parent": "9r9zBtIo"
+      },
+
+      {
         "name": "Boi Variation 4..Nc6 6..Bb4+ 7..Nf6",
         "id": "UEefMC2B",
         "note": "",
@@ -1851,6 +2068,26 @@
         "note": "",
         "parent": "9r9zBtIo"
       },
+
+      {
+        "name": "Boi Variation 4.c6 6.Bb4+ 7.Bxc3",
+        "id": "oTRw4fXM",
+        "note": "",
+        "parent": "9r9zBtIo"
+      },
+      {
+        "name": "Boi Variation 4.c6 6.Bb4+ 7.Nc6",
+        "id": "p35hBT3F",
+        "note": "",
+        "parent": "9r9zBtIo"
+      },
+      {
+        "name": "Boi Variation 4.c6 6.Bb4+ 7.a5",
+        "id": "eRyMgii3",
+        "note": "",
+        "parent": "9r9zBtIo"
+      },
+
       {
         "name": "Boi Variation 4..h6 5..Bb6",
         "id": "pwtHbcIt",
@@ -1959,6 +2196,25 @@
       {
         "name": "Boi Variation 3..Nc6 6..Bb4+ 7 O-O",
         "id": "APz2Fdnl",
+        "note": "Boi Variation",
+        "parent": "9r9zBtIo"
+      },
+
+      {
+        "name": "Boi Variation 3.Nc6 6.Bb4+ 7 O-O 8.Ng4 9.Ne7",
+        "id": "KV4tKzGG",
+        "note": "Boi Variation",
+        "parent": "9r9zBtIo"
+      },
+      {
+        "name": "Boi Variation 3.Nc6 6.Bb4+ 7 O-O 8.Ng4 9.Bx3",
+        "id": "DwCqEuB9",
+        "note": "Boi Variation",
+        "parent": "9r9zBtIo"
+      },
+      {
+        "name": "Boi Variation 3.Nc6 6.Bb4+ 7 O-O 8.Ng4 9.d5",
+        "id": "1NkzBGIH",
         "note": "Boi Variation",
         "parent": "9r9zBtIo"
       },
@@ -2102,6 +2358,26 @@
       },
 
       {
+        "name": "Boi Variation 4.f5 5.exd4 6.Bb4+ 7.Bxc3+",
+        "id": "gzNWQ2bJ",
+        "note": "",
+        "parent": "9r9zBtIo"
+      },
+      {
+        "name": "Boi Variation 4.f5 5.exd4 6.Bb4+ 7.fxe4",
+        "id": "BY6pyB9Z",
+        "note": "",
+        "parent": "9r9zBtIo"
+      },
+
+      {
+        "name": "Boi Variation 4.f5 5.exd4 6.Bb4+ 7.Nc6",
+        "id": "S0ZtNMjj",
+        "note": "",
+        "parent": "9r9zBtIo"
+      },
+
+      {
         "name": "Boi Variation 4..Nf6 5..Bb6 6..Ng4",
         "id": "aumC4ZsE",
         "note": "",
@@ -2164,6 +2440,44 @@
         "note": "Attack with the bishop here",
         "parent": "9r9zBtIo"
       },
+
+      {
+        "name": "Boi Variation 3..Nf6 4..Nxe4 5..Kf8 6.Qf6 7.Bb4+",
+        "id": "DjFfqWv9",
+        "note": "Attack with the bishop here",
+        "parent": "9r9zBtIo"
+      },
+      {
+        "name": "Boi Variation 3..Nf6 4..Nxe4 5..Kf8 6.Qf6 7.c6",
+        "id": "ZdWYLOsD",
+        "note": "Attack with the bishop here",
+        "parent": "9r9zBtIo"
+      },
+      {
+        "name": "Boi Variation 3..Nf6 4..Nxe4 5..Kf8 6.Qf6 7.d6",
+        "id": "p6NSHXdr",
+        "note": "Attack with the bishop here",
+        "parent": "9r9zBtIo"
+      },
+      {
+        "name": "Boi Variation 3..Nf6 4..Nxe4 5..Kf8 6.Qf6 7.Bd6",
+        "id": "mRbrL9pl",
+        "note": "Attack with the bishop here",
+        "parent": "9r9zBtIo"
+      },
+      {
+        "name": "Boi Variation 3..Nf6 4..Nxe4 5..Kf8 6.Qf6 7.Bb6",
+        "id": "lDtRsBDt",
+        "note": "Attack with the bishop here",
+        "parent": "9r9zBtIo"
+      },
+      {
+        "name": "Boi Variation 3..Nf6 4..Nxe4 5..Kf8 6.Qf6 7.Be7",
+        "id": "YY8zX7WE",
+        "note": "Attack with the bishop here",
+        "parent": "9r9zBtIo"
+      },
+
       {
         "name": "Boi Variation 3..Nf6 4..Nxe4 5..Ke7",
         "id": "5hQKFMbE",
@@ -2531,6 +2845,26 @@
         "note": "f5 is an inaccuracy here in this line, let's see how to proceed",
         "parent": "SXEOW4Wj"
       },
+
+      {
+        "name": "UGA 4.Nc6 5.Nxe4 6.f5 7.Be7 9.Kd8 11.e3",
+        "id": "cUGFHzl2",
+        "note": "",
+        "parent": "SXEOW4Wj"
+      },
+      {
+        "name": "UGA 4.Nc6 5.Nxe4 6.f5 7.Be7 9.Kd8 11.d6",
+        "id": "kK89wY2Y",
+        "note": "",
+        "parent": "SXEOW4Wj"
+      },
+      {
+        "name": "UGA 4.Nc6 5.Nxe4 6.f5 7.Be7 9.Kd8 11.Qf6",
+        "id": "rdTQN4mk",
+        "note": "",
+        "parent": "SXEOW4Wj"
+      },
+
       {
         "name": "UGA 4..Nc6 5..Nxe4 6..f5 7..Ne7",
         "id": "aAythEZi",
@@ -2703,6 +3037,25 @@
       },
 
       {
+        "name": "2.f6 3.c6? 4.Nxe4",
+        "id": "S2kvMpIn",
+        "note": "",
+        "parent": "O2fltXNR"
+      },
+      {
+        "name": "2.f6 3.c6? 4.d5",
+        "id": "AuIk6kN9",
+        "note": "",
+        "parent": "O2fltXNR"
+      },
+      {
+        "name": "2.f6 3.c6? 4.Bb4+",
+        "id": "hkEfjOSO",
+        "note": "",
+        "parent": "O2fltXNR"
+      },
+
+      {
         "name": "Hybrid Vienna - 3...Bc5",
         "id": "3Mg1r4NM",
         "note": "Bc5 #1"
@@ -2714,7 +3067,7 @@
         "parent": "3Mg1r4NM"
       },
       {
-        "name": "Hybrid Vienna - 3...Bc5  6...d6",
+        "name": "Hybrid Vienna - 3...Bc5  6...d5",
         "id": "PcpP4mpP",
         "note": "Bc5 #3",
         "parent": "3Mg1r4NM"
@@ -3040,6 +3393,56 @@
       },
 
       {
+        "name": "Hybrid Vienna - Nf6 Bb4 5..Nd4 7.a6 8.c6",
+        "id": "HGLc8pO9",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 5..Nd4 7.a6 8.Be7",
+        "id": "pDmWJ8ud",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 5..Nd4 7.a6 8.Bxc3",
+        "id": "sHbS8itd",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 5..Nd4 7.a6 8.b5",
+        "id": "y5oiciYO",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 5..Nd4 7.a6 8.h6",
+        "id": "eCJLutA8",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 5..Nd4 7.h6 8.d6",
+        "id": "PyCfakhi",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 5..Nd4 7.h6 8.Bc5+",
+        "id": "hVlShEPi",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 5..Nd4 7.h6 8.Bxc3",
+        "id": "YNXuotpU",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+
+      {
         "name": "Hybrid Vienna - Nf6 Bb4 5...d5",
         "id": "Ach7eer2",
         "note": "Nf6 Bb4 #2",
@@ -3158,6 +3561,76 @@
       },
 
       {
+        "name": "Hybrid Vienna - Nf6 Bb4 d6 6 Bg4 7 h5 8 hxg4",
+        "id": "UrOMi2I0",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 d6 6 Bg4 7 h5 8 Ng4",
+        "id": "4d39OzcD",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 d6 6 Bg4 7 h5 8 Bxc3",
+        "id": "kUutBsVU",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 d6 6.O-O 7.Na5",
+        "id": "5EsAJY9W",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 d6 6.O-O 7.h6",
+        "id": "K7sxpEBy",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 d6 6.O-O 7.a5",
+        "id": "3i67G0o1",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 d6 6.O-O 7.Nd4",
+        "id": "QLyxdZhn",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 d6 6.O-O 7.Nd4 11.h6",
+        "id": "cW81RCHk",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 d6 6.O-O 7.Nd4 11.c6",
+        "id": "aX9B4nEu",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 d6 6.O-O 7.Nd4 11.Be6",
+        "id": "1RGC4o1e",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+
+      {
+        "name": "Hybrid Vienna - Nf6 Bb4 d6 6.O-O 7.Bxc3",
+        "id": "vyhPCbqJ",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+
+      {
         "name": "Hybrid Vienna - Nf6 5..Bb4 6..Bxc3",
         "id": "iNgxvNVo",
         "note": "Black takes the knight on c3! What to do",
@@ -3208,6 +3681,53 @@
         "note": "Black takes the knight on c3! What to do",
         "parent": "3Mg1r4NM"
       },
+
+      {
+        "name": "Hybrid Vienna Nf6 Bb4 O-O 6.d6 7.h6 9.Qg6",
+        "id": "kkIq4oLJ",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna Nf6 Bb4 O-O 6.d6 7.h6 9.Qd8",
+        "id": "zB7csywN",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+
+      {
+        "name": "Hybrid Vienna Nf6 Bb4 O-O 6.d6 7.h6 9.Qg5",
+        "id": "33rs4nBv",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+
+      {
+        "name": "Hybrid Vienna Nf6 Bb4 O-O 6.d6 7.h6 9.Qh4",
+        "id": "Dv4pj7W2",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+
+      {
+        "name": "Hybrid Vienna Nf6 Bb4 O-O 6.d6 7.Bg4 8.Nd4",
+        "id": "9vfKsT0p",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna Nf6 Bb4 O-O 6.d6 7.Bg4 8.Kh8",
+        "id": "ks6bT9yi",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna Nf6 Bb4 O-O 6.d6 7.Bg4 8.Nxd5",
+        "id": "2nfLb3Lx",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+
       {
         "name": "Hybrid Vienna - Nf6 4..Bb4 5..Bxc3 6..h6",
         "id": "jdoSuKzI",
@@ -3330,6 +3850,25 @@
       {
         "name": "Hybrid Vienna 3..Bb4 5..f6 6...Bxc3",
         "id": "S3lhPvpr",
+        "note": "",
+        "parent": "ujmPrmhi"
+      },
+
+      {
+        "name": "Hybrid Vienna 3.Bb4 4.Nh6 5.O-O",
+        "id": "rB0jJYgr",
+        "note": "",
+        "parent": "ujmPrmhi"
+      },
+      {
+        "name": "Hybrid Vienna 3.Bb4 4.Nh6 5.Ba5",
+        "id": "xVlvkDb3",
+        "note": "",
+        "parent": "ujmPrmhi"
+      },
+      {
+        "name": "Hybrid Vienna 3.Bb4 4.Nh6 5.d6",
+        "id": "Mec003K9",
         "note": "",
         "parent": "ujmPrmhi"
       },
@@ -3492,12 +4031,6 @@
       },
 
       {
-        "name": "Hybrid Vienna - 8..Bxc3 9..Bg4",
-        "id": "",
-        "note": "Nf6 Na5 #3",
-        "parent": "3Mg1r4NM"
-      },
-      {
         "name": "Hybrid Vienna - 8..Bxc3 9..d6",
         "id": "WBvs3CCz",
         "note": "Nf6 Na5 #3",
@@ -3513,6 +4046,25 @@
         "name": "Hybrid Vienna - 8..Bxc3 9..O-O",
         "id": "5kSIJdSO",
         "note": "Nf6 Na5 #3",
+        "parent": "3Mg1r4NM"
+      },
+
+      {
+        "name": "Hybrid Vienna - 6.4.a5 5.Nxb3 6.Bb4 7.d6 8.Bg4 11.O-O 12.h6",
+        "id": "KmjuoZQ9",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - 6.4.a5 5.Nxb3 6.Bb4 7.d6 8.Bg4 11.O-O 12.Bxc3",
+        "id": "6DpgO9xy",
+        "note": "",
+        "parent": "3Mg1r4NM"
+      },
+      {
+        "name": "Hybrid Vienna - 6.4.a5 5.Nxb3 6.Bb4 7.d6 8.Bg4 11.O-O 12.c6",
+        "id": "C30tjXH4",
+        "note": "",
         "parent": "3Mg1r4NM"
       },
 
@@ -3639,12 +4191,6 @@
         "note": "Knight goes to the center. What now?",
         "parent": "3Mg1r4NM"
       },
-      {
-        "name": "Hybrid Vienna - d3 Bc5 7..Nd4 8..Bg4",
-        "id": "",
-        "note": "Knight goes to the center. What now?",
-        "parent": "3Mg1r4NM"
-      },
 
       {
         "name": "Hybrid Vienna - 6..Nd4 ",
@@ -3768,6 +4314,56 @@
         "note": "d3 Bc5 #19",
         "parent": "PrWAUet4"
       },
+
+      {
+        "name": "Hybrid Vienne 6.a6 7.O-O 9.Bxf5",
+        "id": "SHVMb77p",
+        "note": "",
+        "parent": "PrWAUet4"
+      },
+      {
+        "name": "Hybrid Vienne 6.a6 7.O-O 9.Qd8",
+        "id": "CvoTZljx",
+        "note": "",
+        "parent": "PrWAUet4"
+      },
+      {
+        "name": "Hybrid Vienne 6.a6 7.O-O 9.Qd7",
+        "id": "Y46oU7uT",
+        "note": "",
+        "parent": "PrWAUet4"
+      },
+      {
+        "name": "Hybrid Vienne 6.a6 7.O-O 9.g6",
+        "id": "GMGXd5cX",
+        "note": "",
+        "parent": "PrWAUet4"
+      },
+      {
+        "name": "Hybrid Vienne 6.a6 7.O-O 9.h6",
+        "id": "nCPpM4mt",
+        "note": "",
+        "parent": "PrWAUet4"
+      },
+      {
+        "name": "Hybrid Vienne 6.a6 7.O-O 9.b5",
+        "id": "iqkKjBMl",
+        "note": "",
+        "parent": "PrWAUet4"
+      },
+      {
+        "name": "Hybrid Vienne 6.a6 7.O-O 9.d5",
+        "id": "wjNtlfSP",
+        "note": "",
+        "parent": "PrWAUet4"
+      },
+      {
+        "name": "Hybrid Vienne 6.a6 7.O-O 9.Bd7",
+        "id": "val28qHm",
+        "note": "Bd7 is a huge error, Line ends in checkmate after another easy to make error by black!",
+        "parent": "PrWAUet4"
+      },
+
       {
         "name": "Hybrid Vienna - d3 Bc5 6...Ng4",
         "id": "QryMF2Fv",
@@ -3989,6 +4585,26 @@
         "note": "d3 Bc5 #33",
         "parent": "PrWAUet4"
       },
+
+      {
+        "name": "Hybrid Vienna - d3 Bc5 5.d6 7.O-O 9.h6 11.Qd8 12.Ne7",
+        "id": "2bwF5IXf",
+        "note": "",
+        "parent": "PrWAUet4"
+      },
+      {
+        "name": "Hybrid Vienna - d3 Bc5 5.d6 7.O-O 9.h6 11.Qd8 12.Na5",
+        "id": "j7oQ8Fvg",
+        "note": "",
+        "parent": "PrWAUet4"
+      },
+      {
+        "name": "Hybrid Vienna - d3 Bc5 5.d6 7.O-O 9.h6 11.Qd8 12.Bg4",
+        "id": "lRTQIg29",
+        "note": "",
+        "parent": "PrWAUet4"
+      },
+
       {
         "name": "Hybrid Vienna - d3 Bc5 5..d6 7..O-O 9..Re8",
         "id": "m8eM5L5Y",
@@ -4283,6 +4899,26 @@
         "note": "",
         "parent": "NnGLoYRr"
       },
+
+      {
+        "name": "Hybrid Vienna - 3.Nf6 4.h6 5.Bb4 6.d6 7.Na5 8.dxe5 10.O-O 11.a5",
+        "id": "mP5Qun8b",
+        "note": "",
+        "parent": "NnGLoYRr"
+      },
+      {
+        "name": "Hybrid Vienna - 3.Nf6 4.h6 5.Bb4 6.d6 7.Na5 8.dxe5 10.O-O 11.c5+",
+        "id": "2dfVh1h5",
+        "note": "",
+        "parent": "NnGLoYRr"
+      },
+      {
+        "name": "Hybrid Vienna - 3.Nf6 4.h6 5.Bb4 6.d6 7.Na5 8.dxe5 10.O-O 11.Kh7",
+        "id": "4A2TiSxm",
+        "note": "",
+        "parent": "NnGLoYRr"
+      },
+
       {
         "name": "Hybrid Vienna - 3..Nf6 4..h6 5..Bb4 6..exf4",
         "id": "qeKUJxj5",
@@ -4520,6 +5156,68 @@
       {
         "name": "Hybrid Vienna - 3..h6 4..Bb4",
         "id": "3fAG0v50",
+        "note": "",
+        "parent": "xtIMa9FZ"
+      },
+
+      {
+        "name": "Hybrid Vienna - 3..h6 4..Nd4 5 exf4",
+        "id": "QOzbKDbb",
+        "note": "",
+        "parent": "xtIMa9FZ"
+      },
+      {
+        "name": "Hybrid Vienna - 3..h6 4..Nd4 5 d6",
+        "id": "H2SgJm7y",
+        "note": "",
+        "parent": "xtIMa9FZ"
+      },
+      {
+        "name": "Hybrid Vienna - 3..h6 4..Nd4 5 c6",
+        "id": "RGgjdgn4",
+        "note": "",
+        "parent": "xtIMa9FZ"
+      },
+      {
+        "name": "Hybrid Vienna - 3..h6 4..Nd4 5 h6",
+        "id": "m1OOXlzz",
+        "note": "",
+        "parent": "xtIMa9FZ"
+      },
+      {
+        "name": "Hybrid Vienna - 3..h6 4..Nd4 5 a6",
+        "id": "tV4gpVsu",
+        "note": "",
+        "parent": "xtIMa9FZ"
+      },
+      {
+        "name": "Hybrid Vienna - 3..h6 4..Nd4 5 d5",
+        "id": "MnPsvgUn",
+        "note": "Somehow, the best moves on 25 depth still give black a 0.5 point engine advantage. left off at move 13",
+        "parent": "xtIMa9FZ"
+      },
+      {
+        "name": "Hybrid Vienna - 3..h6 4..Nd4 5 Bd6",
+        "id": "DmlZqMGB",
+        "note": "",
+        "parent": "xtIMa9FZ"
+      },
+
+      {
+        "name": "Hybrid Vienna 3.Nc6 4.Nf6 5.exd4",
+        "id": "NayQsAbF",
+        "note": "",
+        "parent": "xtIMa9FZ"
+      },
+      {
+        "name": "Hybrid Vienna 3.Nc6 4.Nf6 5.d6",
+        "id": "aekRJPKv",
+        "note": "",
+        "parent": "xtIMa9FZ"
+      },
+      {
+        "name": "Hybrid Vienna 3.Nc6 4.Nf6 5.d5",
+        "id": "LhRkNicS",
         "note": "",
         "parent": "xtIMa9FZ"
       },
@@ -4767,13 +5465,6 @@
         "name": "2..Qf6 e..d6 4..Bg4 5..Qh6",
         "id": "kPkCTbog",
         "note": "More basic ass bishop pins",
-        "parent": "PHaupa52"
-      },
-
-      {
-        "name": "2..Qf3 3..d6 4..c6 5..h6",
-        "id": "",
-        "note": "White is immdiately a bit better according to the engine with Nc6.",
         "parent": "PHaupa52"
       },
 
@@ -5317,12 +6008,6 @@
         "note": "",
         "parent": "JSyt2U7t"
       },
-      {
-        "name": "2..d6 3..c5 4..Nd7 5..Qc7",
-        "id": "",
-        "note": "",
-        "parent": "JSyt2U7t"
-      },
 
       {
         "name": "2..d6 3..c6 4..h6",
@@ -5445,6 +6130,30 @@
       {
         "name": "2.a6 3.d6 4.Be7 5.Nh6",
         "id": "0JUqozmV",
+        "note": "",
+        "parent": "XSfsTDEO"
+      },
+      {
+        "name": "2.Qf6 3.a6 4.c6 5.d6",
+        "id": "WNylg6p7",
+        "note": "",
+        "parent": "XSfsTDEO"
+      },
+      {
+        "name": "2.Qf6 3.a6 4.c6 5.d5",
+        "id": " crxVTGfY ",
+        "note": "",
+        "parent": "XSfsTDEO"
+      },
+      {
+        "name": "2.Qf6 3.a6 4.c6 5.exd4",
+        "id": "1Q6BXYr1",
+        "note": "",
+        "parent": "XSfsTDEO"
+      },
+      {
+        "name": "2.Qf6 3.a6 4.c6 5.Nc6",
+        "id": "pdOKqIhk",
         "note": "",
         "parent": "XSfsTDEO"
       }
@@ -6175,6 +6884,1194 @@
         "note": "3..f5? 10",
         "id": "i0YZzPke",
         "parent": "BjL1uXL6"
+      },
+      {
+        "name": "Sidelines in the Evans",
+        "note": "4.Be7 - the way to go",
+        "id": "JbTXHU9L"
+      },
+      {
+        "name": "4.d5",
+        "note": "",
+        "id": "oOpfmCo4"
+      },
+      {
+        "name": "4.Bb6 5.a5",
+        "note": "",
+        "id": "YUEJwPUo"
+      },
+      {
+        "name": "4.Bb6 5.a6",
+        "note": "",
+        "id": "TAYI6R9y",
+        "parent": "YUEJwPUo"
+      },
+      {
+        "name": "4.Bb6 6.Nf6",
+        "note": "4.Bb6 5.a6 #2",
+        "id": "p8UNJ93L",
+        "parent": "YUEJwPUo"
+      },
+      {
+        "name": "4.Bb6 7.Nxe4",
+        "note": "4.Bb6 5.a6 #3",
+        "id": "VRA7IhMq",
+        "parent": "YUEJwPUo"
+      },
+      {
+        "name": "4.Bb6 8.exd5",
+        "note": "4.Bb6 5.a6 #4",
+        "id": "g9BwzR8l",
+        "parent": "YUEJwPUo"
+      },
+      {
+        "name": "4.Bb6 9 Ba7",
+        "note": "4.Bb6 5.a6 #5",
+        "id": "8yHEAfYD",
+        "parent": "YUEJwPUo"
+      },
+      {
+        "name": "4.Bb6 13 fxg2",
+        "note": "",
+        "id": "bj1AwGNx",
+        "parent": "YUEJwPUo"
+      },
+      {
+        "name": "4.Bb6 10 e4",
+        "note": "",
+        "id": "fXllWiTq",
+        "parent": "YUEJwPUo"
+      },
+      {
+        "name": "4.Bb6 8.Nd4",
+        "note": "",
+        "id": "15SY9qCd",
+        "parent": "YUEJwPUo"
+      },
+      {
+        "name": "4.Bb6 12.d5",
+        "note": "",
+        "id": "zp0wg6r2",
+        "parent": "YUEJwPUo"
+      },
+      {
+        "name": "4.Bb6 9.Qf6",
+        "note": "",
+        "id": "HvPi2csf",
+        "parent": "YUEJwPUo"
+      },
+      {
+        "name": "4.Bxb4",
+        "note": "",
+        "id": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 8.Nxd5",
+        "note": "",
+        "id": "BcpwBEbU",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 6.exd4",
+        "note": "",
+        "id": "rkLUXySG",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 7.Nf6",
+        "note": "",
+        "id": "yPn62RS0",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 7.d3",
+        "note": "Typical Tactic, important!",
+        "id": "QOPYRBJO",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 7.Nge7",
+        "note": "",
+        "id": "prsQxcgG",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 8.Bb6 - Black's Typical Mistake",
+        "note": "",
+        "id": "4w3iDjK3",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 9.d5 - Black's Typical Mistake",
+        "note": "",
+        "id": "L78lMLK6",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 10.Na5",
+        "note": "",
+        "id": "8XWgvEfj",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 12.c6",
+        "note": "",
+        "id": "PLG3xcIb",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 16.cxd5",
+        "note": "",
+        "id": "MClzwWbo",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 14.Be6",
+        "note": "",
+        "id": "VvYSOaBR",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 7.d6",
+        "note": "",
+        "id": "NNAsOwQp",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 7.Nge7",
+        "note": "",
+        "id": "9ZHY3Q42",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "4.Bxb4 9.Na5",
+        "note": "Black's Best play - NEXT: 5 BD6",
+        "id": "4CfLDwig",
+        "parent": "283bRDFb"
+      },
+      {
+        "name": "5.Bd6",
+        "note": "5...Bd6 with 6...Qe7",
+        "id": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 10.Qe7",
+        "note": "5...Bd6 with 6...Nf6 - 7.O-O!",
+        "id": "MyU0UV3Y",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 7 O-O",
+        "note": "5...Bd6 with 6...Nf6 - 7.O-O! - what we do!",
+        "id": "GDcpcA6d",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 7 O-O",
+        "note": "5...Bd6 with 6...Nf6 - 7.O-O! - what we do! #2",
+        "id": "CxJme58I",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 11 Re8",
+        "note": "5...Bd6 with 6...Nf6 - 7.O-O! - what we do! #3",
+        "id": "KLD1nBdo",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 10.g5",
+        "note": "",
+        "id": "tVqzFXvZ",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 14.Nxg5",
+        "note": "",
+        "id": "3blABSws",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 10.g5",
+        "note": "",
+        "id": "p0bVrf3B",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 8.h6",
+        "note": "",
+        "id": "sQ8LBZsk",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 14.d6",
+        "note": "",
+        "id": "3AeGcFGl",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 14.Re8",
+        "note": "",
+        "id": "KJi66oFZ",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 13.Bb7",
+        "note": "",
+        "id": "cgcv4hQ4",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bd6 15.cxd6",
+        "note": "MEXT - The Evans sidelines with 5.Bc5",
+        "id": "tbKS36zX",
+        "parent": "LNm9UWWu"
+      },
+      {
+        "name": "5.Bc5",
+        "note": "8.Bb6",
+        "id": "wTIwDe5M"
+      },
+      {
+        "name": "5.Bc5 11.Nge7",
+        "note": "",
+        "id": "yFwIcjbY",
+        "parent": "wTIwDe5M"
+      },
+      {
+        "name": "5.Bc5 15.Ne5",
+        "note": "",
+        "id": "NkMhzOkB",
+        "parent": "wTIwDe5M"
+      },
+      {
+        "name": "5.Bc5 11.Kf8",
+        "note": "",
+        "id": "eogVGyyA",
+        "parent": "wTIwDe5M"
+      },
+      {
+        "name": "5.Bc5 10.Kf8",
+        "note": "",
+        "id": "ua8tGX0P",
+        "parent": "wTIwDe5M"
+      },
+      {
+        "name": "5.Bc5 11.Bxf3",
+        "note": "",
+        "id": "utcS79fy",
+        "parent": "wTIwDe5M"
+      },
+      {
+        "name": "4.Bb6",
+        "note": "",
+        "id": "2Z3AWi7V"
+      },
+      {
+        "name": "4.Bb6 14.Ne4",
+        "note": "",
+        "id": "ZBToihbX",
+        "parent": "2Z3AWi7V"
+      },
+      {
+        "name": "4.Bb6 9.exd4",
+        "note": "",
+        "id": "mjc7if80",
+        "parent": "2Z3AWi7V"
+      },
+      {
+        "name": "4.Bb6 9.Be7",
+        "note": "",
+        "id": "GYPGdzw3",
+        "parent": "2Z3AWi7V"
+      },
+      {
+        "name": "4.Bb6 10.O-O7",
+        "note": "",
+        "id": "I8IKdGlF",
+        "parent": "2Z3AWi7V"
+      },
+      {
+        "name": "5.Be7 6.exd4",
+        "note": "c",
+        "id": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 8.Na5",
+        "note": "c",
+        "id": "Sg6zMyOo",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 7.Na5",
+        "note": "c",
+        "id": "A9JYnU7x",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 10.d6",
+        "note": "",
+        "id": "z440pHHC",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 6.d6",
+        "note": "",
+        "id": "mpZc6XZp",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 6.Na5",
+        "note": "",
+        "id": "gG3Uz5bt",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 19.hxg5",
+        "note": "",
+        "id": "hHEpN4xE",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 20.Qxd5",
+        "note": "",
+        "id": "KSb6jf5u",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 21.Rxe8",
+        "note": "",
+        "id": "MMwb7Pwn",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 7.d6",
+        "note": "",
+        "id": "9OXPxUqW",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 11.Nd7",
+        "note": "",
+        "id": "QfnwXmJ7",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 11.Nd7",
+        "note": "Black's right way",
+        "id": "hX0xhAMj",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 11.c5",
+        "note": "Suspicious mainline",
+        "id": "fhRCEtqZ",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 13.b6",
+        "note": "Suspicious mainline 2",
+        "id": "9u5qMWRc",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 11.Bd6?!",
+        "note": "",
+        "id": "knLXUfmu",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 14.Nd7",
+        "note": "",
+        "id": "Hv0t3CXa",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Be7 11.Bd6?  15.BA5",
+        "note": "the main line",
+        "id": "wUUCqhBg",
+        "parent": "oxrDw7YV"
+      },
+      {
+        "name": "5.Ba5",
+        "note": "",
+        "id": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 8.Nd4",
+        "note": "",
+        "id": "6LgH8S3x",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 7.Qd7",
+        "note": "",
+        "id": "CtIhz9K7",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 9.Dxe5",
+        "note": "",
+        "id": "UdtLwhz4",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 8.Bb6",
+        "note": "",
+        "id": "nHHlGrBP",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 11.Qc6",
+        "note": "",
+        "id": "Z0iAndU4",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 6.Nxd4",
+        "note": "",
+        "id": "AFduwKRS",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 6.b5",
+        "note": "",
+        "id": "eNdZ2DsV",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 9.Ne7",
+        "note": "",
+        "id": "aEwXfMu1",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 9.c6",
+        "note": "",
+        "id": "hvKxKOgr",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 6.exd4",
+        "note": "",
+        "id": "j9ZjQJjE",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 9.O-O",
+        "note": "",
+        "id": "TJblvNA8",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 10.Qd6",
+        "note": "",
+        "id": "pyZF8NuC",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 8.Bb6",
+        "note": "",
+        "id": "zoxXabJr",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 9.Qg6",
+        "note": "",
+        "id": "lABLwyz8",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 10.Na5",
+        "note": "",
+        "id": "UouiNJDF",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 7.Qe7",
+        "note": "",
+        "id": "ObUSgAzg",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 10.Nd6",
+        "note": "",
+        "id": "vSDQBkx1",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 12.Qd8",
+        "note": "",
+        "id": "lxetc0GI",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 14.Kh8",
+        "note": "",
+        "id": "IMuXISDs",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 8.d6",
+        "note": "",
+        "id": "A0qsAOBX",
+        "parent": ""
+      },
+      {
+        "name": "5.Ba5 9.dxe5",
+        "note": "",
+        "id": "k3rXWDRh",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 8.Bb6",
+        "note": "stopped here",
+        "id": "u8A5xTfB",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 6.exd4",
+        "note": "",
+        "id": "4ijNQ726",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 14.Qe5",
+        "note": "improvement on Lysyj's book 1",
+        "id": "PaLRP2rD",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 17.Qh5",
+        "note": "improvement on Lysyj's book 2",
+        "id": "eiVi0sgi",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 10.f6",
+        "note": "the kaufman line",
+        "id": "8TUCeKPW",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 15.Qd7",
+        "note": "the kaufman line",
+        "id": "Ci1oDAHy",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 12.a6",
+        "note": "the kaufman line",
+        "id": "g9HSlCR8",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 11.Nh6",
+        "note": "the kaufman line",
+        "id": "QWBfIEKd",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 17.dxe5",
+        "note": "the kaufman line",
+        "id": "4lhu1uHr",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 18.Rd8",
+        "note": "the kaufman line",
+        "id": "kwerGPgl",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 12.Qc6",
+        "note": "the kaufman line",
+        "id": "Brqtk7ow",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 16.Qd7",
+        "note": "the kaufman line",
+        "id": "DSWrbl9q",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 13.exd4",
+        "note": "the kaufman line",
+        "id": "gZyN58Sk",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 14.dxc3",
+        "note": "the kaufman line",
+        "id": "SrMTd6dc",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 17.Rf8",
+        "note": "the kaufman line",
+        "id": "HdFMzipG",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 19.bxd4",
+        "note": "the kaufman line",
+        "id": "uzHaoXmK",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 12.Nec6",
+        "note": "the kaufman line",
+        "id": "pisyspc6",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 13.Qe7",
+        "note": "the kaufman line",
+        "id": "67EKG7qN",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 13.exd4",
+        "note": "the kaufman line",
+        "id": "mtzmHXiU",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 17.Nxc4",
+        "note": "the kaufman line",
+        "id": "NmJs4cSq",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 14.Bxd4",
+        "note": "the kaufman line",
+        "id": "s7VKuej1",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 17.fxe5",
+        "note": "the kaufman line",
+        "id": "Dcci0cdu",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 18.Bf5",
+        "note": "the kaufman line",
+        "id": "pVFeG00k",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 21.Rf6",
+        "note": "the kaufman line",
+        "id": "ZqZybE8T",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 13.a5",
+        "note": "the kaufman line",
+        "id": "aRYR27CW",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 17.Rf7",
+        "note": "the kaufman line",
+        "id": "ampz37Ie",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 16.Qd8",
+        "note": "the kaufman line",
+        "id": "Ie08nGNY",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "5.Ba5 16.Qd8",
+        "note": "the kaufman line",
+        "id": "Ie08nGNY",
+        "parent": "S0xZLs9i"
+      },
+      {
+        "name": "4.Bc5",
+        "note": "",
+        "id": "03bIRl13"
+      },
+      {
+        "name": "4.Bc5 5.ke7",
+        "note": "",
+        "id": "u4GTKhf4",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.Bc5 17.Kxf5",
+        "note": "",
+        "id": "2Wxg5F2S",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.Bc5 13.Kd8",
+        "note": "",
+        "id": "BZE0KEKh",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.Bc5 9.d6",
+        "note": "",
+        "id": "eZJEdE34",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.Bc5 7.h6",
+        "note": "",
+        "id": "TJ28H1kM",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.Bc5 9.Nf6",
+        "note": "",
+        "id": "trVuGoec",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.Nxe4",
+        "note": "",
+        "id": "0dDSekBE",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.Nxe4 6.h6",
+        "note": "",
+        "id": "f4OwMpVV",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.Nxe4 8.Nd4",
+        "note": "",
+        "id": "vCCO2NzO",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5",
+        "note": "",
+        "id": "mEF5bhmC",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 6.Nf5",
+        "note": "",
+        "id": "D0hQnxIw",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 5.Nxd5",
+        "note": "",
+        "id": "nTkXxcry",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 7.Be7",
+        "note": "",
+        "id": "D7NP9GS3",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 6.Be7",
+        "note": "",
+        "id": "aqzDU61n",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 9.Ncb4",
+        "note": "",
+        "id": "2tCEhqs5",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 13.Be7",
+        "note": "",
+        "id": "J3C07YLU",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 11.Nxc2",
+        "note": "",
+        "id": "pHRbZhV4",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 6.Nxd4",
+        "note": "",
+        "id": "YuSvhKin",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 8.Qxd5",
+        "note": "",
+        "id": "1AoBBBDp",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 7.f6",
+        "note": "",
+        "id": "0WofHzh2",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 7.b5",
+        "note": "",
+        "id": "ghuY8S2R",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 8.h6",
+        "note": "",
+        "id": "rIY3cQn4",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 5.b5",
+        "note": "",
+        "id": "LPuT2lDh",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 6.h6",
+        "note": "",
+        "id": "BNIIXdcK",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "4.d5 6.Qxd5",
+        "note": "",
+        "id": "5Dj6NAlv",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.b5",
+        "note": "",
+        "id": "E8wFIWS4",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.b5 10.Bb7",
+        "note": "",
+        "id": "HOq25PbO",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5",
+        "note": "",
+        "id": "tIyjWa22",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 9.bxd6",
+        "note": "",
+        "id": "ho0u8oCZ",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 7.Nxd5",
+        "note": "",
+        "id": "ToDjm6hl",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 8.Qe7",
+        "note": "",
+        "id": "CYHpbSHJ",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 7.Bd6",
+        "note": "",
+        "id": "GPt9JL4s",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 9.b6",
+        "note": "",
+        "id": "Z1jPfI7p",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 8.Qxd7",
+        "note": "",
+        "id": "yPv3YXKI",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 10.c6",
+        "note": "",
+        "id": "1FZpXsoD",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 12.h6",
+        "note": "",
+        "id": "Ges8rJlR",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 14.Bc7",
+        "note": "",
+        "id": "O8Dp0fQl",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 7.Be7",
+        "note": "",
+        "id": "M9EeVqWA",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 8.Nsd5",
+        "note": "The critical line",
+        "id": "OTtQsQ2g",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 6.d6",
+        "note": "Traxler Gambit Transposition",
+        "id": "PssnWzaK",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 7.Rf8",
+        "note": "",
+        "id": "zUNekF3Q",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "5.Na5 9.Qg6",
+        "note": "",
+        "id": "YswbuEGB",
+        "parent": "03bIRl13"
+      },
+      {
+        "name": "7..Nxc7?",
+        "note": "Ch 7 Black Sidelines",
+        "id": "gBDyya3q"
+      },
+      {
+        "name": "7..bxc6",
+        "note": "",
+        "id": "eSKX5lST",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "9.Nd5",
+        "note": "",
+        "id": "wPPlFg9O",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "10.g6",
+        "note": "",
+        "id": "5WAyjAT0",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "10.Be7",
+        "note": "",
+        "id": "nsk9khYK",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "8.Bc5",
+        "note": "",
+        "id": "dB2EUDYC",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "8.Ng4",
+        "note": "",
+        "id": "uAzqxdrJ",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "12.exd4",
+        "note": "",
+        "id": "bv8SOPJX",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "10.h5",
+        "note": "",
+        "id": "dtUntm8u",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "13.O-O",
+        "note": "transposition",
+        "id": "oz0dKvqY",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "13.Qd4",
+        "note": "very main line",
+        "id": "g2tebWAU",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "15.Be7",
+        "note": "line 1",
+        "id": "xoQR6Wso",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "15.Be7",
+        "note": "line 2",
+        "id": "udrZJSsD",
+        "parent": "gBDyya3q"
+      },
+      {
+        "name": "9.Nf4",
+        "note": "",
+        "id": "NZkJRm3H"
+      },
+      {
+        "name": "9.Nf4 11.exf3",
+        "note": "",
+        "id": "4etFq9YJ",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "9.Nf4 10.Bd6",
+        "note": "",
+        "id": "ew0VJ502",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "9.Nf4 11.e4",
+        "note": "",
+        "id": "ZINfCZ0E",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "9.Bd6",
+        "note": "",
+        "id": "oyK3Uh8x",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "9.Bd6 12.Bg4",
+        "note": "",
+        "id": "PVRzKj40",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "9.Bd6 11.f5",
+        "note": "",
+        "id": "Cu0O4MkN",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "9.Bd6 17.c4",
+        "note": "",
+        "id": "N9mbBvU9",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "9.Bd6 18.Kh8",
+        "note": "",
+        "id": "aMm0X0aU",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.Nf4",
+        "note": "",
+        "id": "8Wexlwcq",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.Nf4 13.Re8",
+        "note": "",
+        "id": "Op7wPyRy",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.Nf4 15.Be7",
+        "note": "",
+        "id": "HxcZw36F",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5",
+        "note": "Jan's suggestion",
+        "id": "zJxUxPT4",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 12.Nc4",
+        "note": "Jan's suggestion",
+        "id": "XEtqJ1Bf",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 14.e4",
+        "note": "Jan's suggestion",
+        "id": "yVc5y6Gu",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 12.Nc6",
+        "note": "Jan's suggestion",
+        "id": "rAtRQH2e",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 15.e4",
+        "note": "Jan's suggestion",
+        "id": "MOb657wr",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 17.Bxb5",
+        "note": "Jan's suggestion",
+        "id": "eOmGZ6f6",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 14.e4",
+        "note": "Jan's suggestion",
+        "id": "rg8zK13A",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 13.Bb7",
+        "note": "The aggressive try",
+        "id": "eNu6dXyc",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 15.Qc7",
+        "note": "The aggressive try",
+        "id": "bxCM485Z",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 14.O-O",
+        "note": "The aggressive try",
+        "id": "v7dOi0Al",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 15.Bc7",
+        "note": "The aggressive try",
+        "id": "1okU7bEj",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 16.a6",
+        "note": "The aggressive try",
+        "id": "Cp9yrKHU",
+        "parent": "NZkJRm3H"
+      },
+      {
+        "name": "10.f5 18.Kh8",
+        "note": "The aggressive try",
+        "id": "yV9C83IY",
+        "parent": "NZkJRm3H"
       }
     ]
   },
@@ -6239,12 +8136,6 @@
       {
         "name": "",
         "id": "RMhhIAEw",
-        "note": "",
-        "parent": "vsYdGxJ8"
-      },
-      {
-        "name": "",
-        "id": "",
         "note": "",
         "parent": "vsYdGxJ8"
       }
@@ -6518,6 +8409,25 @@
       },
 
       {
+        "name": "Main Line 4 Nf3 5 c5 6 b4 7 Bd2 9 Bxc5",
+        "id": "fCa5isHD",
+        "note": "",
+        "parent": "3A7yNzXt"
+      },
+      {
+        "name": "Main Line 4 Nf3 5 c5 6 b4 7 Bd2 9 dxc5",
+        "id": "GQX2IDbj",
+        "note": "",
+        "parent": "3A7yNzXt"
+      },
+      {
+        "name": "Main Line 4 Nf3 5 c5 6 b4 7 Bd2 9 Bd2",
+        "id": "k3yglEgG",
+        "note": "",
+        "parent": "3A7yNzXt"
+      },
+
+      {
         "name": "Main Line 3 g3 4 Bg2",
         "id": "LJUO6eMc",
         "note": "",
@@ -6558,6 +8468,31 @@
       {
         "name": "Colle 5 Nd2 6 O-O 7 dxc5",
         "id": "5TCgiNav",
+        "note": "",
+        "parent": "hL23ocu1"
+      },
+
+      {
+        "name": "Colle 5 Nd2 4 Bd3 7 c4",
+        "id": "OR7XEoWE",
+        "note": "",
+        "parent": "hL23ocu1"
+      },
+      {
+        "name": "Colle 5 Nd2 4 Bd3 7 Qg3",
+        "id": "mSWgaiM8",
+        "note": "",
+        "parent": "hL23ocu1"
+      },
+      {
+        "name": "Colle 5 Nd2 4 Bd3 7 Nd2",
+        "id": "dloOKYxz",
+        "note": "",
+        "parent": "hL23ocu1"
+      },
+      {
+        "name": "Colle 5 Nd2 4 Bd3 7 O-O",
+        "id": "euFJG0Vm",
         "note": "",
         "parent": "hL23ocu1"
       },
@@ -6651,6 +8586,25 @@
       },
 
       {
+        "name": "Queen's pawn, Chigorin variation 4 Bf4 5 a3 7 Nd2",
+        "id": "FAPLY3sC",
+        "note": "",
+        "parent": "qFJ3UE0K"
+      },
+      {
+        "name": "Queen's pawn, Chigorin variation 4 Bf4 5 a3 7 dxc5",
+        "id": "xdsIWVXU",
+        "note": "",
+        "parent": "qFJ3UE0K"
+      },
+      {
+        "name": "Queen's pawn, Chigorin variation 4 Bf4 5 a3 7 g3",
+        "id": "8yYCe8iy",
+        "note": "",
+        "parent": "qFJ3UE0K"
+      },
+
+      {
         "name": "Veresov 6 Nc3",
         "id": "Y09BAMhG",
         "note": "re-tooled for best moves"
@@ -6719,6 +8673,68 @@
         "name": "Veresov 4 e3 5 Bb3",
         "id": "da8ruA1J",
         "note": "The best moves in a game I played (was winning too until I blundered my queen). Anyway here's a line played out after 4 e3 5 Bb3 playing top moves for black and mostly top moves for white",
+        "parent": "Y09BAMhG"
+      },
+
+      {
+        "name": "Veresov 4 e3 5 Bb3 9 O-O",
+        "id": "901W5nZO",
+        "note": "",
+        "parent": "Y09BAMhG"
+      },
+      {
+        "name": "Veresov 4 e3 5 Bb3 9 h4",
+        "id": "QwlWNmyC",
+        "note": "",
+        "parent": "Y09BAMhG"
+      },
+      {
+        "name": "Veresov 4 e3 5 Bb3 9 a3",
+        "id": "rQPpiKSm",
+        "note": "",
+        "parent": "Y09BAMhG"
+      },
+      {
+        "name": "Veresov 4 e3 5 Bb3 9 Bg3",
+        "id": "PWALhA7Y",
+        "note": "",
+        "parent": "Y09BAMhG"
+      },
+      {
+        "name": "Veresov 4 e3 5 Bb3 9 Be5",
+        "id": "y0pNgKx1",
+        "note": "",
+        "parent": "Y09BAMhG"
+      },
+
+      {
+        "name": "Veresov 4 e3 5 Nf3 6 dxc5 8 Ne5",
+        "id": "LzlCxFdf",
+        "note": "",
+        "parent": "Y09BAMhG"
+      },
+      {
+        "name": "Veresov 4 e3 5 Nf3 6 dxc5 8 Bd3",
+        "id": "V1yxGV9p",
+        "note": "",
+        "parent": "Y09BAMhG"
+      },
+      {
+        "name": "Veresov 4 e3 5 Nf3 6 dxc5 8 O-O",
+        "id": "n9cvgUCy",
+        "note": "",
+        "parent": "Y09BAMhG"
+      },
+      {
+        "name": "Veresov 4 e3 5 Nf3 6 dxc5 8 a3",
+        "id": "ykYg5It4",
+        "note": "",
+        "parent": "Y09BAMhG"
+      },
+      {
+        "name": "Veresov 4 e3 5 Nf3 6 dxc5 8 h3",
+        "id": "BWxF44y2",
+        "note": "",
         "parent": "Y09BAMhG"
       },
 
@@ -6878,6 +8894,25 @@
       },
 
       {
+        "name": "2 Nc3 3 e3 4 dxc5 5 Nf3 6 Bd3",
+        "id": "AB0AtorQ",
+        "note": "",
+        "parent": "pYReIwJR"
+      },
+      {
+        "name": "2 Nc3 3 e3 4 dxc5 5 Nf3 6 Bd2",
+        "id": "72G5AdiV",
+        "note": "",
+        "parent": "pYReIwJR"
+      },
+      {
+        "name": "2 Nc3 3 e3 4 dxc5 5 Nf3 6 a3",
+        "id": "w47Mo9bN",
+        "note": "",
+        "parent": "pYReIwJR"
+      },
+
+      {
         "name": "London System",
         "id": "tcC1xlbU",
         "note": ""
@@ -6898,6 +8933,26 @@
       {
         "name": "London System 7 b3 8 cxd4",
         "id": "VY4t1Tnb",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
+        "name": "London System 7 Qb3 8 Qa4",
+        "id": "Ws3CVDHq",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+      {
+        "name": "London System 7 Qb3 8 Bxc6",
+        "id": "A2pSx1yS",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
+        "name": "London System 7 Qb3 8 Nxc4",
+        "id": "avHSToaA",
         "note": "",
         "parent": "tcC1xlbU"
       },
@@ -6930,8 +8985,20 @@
       },
 
       {
-        "name": "London System 5 Bxd3 8 NBd2 9 O-O",
-        "id": "",
+        "name": "London System 5.Nf3 6 Nbd2",
+        "id": "fXnz1kQD",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+      {
+        "name": "London System 5.Nf3 6 b3",
+        "id": "MhyeenwR",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+      {
+        "name": "London System 5.Nf3 6 Qc1",
+        "id": "1BHMC8dm",
         "note": "",
         "parent": "tcC1xlbU"
       },
@@ -6995,6 +9062,25 @@
       },
 
       {
+        "name": "Londen Sys 4 Nf3 5 c3 6 Bd3 7 Be5",
+        "id": "a5QkZUOW",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+      {
+        "name": "Londen Sys 4 Nf3 5 c3 6 Bd3 7 Bg3",
+        "id": "43azHrmi",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+      {
+        "name": "Londen Sys 4 Nf3 5 c3 6 Bd3 7 Bg5",
+        "id": "oJ6d4GNt",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
         "name": "London System 4 Nf3 6 exd4",
         "id": "RZU7NExQ",
         "note": "",
@@ -7043,6 +9129,27 @@
         "name": "London System 3 Nf3 6 Qc2 7 Bg3",
         "id": "HOlDvwk6",
         "note": "Made a mistake 7 moves in so very short line haha",
+        "parent": "tcC1xlbU"
+      },
+
+      {
+        "name": "London System 3 Nf3 6 Qb6 7 Qcb6 8 a3",
+        "id": "Uo9TGU7Y",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
+        "name": "London System 3 Nf3 6 Qb6 7 Qcb6 8 Be2",
+        "id": "9ZV8xda8",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
+        "name": "London System 3 Nf3 6 Qb6 7 Qcb6 8 Nbd2",
+        "id": "1eKNugov",
+        "note": "",
         "parent": "tcC1xlbU"
       },
 
@@ -7200,6 +9307,26 @@
         "note": "",
         "parent": "tcC1xlbU"
       },
+
+      {
+        "name": "London System 3 c3 4 Qb3 7 e3 8 Nf3 9 Bd3 10 Be5",
+        "id": "2h0OFjsv",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+      {
+        "name": "London System 3 c3 4 Qb3 7 e3 8 Nf3 9 Bd3 10 Bc7",
+        "id": "pA86bqxF",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+      {
+        "name": "London System 3 c3 4 Qb3 7 e3 8 Nf3 9 Bd3 10 Bg3",
+        "id": "mXlDDsVU",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
       {
         "name": "London System 3 c3 4 Qb3 7 e3 8 Bd3",
         "id": "pyGEQm8n",
@@ -7385,6 +9512,27 @@
         "note": "White misses the queen threat, but how to follow up?",
         "parent": "tcC1xlbU"
       },
+
+      {
+        "name": "London System 3 c3 4 e3 6 Ngf3 7 Ne5 8 Bd3",
+        "id": "uOQKIbUc",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+      {
+        "name": "London System 3 c3 4 e3 6 Ngf3 7 Ne5 8 Rc1",
+        "id": "KGSrGTek",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
+        "name": "London System 3 c3 4 e3 6 Ngf3 7 Ne5 8 Be2",
+        "id": "UCdAuFvi",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
       {
         "name": "London System 3 c3 4 e3 3..dxc5",
         "id": "SDiIn0Cq",
@@ -7634,6 +9782,66 @@
       },
 
       {
+        "name": "London System 4 Bf5 5 Qb6 7 a4",
+        "id": "FC3NP0rs",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
+        "name": "London System 4 Bf5 5 Qb6 7 e3",
+        "id": "Y52pvtgd",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
+        "name": "London System 4 Bf5 5 Qb6 7 h4",
+        "id": "wwcAtDbc",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
+        "name": "London System 4 Bf5 5 Qb6 7 e4",
+        "id": "8jyFq7q4",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
+        "name": "London System 4 Bf5 5 Qb6 7 Qxb6",
+        "id": "qr1OdCH6",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
+        "name": "London System 4 Bf5 5 Qb6 7 Ne5",
+        "id": "acnisxvw",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+      {
+        "name": "London System 4 Bf5 5 Qb6 7 Ng5",
+        "id": "kDsQ0gah",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+      {
+        "name": "London System 4 Bf5 5 Qb6 - ... messed up ides",
+        "id": "kDsQ0gah",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+      {
+        "name": "London System 4 Bf5 5 Qb6 - ... messed up ides",
+        "id": "1Hxak7hD",
+        "note": "",
+        "parent": "tcC1xlbU"
+      },
+
+      {
         "name": "Catalan Opening, CLosed",
         "id": "PeB23nx3",
         "note": ""
@@ -7776,18 +9984,7 @@
         "note": "White moves the pawn out on move 5 in a good, but not great move. Here are teh top moves by black and the top-ish moves by white",
         "parent": "wRUVAeeD"
       },
-      {
-        "name": "Exchange Bg5",
-        "id": "",
-        "note": "White attacks with Bg5. Black goes 5..Ne4, whte's 'best' response is Bf4",
-        "parent": "wRUVAeeD"
-      },
-      {
-        "name": "Exchange Bg5 6 Nxe4",
-        "id": "",
-        "note": "White attacks with Bg5. Black goes 5..Ne4, whte's 'best' response is Bf4",
-        "parent": "wRUVAeeD"
-      },
+
       {
         "name": "Exchange Bg5 6 Bd2",
         "id": "1O1TREOO",
@@ -8074,6 +10271,25 @@
       },
 
       {
+        "name": "Open Meran 6 Bh4 7 Bxf6 8.e3",
+        "id": "57XSKKIU",
+        "note": "",
+        "parent": "BeM80uw2"
+      },
+      {
+        "name": "Open Meran 6 Bh4 7 Bxf6 8.e4",
+        "id": "sMKYujYs",
+        "note": "",
+        "parent": "BeM80uw2"
+      },
+      {
+        "name": "Open Meran 6 Bh4 7 Bxf6 8.cxd5",
+        "id": "i5Pnj7yz",
+        "note": "",
+        "parent": "BeM80uw2"
+      },
+
+      {
         "name": "Open Meran 4 Nf3 5 Ne5 6 Nf3",
         "id": "B5md4CgT",
         "note": "",
@@ -8180,6 +10396,50 @@
       {
         "name": "Open Meran 3 Nc3 4 Bg5 5 Nf3",
         "id": "cI9Ead2V",
+        "note": "",
+        "parent": "BeM80uw2"
+      },
+
+      {
+        "name": "Open Meran 3 Nc3 4 Bg5 5 e4 6 Nf3",
+        "id": "GOCkcRCl",
+        "note": "",
+        "parent": "BeM80uw2"
+      },
+      {
+        "name": "Open Meran 3 Nc3 4 Bg5 5 e4 6 e5",
+        "id": "R4pMBr9k",
+        "note": "",
+        "parent": "BeM80uw2"
+      },
+      {
+        "name": "Open Meran 3 Nc3 4 Bg5 5 e4 6 Rc1",
+        "id": "caio2qna",
+        "note": "",
+        "parent": "BeM80uw2"
+      },
+      {
+        "name": "Open Meran 3 Nc3 4 Bg5 5 e4 6 a3",
+        "id": "Xd67ELUC",
+        "note": "",
+        "parent": "BeM80uw2"
+      },
+
+      {
+        "name": "Open Meran 3.Nc3 4.Bg5 5.Bxf6 6.e3 7.Nge2",
+        "id": "fyFyAVR1",
+        "note": "",
+        "parent": "BeM80uw2"
+      },
+      {
+        "name": "Open Meran 3.Nc3 4.Bg5 5.Bxf6 6.e3 7.Be2",
+        "id": "XiXm4GR0",
+        "note": "",
+        "parent": "BeM80uw2"
+      },
+      {
+        "name": "Open Meran 3.Nc3 4.Bg5 5.Bxf6 6.e3 7.Nf3",
+        "id": "ei3moGvp",
         "note": "",
         "parent": "BeM80uw2"
       },
@@ -8336,6 +10596,26 @@
         "note": "",
         "parent": "M6LKQIb7"
       },
+
+      {
+        "name": "Cambridge Springs 5 Bg2 6.O-O 8.cxd5 9.Nd2",
+        "id": "j40L1F0s",
+        "note": "",
+        "parent": "M6LKQIb7"
+      },
+      {
+        "name": "Cambridge Springs 5 Bg2 6.O-O 8.cxd5 9.Re1",
+        "id": "nsRJCpNH",
+        "note": "",
+        "parent": "M6LKQIb7"
+      },
+      {
+        "name": "Cambridge Springs 5 Bg2 6.O-O 8.cxd5 9.e4",
+        "id": "bhk4m2B1",
+        "note": "",
+        "parent": "M6LKQIb7"
+      },
+
       {
         "name": "Cambridge Springs 5 Bg2 6..Nbd7",
         "id": "8F0IN1CY",
@@ -8569,6 +10849,44 @@
       },
 
       {
+        "name": "2 e3 3 Nf3 4 c4 6 Be2",
+        "id": "BhvNfQOQ",
+        "note": "",
+        "parent": "OnKBBXKF"
+      },
+      {
+        "name": "2 e3 3 Nf3 4 c4 6 Bb5+",
+        "id": "C5XsEPjR",
+        "note": "",
+        "parent": "OnKBBXKF"
+      },
+      {
+        "name": "2 e3 3 Nf3 4 c4 6 Nc3",
+        "id": "ji7OCKV9",
+        "note": "",
+        "parent": "OnKBBXKF"
+      },
+
+      {
+        "name": "2 e3 3 Nf3 4 dxc5 5 c4",
+        "id": "Is65VmJC",
+        "note": "",
+        "parent": "OnKBBXKF"
+      },
+      {
+        "name": "2 e3 3 Nf3 4 dxc5 5 a3",
+        "id": "KYMWxVL8",
+        "note": "",
+        "parent": "OnKBBXKF"
+      },
+      {
+        "name": "2 e3 3 Nf3 4 dxc5 5 b3",
+        "id": "yEe1HGGf",
+        "note": "",
+        "parent": "OnKBBXKF"
+      },
+
+      {
         "name": "2 e3 3 c5 4 Nf3",
         "id": "cC4PNVM4",
         "note": " ",
@@ -8586,6 +10904,26 @@
         "note": " ",
         "parent": "OnKBBXKF"
       },
+
+      {
+        "name": "2 e3 3 Nc3 4 Nf3 5 Ne5 6 a4",
+        "id": "PT1V1siU",
+        "note": " ",
+        "parent": "OnKBBXKF"
+      },
+      {
+        "name": "2 e3 3 Nc3 4 Nf3 5 Ne5 6 Bd3",
+        "id": "uYwivzYw",
+        "note": " ",
+        "parent": "OnKBBXKF"
+      },
+      {
+        "name": "2 e3 3 Nc3 4 Nf3 5 Ne5 6 f4",
+        "id": "E2URPUdq",
+        "note": " ",
+        "parent": "OnKBBXKF"
+      },
+
       {
         "name": "2 e3 3 a3",
         "id": "ez8lMCVC",
@@ -9100,31 +11438,6 @@
       },
 
       {
-        "name": "3 Qa5 4 Bf5? 5 Qa4",
-        "id": "9aam6ihf",
-        "note": "",
-        "parent": "6tKzhWQU"
-      },
-      {
-        "name": "3 Qa5 4 Bf5? 5 Qa6",
-        "id": "lF6M8CGC",
-        "note": "",
-        "parent": "6tKzhWQU"
-      },
-      {
-        "name": "3 Qa5 4 Bf5? 5 Qd5",
-        "id": "NMbD6DMC",
-        "note": "",
-        "parent": "6tKzhWQU"
-      },
-      {
-        "name": "3 Qa5 4 Bf5? 5 Qc5?",
-        "id": "PeNDc0tO",
-        "note": "",
-        "parent": "6tKzhWQU"
-      },
-
-      {
         "name": "2 Nc3 3 f4 4 Nc3 5 Nb1",
         "id": "hV795qXu",
         "note": "",
@@ -9302,6 +11615,50 @@
         "note": "After chasing the best lines.. white starts making 'brilliant' moves against black.. and the eval is so even, showing sometimes stockfish even beats itself... or maybe I messed up on the playback haha anyway .. I don't anticipate anyone following this weird line 14 or 15 moves deep haha",
         "parent": "6tKzhWQU"
       },
+
+      {
+        "name": "2 Nc3 3 b3 4 e5 5 Nf3",
+        "id": "jlOjQ39M",
+        "note": "",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "2 Nc3 3 b3 4 e5 5 h3",
+        "id": "yPYi4LJY",
+        "note": "",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "2 Nc3 3 b3 4 e5 5 a3",
+        "id": "BtXWY6Ax",
+        "note": "",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "2 Nc3 3 b3 4 e5 5 c3",
+        "id": "8zIZ8YaK",
+        "note": "",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "2 Nc3 3 b3 4 e5 5 d3",
+        "id": "URdm4Fz0",
+        "note": "",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "2 Nc3 3 b3 4 e5 5 f4",
+        "id": "liIZz3JY",
+        "note": "",
+        "parent": "6tKzhWQU"
+      },
+      {
+        "name": "2 Nc3 3 b3 4 e5 5 Bb2",
+        "id": "M78ue5zd",
+        "note": "",
+        "parent": "6tKzhWQU"
+      },
+
       {
         "name": "2 Nf3 3 exd4",
         "id": "98JrwN99",
@@ -9377,6 +11734,26 @@
       },
 
       {
+        "name": "2 Nf3 3 exd4 5 Bb5+ 6 Bd3",
+        "id": "wbQbpRTb",
+        "note": "",
+        "parent": "98JrwN99"
+      },
+      {
+        "name": "2 Nf3 3 exd4 5 Bb5+ 6 Bxd7",
+        "id": "GFtA7oXK",
+        "note": "",
+        "parent": "98JrwN99"
+      },
+
+      {
+        "name": "2 Nf3 3 exd4 5 Bb5+ 6 Be2",
+        "id": "bPC36maD",
+        "note": "",
+        "parent": "98JrwN99"
+      },
+
+      {
         "name": "2 Nf3 3 exd4 5 Bg5",
         "id": "yr8ifjgC",
         "note": "White gets spicy with the Bishop after moving the knight out and exchanging. I play out the line with a combo of top/interesting moves",
@@ -9434,6 +11811,13 @@
       {
         "name": "2 Nf3 3 exd4 5 Bg5 6 c3 7 Nbd2 8 Bh4 9 Bg3",
         "id": "57WZHUXR",
+        "note": "",
+        "parent": "98JrwN99"
+      },
+
+      {
+        "name": "2 Nf3 3 exd4 5 Bg5 6 c3 7 Nbd2 8 Bh4 9 c5 10 Bg3",
+        "id": "Z3uKYCTE",
         "note": "",
         "parent": "98JrwN99"
       },
@@ -9541,8 +11925,27 @@
       },
 
       {
+        "name": "2 Nf3 3 exd4 4 d4 5 c4 6 Nc3 7 Bg4 8 csd5",
+        "id": "fEU0sZSu",
+        "note": " ",
+        "parent": "98JrwN99"
+      },
+      {
+        "name": "2 Nf3 3 exd4 4 d4 5 c4 6 Nc3 7 Bg4 8 Be2",
+        "id": "QBlDEdMa",
+        "note": " ",
+        "parent": "98JrwN99"
+      },
+      {
+        "name": "2 Nf3 3 exd4 4 d4 5 c4 6 Nc3 7 Bg4 8 a3",
+        "id": "9MHK7y7h",
+        "note": " ",
+        "parent": "98JrwN99"
+      },
+
+      {
         "name": "2 Nf3 3 exd4 4 d4 5 c4 6 Nc3 7 a3 9 Be3",
-        "id": "ZyqyDefUa8",
+        "id": "4LtaBwXd",
         "note": "",
         "parent": "98JrwN99"
       },
@@ -9628,11 +12031,24 @@
       },
 
       {
-        "name": "2 Nf3 3 exd4 4 Nc3 5 Ne4 6 Qe2",
-        "id": "",
-        "note": "Ne4! Weird move. Black should do a queen pin. This line develops into a threatened fork on move 11",
+        "name": "2 Nf3 3 exd5 4Nc3 6 Bc4 8 Qe2",
+        "id": "h1FF5K3e",
+        "note": "",
         "parent": "VaQgGren"
       },
+      {
+        "name": "2 Nf3 3 exd5 4Nc3 6 Bc4 8 Be2",
+        "id": "cBEkD5NG",
+        "note": "",
+        "parent": "VaQgGren"
+      },
+      {
+        "name": "2 Nf3 3 exd5 4Nc3 6 Bc4 8 Kf1",
+        "id": "nFRd6FOa",
+        "note": "",
+        "parent": "VaQgGren"
+      },
+
       {
         "name": "2 Nf3 3 exd4 4 Nc3 5 Ne4 6 Qe2 7 Neg5",
         "id": "s70NSKWI",
@@ -9727,6 +12143,25 @@
       {
         "name": "2 Nf3 3 exd4 4 Qe2 5 d4 6 Be3",
         "id": "N5MS3VWZ",
+        "note": "",
+        "parent": "VaQgGren"
+      },
+
+      {
+        "name": "2 Nf3 3 exd4 4 Qe2 5 d3 6 Bg4",
+        "id": "c9ZJCkRW",
+        "note": "",
+        "parent": "VaQgGren"
+      },
+      {
+        "name": "2 Nf3 3 exd4 4 Qe2 5 d3 6 Nc3",
+        "id": "TPeibJ9o",
+        "note": "",
+        "parent": "VaQgGren"
+      },
+      {
+        "name": "2 Nf3 3 exd4 4 Qe2 5 d3 6 h3",
+        "id": "Q5oiZeMn",
         "note": "",
         "parent": "VaQgGren"
       },
@@ -9944,6 +12379,32 @@
         "note": "A couple follow ups by black. Much less tricky",
         "parent": "aFHDRidT"
       },
+
+      {
+        "name": "4 Bb3 5 d4 7 Nc3 8 Qf3 10 f4 11 Ne5",
+        "id": "2TX8lJ5W",
+        "note": "",
+        "parent": "aFHDRidT"
+      },
+      {
+        "name": "4 Bb3 5 d4 7 Nc3 8 Qf3 10 f4 11 Nd2",
+        "id": "27eAUQts",
+        "note": "",
+        "parent": "aFHDRidT"
+      },
+      {
+        "name": "4 Bb3 5 d4 7 Nc3 8 Qf3 10 f4 11 Nh4",
+        "id": "GaGWv2lg",
+        "note": "",
+        "parent": "aFHDRidT"
+      },
+      {
+        "name": "4 Bb3 5 d4 7 Nc3 8 Qf3 10 f4 11 Rg1",
+        "id": "c8cw2PhW",
+        "note": "",
+        "parent": "aFHDRidT"
+      },
+
       {
         "name": "4 Bb3 5 d4 3 Nc3 8 Bf4 ",
         "id": "XabnX46J",
@@ -9952,20 +12413,26 @@
       },
 
       {
-        "name": "4 Bb3 5 d4 8 Qe2+",
-        "id": "",
+        "name": "2 Be4 3 exd5 4 Bb3 5 Qh5 6 Qe5+ 7 d3",
+        "id": "KXmxtCJc",
         "note": "A couple follow ups by black",
         "parent": "aFHDRidT"
       },
       {
-        "name": "4 Bb3 5 d4 8 Qf3",
-        "id": "",
+        "name": "2 Be4 3 exd5 4 Bb3 5 Qh5 6 Qe5+ 7 c3",
+        "id": "GsjSxvPT",
         "note": "A couple follow ups by black",
         "parent": "aFHDRidT"
       },
       {
-        "name": "4 Bb3 5 d4 8 Bf4+",
-        "id": "",
+        "name": "2 Be4 3 exd5 4 Bb3 5 Qh5 6 Qe5+ 7 Nc3",
+        "id": "t7Y6IYvi",
+        "note": "A couple follow ups by black",
+        "parent": "aFHDRidT"
+      },
+      {
+        "name": "2 Be4 3 exd5 4 Bb3 5 Qh5 6 Qe5+ 7 Ba4+",
+        "id": "t5TfFfCI",
         "note": "A couple follow ups by black",
         "parent": "aFHDRidT"
       },
@@ -10038,6 +12505,13 @@
         "name": "4 Bb3 Qe2",
         "id": "5daxNQFb",
         "note": "What do you do when the queen goes to e2 after the bishop comes out and pawns exchange in this bishop-like opening to the french",
+        "parent": "aFHDRidT"
+      },
+
+      {
+        "name": "4 Bb3 Qe2 5.Bb5+  6 Ba4 7.bb3",
+        "id": "SqpNYcWO",
+        "note": "",
         "parent": "aFHDRidT"
       },
 
@@ -10130,12 +12604,6 @@
         "parent": "ZVivLV0M"
       },
 
-      {
-        "name": "Steinitz 4 Bd3 9 Nh3",
-        "id": "",
-        "note": "Continueing Steinitz 4 Bd3 things continued down to a previously analyzed line until 9Nh3. The top response is for black to develop their knight to d2. I follow up with Bf4 mimicing a move my opponent played next, and then the reponse to THAT would be to use the knight - now on d2 - to support an attack the bishop with the e-pawn! Ah, stockfish.",
-        "parent": "ZVivLV0M"
-      },
       {
         "name": "Steinitz 7 - Be3",
         "id": "MAvBE9Mp",
@@ -10308,6 +12776,27 @@
         "note": "Black does the strange e5 move. The top followup is exd6 then they go 4 d4",
         "parent": "N0RimfeT"
       },
+
+      {
+        "name": "2 e5 4 d4 6 Nc 7 Be2",
+        "id": "gTEsMygd",
+        "note": "",
+        "parent": "N0RimfeT"
+      },
+      {
+        "name": "2 e5 4 d4 6 Nc 7 Bb5",
+        "id": "lDWuc9aL",
+        "note": "",
+        "parent": "N0RimfeT"
+      },
+
+      {
+        "name": "2 e5 4 d4 6 Nc 7 Bb4",
+        "id": "bS3Vu10H",
+        "note": "",
+        "parent": "N0RimfeT"
+      },
+
       {
         "name": "2 e5 4 Nc3",
         "id": "Ct29NvI5",
@@ -10517,6 +13006,26 @@
         "note": "",
         "parent": "N0RimfeT"
       },
+
+      {
+        "name": "2 e5 3 d4 4 Nf3 7 Nb3 8 Na5",
+        "id": "EIOxe8op",
+        "note": "",
+        "parent": "N0RimfeT"
+      },
+      {
+        "name": "2 e5 3 d4 4 Nf3 7 Nb3 8 c3",
+        "id": "tzcu0Xwu",
+        "note": "",
+        "parent": "N0RimfeT"
+      },
+      {
+        "name": "2 e5 3 d4 4 Nf3 7 Nb3 8 Nc3",
+        "id": "F5OnfntP",
+        "note": "",
+        "parent": "N0RimfeT"
+      },
+
       {
         "name": "2 e5 3 d4 4 c3",
         "id": "7eDcvPg8",
@@ -10828,6 +13337,25 @@
       },
 
       {
+        "name": "McCutcheon 4 Bg5 5 Bd3 6 Bxf6",
+        "id": "QlD88T0H",
+        "note": "",
+        "parent": "G2ucVToo"
+      },
+      {
+        "name": "McCutcheon 4 Bg5 5 Bd3 6 Bxe4",
+        "id": "lZp6FkgN",
+        "note": "",
+        "parent": "G2ucVToo"
+      },
+      {
+        "name": "McCutcheon 4 Bg5 5 Bd3 6 Bc4",
+        "id": "DRLFxjYn",
+        "note": "",
+        "parent": "G2ucVToo"
+      },
+
+      {
         "name": "McCutcheon 4 Be2 5 Bg5",
         "id": "DlhAvVZ8",
         "note": "",
@@ -10888,6 +13416,39 @@
         "note": "",
         "parent": "aqfMnmvc"
       },
+
+      {
+        "name": "Advance 6 Be2 8 O-O 9 Nc3 10 Be3 11 gxf3",
+        "id": "NODKoEEe",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 6 Be2 8 O-O 9 Nc3 10 Be3 11 gxf3",
+        "id": "paWfZPE2",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+
+      {
+        "name": "Advance 6 Be2 8 O-O 9 Nc3 10 Nxd4 11 Nb5",
+        "id": "LCFvx0Hf",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 6 Be2 8 O-O 9 Nc3 10 Nxd4 11 Qxd4",
+        "id": "PfA0WIQj",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 6 Be2 8 O-O 9 Nc3 10 Nxd4 11 Bd3",
+        "id": "hW4YdWq8",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+
       {
         "name": "Advance 6 Be2 8 O-O 9 b3",
         "id": "RFpBASZm",
@@ -10957,6 +13518,31 @@
       {
         "name": "Advance 6 Na3 11 Nd6? 12 O-O-O",
         "id": "UWHcU4Te",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+
+      {
+        "name": "Advance 6 Na3 9 Bxd4 11 h4",
+        "id": "H6v7y5NL",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 6 Na3 9 Bxd4 11 Bd3",
+        "id": "QhjL4PEi",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 6 Na3 9 Bxd4 11 Rc1",
+        "id": "Ov9QSKm5",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 6 Na3 9 Bxd4 11 Qxd4",
+        "id": "yx8sHwzG",
         "note": "",
         "parent": "aqfMnmvc"
       },
@@ -11193,13 +13779,6 @@
       },
 
       {
-        "name": "Advance 6 b3 7 a5",
-        "id": "",
-        "note": "A lot of trades happen, before players casle on move 16",
-        "parent": "aqfMnmvc"
-      },
-
-      {
         "name": "Advance 6 Ne7",
         "id": "5QwOkm0u",
         "note": "White makes a knight move which allows black to attack White's advanced pawn. With top moves, Black ens up positionally slightly better, with no obvious responses, and white can do a variety of things, so I picked a random top-3 move by white and continued from there",
@@ -11221,6 +13800,13 @@
       {
         "name": "Advance 5 Be3 6 b3 7 Bxd4",
         "id": "fRG5628m",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+
+      {
+        "name": "Advance 5 Be3 6 b3 7 Bxd4",
+        "id": "nv40qfe9",
         "note": "",
         "parent": "aqfMnmvc"
       },
@@ -11532,6 +14118,37 @@
       },
 
       {
+        "name": "Advance 4 Nf3, 6 Bb5+ 7 Bg5 8 Nf4",
+        "id": "AeryH2EM",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 Nf3, 6 Bb5+ 7 Bg5 8 Bxc6",
+        "id": "tz8Wh2Ub",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 Nf3, 6 Bb5+ 7 Bg5 8 Bxe7",
+        "id": "5BoOFsRE",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 Nf3, 6 Bb5+ 7 Bg5 8 Nxc6",
+        "id": "YboVOwm2",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 Nf3, 6 Bb5+ 7 Bg5 8 O-O",
+        "id": "FalFTryh",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+
+      {
         "name": "Advance 4 Nf3, take, 6 Bf4 7 Bg3",
         "id": "1yokooI3",
         "note": "",
@@ -11666,6 +14283,32 @@
         "note": "",
         "parent": "aqfMnmvc"
       },
+
+      {
+        "name": "Advance 4 Nf3, 5 Nxd4 6 c3 7 Ba4 9 O-O",
+        "id": "437EhdAa",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 Nf3, 5 Nxd4 6 c3 7 Ba4 9 Nd2",
+        "id": "UwRFsqDD",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 Nf3, 5 Nxd4 6 c3 7 Ba4 9 Qb3",
+        "id": "q636VOmb",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 Nf3, 5 Nxd4 6 c3 7 Ba4 9 Bxd7",
+        "id": "D6C5h84l",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+
       {
         "name": "Advance 4 Nf3, 5 Nxd4 6 Bd2 7 Nc3",
         "id": "y2gnHZsj",
@@ -11691,6 +14334,26 @@
         "note": "The version where they go Qa4 variation #3",
         "parent": "aqfMnmvc"
       },
+
+      {
+        "name": "Advance 4 Nf3, 5 Qxd4 6 Qa4 8 Bxc6 9 Qf4",
+        "id": "Khk2JFIa",
+        "note": "The version where they go Qa4 variation #3",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 Nf3, 5 Qxd4 6 Qa4 8 Bxc6 9 Qb3",
+        "id": "kHmctccy",
+        "note": "The version where they go Qa4 variation #3",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 Nf3, 5 Qxd4 6 Qa4 8 Bxc6 9 Qg4",
+        "id": "iJK1jTRR",
+        "note": "The version where they go Qa4 variation #3",
+        "parent": "aqfMnmvc"
+      },
+
       {
         "name": "Advance 4 Nf3, 5 Qxd4 6 Qa4 6 Qg4",
         "id": "IuNsm9kt",
@@ -11896,6 +14559,32 @@
         "note": "",
         "parent": "aqfMnmvc"
       },
+
+      {
+        "name": "Advance 4 c4 5 Qxd4 8 Be2",
+        "id": "gzPby67Q",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 c4 5 Qxd4 8 Nf3",
+        "id": "wyKIn3VU",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 c4 5 Qxd4 8 Nc3",
+        "id": "Vrkrl6JO",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+      {
+        "name": "Advance 4 c4 5 Qxd4 8 e6",
+        "id": "fGdvQE8R",
+        "note": "",
+        "parent": "aqfMnmvc"
+      },
+
       {
         "name": "Advance 4 c4 5 cxd5",
         "id": "nvM8ETK0",
@@ -12017,6 +14706,25 @@
       {
         "name": "Advance 4 Be3 5 Nc3 6 Nce2",
         "id": "N2PuQ8I0",
+        "note": "",
+        "parent": "ia54wPu3"
+      },
+
+      {
+        "name": "Advance 4 Ne7 5 Nf5 6  7 Nxd4",
+        "id": "HT4OtDRo",
+        "note": "",
+        "parent": "ia54wPu3"
+      },
+      {
+        "name": "Advance 4 Ne7 5 Nf5 6  7 Bb5+",
+        "id": "vpelae7u",
+        "note": "",
+        "parent": "ia54wPu3"
+      },
+      {
+        "name": "Advance 4 Ne7 5 Nf5 6  7 Ne4",
+        "id": "8H9kCYri",
         "note": "",
         "parent": "ia54wPu3"
       },
@@ -12224,6 +14932,31 @@
       },
 
       {
+        "name": "Exchange 2 knights 6 Bg5 7 Be2",
+        "id": "3AcPeFuR",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 2 knights 6 Bg5 7 a3",
+        "id": "Wzh3mlSw",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 2 knights 6 Bg5 7 Bd3",
+        "id": "fxoP2sta",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 2 knights 6 Bg5 7 Bb5",
+        "id": "twDVChpH",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+
+      {
         "name": "Exchange 4 Nf3 5 c4 6 a3",
         "id": "hcFElS6M",
         "note": "",
@@ -12246,6 +14979,64 @@
       {
         "name": "Exchange 4 Nf3 5 c4 6 h3",
         "id": "WCX24hNT",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+
+      {
+        "name": "Exchange 4 Nf3 5 Bg5 8 Bd3",
+        "id": "ofR64ETG",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 4 Nf3 5 Bg5 8 Bb5",
+        "id": "DltsY5a3",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 4 Nf3 5 Bg5 8 Be2",
+        "id": "bUkcRua4",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+
+      {
+        "name": "Exchange 4 Nf3 5 Bg5 7 Bd2 8 Bd3",
+        "id": "1Dw6tOSU",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 4 Nf3 5 Bg5 7 Bd2 8 Be2",
+        "id": "C8cgPjvz",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+
+      {
+        "name": "Exchange 4 Nf3 5 Bg5 7 Bd2 8 a3",
+        "id": "nvybgjRG",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+
+      {
+        "name": "Exchange 4 Nf3 5 Bg5 6 Bd3 7 h4 8 Bxe7",
+        "id": "Y08mE6Ac",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 4 Nf3 5 Bg5 6 Bd3 7 h4 8 Ne5",
+        "id": "UWqCXS10",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 4 Nf3 5 Bg5 6 Bd3 7 h4 8 Bg3",
+        "id": "1rP1UWop",
         "note": "",
         "parent": "uE83nmF5"
       },
@@ -12307,6 +15098,19 @@
         "name": "Exchange 4 Nc3 5 Bg5 6 Qd2",
         "id": "RkAPpshD",
         "note": "Another annoying line where white ends up with an advantage even if black plays best moves",
+        "parent": "uE83nmF5"
+      },
+
+      {
+        "name": "Exchange 4 Nc3 5 Bg5 6 Be2 7 Bh4",
+        "id": "zHeVRbKC",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 4 Nc3 5 Bg5 6 Be2 7 Be3",
+        "id": "cbrdwN09",
+        "note": "",
         "parent": "uE83nmF5"
       },
 
@@ -12659,6 +15463,26 @@
         "note": "",
         "parent": "uE83nmF5"
       },
+
+      {
+        "name": "Exchange 4 Bd3 5 O-O 6.R31 7.Nc3 8.Nc6 9.h3",
+        "id": "vN6nwxzn",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 4 Bd3 5 O-O 6.R31 7.Nc3 8.Nc6 9.Bb5",
+        "id": "uLNjUJ1v",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 4 Bd3 5 O-O 6.R31 7.Nc3 8.Nc6 9.Bb2",
+        "id": "drOUnoyi",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+
       {
         "name": "Exchange 4 Bd3 5 c3",
         "id": "NWEskJwJ",
@@ -12673,21 +15497,39 @@
       },
 
       {
-        "name": "Exchange 4 Be2 5 c4",
-        "id": "",
-        "note": "After the top move white responds with c4. The best move after this and many other possible moves seems to be Nf6",
+        "name": "Exchange 4 Bb5+ 5 Be2 6 d4",
+        "id": "B1tufka9",
+        "note": "",
         "parent": "uE83nmF5"
       },
       {
-        "name": "Exchange 4 Be2 5 d4",
-        "id": "",
-        "note": "After the top move white responds with c4. The best move after this and many other possible moves seems to be Nf6",
+        "name": "Exchange 4 Bb5+ 5 Be2 6 O-O",
+        "id": "5gvAKwJc",
+        "note": "",
         "parent": "uE83nmF5"
       },
       {
-        "name": "Exchange 4 Be2 5 O-O",
-        "id": "",
-        "note": "After the top move white responds with c4. Although Nf6 appears to be the best folloup to many moves, here the engine can't decide between Nf6 and Nc6, although I think it still gvies the slight edge to Nf6",
+        "name": "Exchange 4 Bb5+ 5 Be2 6 c4",
+        "id": "tbSlndcs",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 4 Bb5+ 5 Be2 6 Nc3",
+        "id": "I6qL9mk5",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 4 Bb5+ 5 Be2 6 h3",
+        "id": "qigFVXPy",
+        "note": "",
+        "parent": "uE83nmF5"
+      },
+      {
+        "name": "Exchange 4 Bb5+ 5 Be2 6 a3",
+        "id": "W2F4fFLz",
+        "note": "",
         "parent": "uE83nmF5"
       },
 
@@ -12841,6 +15683,37 @@
       {
         "name": "3 Nf3 4 Ng5? 5 Be3",
         "id": "in8qrMxH",
+        "note": "",
+        "parent": "OLc6V7F0"
+      },
+
+      {
+        "name": "3 Nf3 4 Ng5? 5 Bc4 7 Bb5",
+        "id": "QoNHZ8uy",
+        "note": "",
+        "parent": "OLc6V7F0"
+      },
+      {
+        "name": "3 Nf3 4 Ng5? 5 Bc4 7 c3",
+        "id": "BfLs5gSv",
+        "note": "",
+        "parent": "OLc6V7F0"
+      },
+      {
+        "name": "3 Nf3 4 Ng5? 5 Bc4 7 Be3",
+        "id": "i6YVMhZZ",
+        "note": "",
+        "parent": "OLc6V7F0"
+      },
+      {
+        "name": "3 Nf3 4 Ng5? 5 Bc4 7 O-O",
+        "id": "uttoJRqa",
+        "note": "",
+        "parent": "OLc6V7F0"
+      },
+      {
+        "name": "3 Nf3 4 Ng5? 5 Bc4 7 Nc3",
+        "id": "HsB72gu5",
         "note": "",
         "parent": "OLc6V7F0"
       },
@@ -13019,6 +15892,25 @@
       {
         "name": "Two Knights 4 Qe2 5 Nxe4 6 Ng5 7 Bc4",
         "id": "GrSfMB3Z",
+        "note": "",
+        "parent": "g2lJQlqV"
+      },
+
+      {
+        "name": "Two Knights 4 Qe2 5 Nxe4 6 Nc6 7 Bf4",
+        "id": "goNSDEsw",
+        "note": "",
+        "parent": "g2lJQlqV"
+      },
+      {
+        "name": "Two Knights 4 Qe2 5 Nxe4 6 Nc6 7 Nc4",
+        "id": "avuzHMSO",
+        "note": "",
+        "parent": "g2lJQlqV"
+      },
+      {
+        "name": "Two Knights 4 Qe2 5 Nxe4 6 Nc6 7 Qg4",
+        "id": "9vQcFMyL",
         "note": "",
         "parent": "g2lJQlqV"
       },
@@ -13231,6 +16123,25 @@
       },
 
       {
+        "name": "2Nf3 3e5 5.Qxd4 6.Bb5 7.Bxc6 10.Qxc5? 11.Bg5",
+        "id": "rBt8FR9D",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "2Nf3 3e5 5.Qxd4 6.Bb5 7.Bxc6 10.Qxc5? 11.Qxf8",
+        "id": "rqsKxOqR",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "2Nf3 3e5 5.Qxd4 6.Bb5 7.Bxc6 10.Qd1",
+        "id": "KubyH71R",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+
+      {
         "name": "2Nf3 3e5 5 Qxd4 6 Bb5 7 Bxc6 8 Nc3 9 Qf4",
         "id": "TWmLbohi",
         "note": "",
@@ -13418,6 +16329,25 @@
       },
 
       {
+        "name": "2Nf3 3e5 5 Qxd4 6 Qg4 7 Qg3",
+        "id": "i8xTJb9g",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "2Nf3 3e5 5 Qxd4 6 Qg4 7 Bb5",
+        "id": "xhqSIgz6",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "2Nf3 3e5 5 Qxd4 6 Qg4 7 Bf4",
+        "id": "fEtAGO1u",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+
+      {
         "name": "2Nf3 3e5 4 d4 5 Nxd4",
         "id": "V1BT15QY",
         "note": "A strange line I played out that appears to sack a rook for a couple pieces and some pawns. It leaves Black's king dangerously exposed to my eyes, but white's king is deceptively vurnerable (if you're good at checkmates - I am not haha) and the engine actually rates black ahead +1 dispite 'even' material)",
@@ -13585,12 +16515,6 @@
       },
 
       {
-        "name": "2Nf3 3 e5 4 d3 5 c3",
-        "id": "",
-        "note": "",
-        "parent": "GyTcEjCm"
-      },
-      {
         "name": "2Nf3 3 e5 4 d3 5 g3",
         "id": "X7rCPCTD",
         "note": "",
@@ -13705,13 +16629,6 @@
         "name": "2Nf3 3e5 4 Bb5 5 Bxd7 6 d4 7 Qxd4 8 Bf4",
         "id": "SwP2XZkC",
         "note": "",
-        "parent": "GyTcEjCm"
-      },
-
-      {
-        "name": "2Nf3 3e5 4 Bb5 5 Bxd7 6 d4 8 Nxd4 11 Re1",
-        "id": "",
-        "note": "An inaccuracy I failed to exploit completely here is a line played out going into middle game territory",
         "parent": "GyTcEjCm"
       },
 
@@ -13885,6 +16802,25 @@
       },
 
       {
+        "name": "Knight variation e5 4c3 6 Qa4+ 7 Bb5 8 Bxc6 9 Qb3 10 Nc3",
+        "id": "VJ3TvYIb",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "Knight variation e5 4c3 6 Qa4+ 7 Bb5 8 Bxc6 9 Qb3 10 Qd1",
+        "id": "PF2uKT3L",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "Knight variation e5 4c3 6 Qa4+ 7 Bb5 8 Bxc6 9 Qb3 10 O-O",
+        "id": "DCGjTdZR",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+
+      {
         "name": "Knight variation e5 4c3 6 Qa4+ 7 Na3",
         "id": "5TprQCqq",
         "note": "How to follow up wiht  the queen inaccuracy",
@@ -13930,6 +16866,26 @@
       },
 
       {
+        "name": "Knight variation e5 4 c3 5 Be2 7 Na3 8 b4 9 Nc2",
+        "id": "YBH22Olz",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "Knight variation e5 4 c3 5 Be2 7 Na3 8 b4 9 Bxd3",
+        "id": "oh0jMCJl",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+
+      {
+        "name": "Knight variation e5 4 c3 5 Be2 7 Na3 8 b4 9 bxc5",
+        "id": "yYDW37zb",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+
+      {
         "name": "Knight variation e5 4c3 5 Bb5+ 76 Bxd7 7 Qe2",
         "id": "syKqcK4U",
         "note": "",
@@ -13950,6 +16906,82 @@
       {
         "name": "Knight variation e5 4c3 5 Bb5+ 76 Bxd7 7 O-O",
         "id": "Uh8DpjNs",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+
+      {
+        "name": "Knight variation e5 4c3 5 Bb5+ 6. Qa4 8.Bxc6",
+        "id": "V1Kt9chr",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "Knight variation e5 4c3 5 Bb5+ 6. Qa4 8.Be2",
+        "id": "XbGydWyA",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "Knight variation e5 4c3 5 Bb5+ 6. Qa4 8.Bd3",
+        "id": "9mxy0oKv",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+
+      {
+        "name": "Knight variation e5 4 c3 5 Bb5+ 6 c4 7 d3",
+        "id": "jtDfY1HT",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "Knight variation e5 4 c3 5 Bb5+ 6 c4 7 O-O",
+        "id": "TWx7XaXy",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "Knight variation e5 4 c3 5 Bb5+ 6 c4 7 Qe2",
+        "id": "b0P035uT",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+
+      {
+        "name": "Knight variation e5 4c3 5d3 6 g3",
+        "id": "pIi5ObiT",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "Knight variation e5 4c3 5d3 6 cxd4",
+        "id": "6GB8dffG",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "Knight variation e5 4c3 5d3 6 Nb2",
+        "id": "5oymb1cF",
+        "note": "strangely black ends up worse and worse",
+        "parent": "GyTcEjCm"
+      },
+
+      {
+        "name": "Knight variation e5 4 c3 5 g3 6 Qb3",
+        "id": "ftI7vriy",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "Knight variation e5 4 c3 5 g3 6 Bg2",
+        "id": "Z0QtfbXz",
+        "note": "",
+        "parent": "GyTcEjCm"
+      },
+      {
+        "name": "Knight variation e5 4 c3 5 g3 6 b4",
+        "id": "W5mFFZk2",
         "note": "",
         "parent": "GyTcEjCm"
       },
@@ -14308,12 +17340,7 @@
         "id": "XOpdiVQW",
         "note": "A rather odd move by white but apparently it's a real line. Here is a combo of top/interesting moves until about move 8. Ends with a 0.4 advantage for black"
       },
-      {
-        "name": "La Bourdonnais 5 c3 6 Na3",
-        "id": "",
-        "note": "Wow this line c3 is dangerous. I got bored after 14 moves but it's still even and white is applying immense pressure",
-        "parent": "XOpdiVQW"
-      },
+
       {
         "name": "La Bourdonnais 5 c3 6 Be2",
         "id": "nlahM3hw",
@@ -14494,12 +17521,6 @@
         "parent": "1bZtLW1w"
       },
 
-      {
-        "name": "Kings Indian Attack Exchange 4 Nf3 5 Be2 6 O-O",
-        "id": "",
-        "note": "Two brilliant moves in a row on this line!",
-        "parent": "1bZtLW1w"
-      },
       {
         "name": "Kings Indian Attack Exchange 4 Nf3 5 Be2 6 a3",
         "id": "vdNPuB0H",
@@ -14781,8 +17802,28 @@
       },
 
       {
-        "name": "Hillbilly Attack 0..h6",
-        "id": "XmtF4qpc",
+        "name": "Hillbilly Attack 0.h6 9.a5",
+        "id": "oXwnxjD3",
+        "note": "",
+        "parent": "6T0DJgme"
+      },
+      {
+        "name": "Hillbilly Attack 0.h6 9.O-O",
+        "id": "BFpBfMgd",
+        "note": "",
+        "parent": "6T0DJgme"
+      },
+
+      {
+        "name": "Hillbilly Attack 0.h6 9.Bf5",
+        "id": "TKwIEPaH",
+        "note": "",
+        "parent": "6T0DJgme"
+      },
+
+      {
+        "name": "Hillbilly Attack 0..b5",
+        "id": "",
         "note": "",
         "parent": "6T0DJgme"
       },
@@ -14939,6 +17980,26 @@
         "note": "",
         "parent": "2QPPkBnA"
       },
+
+      {
+        "name": "Hillbilly Attack 6 e3 7 Bg7",
+        "id": "PdrZl5fK",
+        "note": "",
+        "parent": "2QPPkBnA"
+      },
+      {
+        "name": "Hillbilly Attack 6 e3 7 a5",
+        "id": "1I5hkbWa",
+        "note": "",
+        "parent": "2QPPkBnA"
+      },
+      {
+        "name": "Hillbilly Attack 6 e3 7 b5",
+        "id": "fS6svaMw",
+        "note": "",
+        "parent": "2QPPkBnA"
+      },
+
       {
         "name": "Hillbilly Attack 4 g6 5 Nf6 6 exf3 7  Qb6? 8..Qc5",
         "id": "7cDmbcKS",
@@ -15092,6 +18153,25 @@
       {
         "name": "Hillbilly Attack 3..e6 4..dxe4 5..Bb4 6..Nd7",
         "id": "9IEMaz36",
+        "note": "",
+        "parent": "BLbiVzJ5"
+      },
+
+      {
+        "name": "Hillbilly Attack 3.e6 4.Be7 5.Bd7",
+        "id": "TGVOdXt9",
+        "note": "",
+        "parent": "BLbiVzJ5"
+      },
+      {
+        "name": "Hillbilly Attack 3.e6 4.Be7 5.c5",
+        "id": "8JSaIFVK",
+        "note": "",
+        "parent": "BLbiVzJ5"
+      },
+      {
+        "name": "Hillbilly Attack 3.e6 4.Be7 5.a6",
+        "id": "HdCopwIC",
         "note": "",
         "parent": "BLbiVzJ5"
       },
@@ -15349,6 +18429,25 @@
       },
 
       {
+        "name": "3.dxe4 4.e6 5.Nf6 6.Be7 7.Nxe4 8.O-O 9.b6 10.Nd7",
+        "id": "LWOnPdQn",
+        "note": "",
+        "parent": "1fIr67l2"
+      },
+      {
+        "name": "3.dxe4 4.e6 5.Nf6 6.Be7 7.Nxe4 8.O-O 9.b6 10.Bb7",
+        "id": "d3VN6x0K",
+        "note": "",
+        "parent": "1fIr67l2"
+      },
+      {
+        "name": "3.dxe4 4.e6 5.Nf6 6.Be7 7.Nxe4 8.O-O 9.b6 10.a5",
+        "id": "IOAySdbx",
+        "note": "",
+        "parent": "1fIr67l2"
+      },
+
+      {
         "name": "Hillbilly Attack Main Line 3..dxe5 4..e6 7..Bb4 8..fxe4",
         "id": "wTM054J3",
         "note": "If they strike out with the bishop, continue as normal. I develop the line and just throwing in an inaccuracy or two in order to develop ideas, there are some kingside attacks brewing by white, although playing it to conclusion is freaking long with the computer playing optimal moves but there is good advantage for whtie here",
@@ -15428,12 +18527,7 @@
         "id": "oQlIyVsr",
         "note": "An inaccuracy I think by black but I've seen a few times. Re-tooled for top moves"
       },
-      {
-        "name": "Hillbilly Attack Main LIne 3..dxe4 4..Nf6 6..b6",
-        "id": "",
-        "note": "An inaccuracy I think by black but I've seen a few times. Re-tooled for top moves",
-        "parent": "oQlIyVsr"
-      },
+
       {
         "name": "Hillbilly Attack Main LIne 3..dxe4 4..Nf6 6..Qa5",
         "id": "0ppEK7eU",
@@ -15603,12 +18697,7 @@
         "note": "I follow mostly the best moves from this point until white castles, ahead a pawn, but with only slight advantage because of black's position",
         "parent": "up2ygVH5"
       },
-      {
-        "name": "Hillbilly Attack 3..e5 4..dxe4 5 Nh6??",
-        "id": "",
-        "note": "Black moves the pawn out and then chooses to exchange the next move this time on d4. Nh6 looks natural but is actually a big blunder if exploited correctly",
-        "parent": "up2ygVH5"
-      },
+
       {
         "name": "Hillbilly Attack 3..e5 4..dxe4 5 Nh6??",
         "id": "NAgvZGV0",
@@ -15847,6 +18936,25 @@
       },
 
       {
+        "name": "Hillbilly Attack 3.Nd7 4.Nc5",
+        "id": "HxMc3PsB",
+        "note": "",
+        "parent": "l91sFG1k"
+      },
+      {
+        "name": "Hillbilly Attack 3.Nd7 4.cxd5",
+        "id": "V1trAxOA",
+        "note": "",
+        "parent": "l91sFG1k"
+      },
+      {
+        "name": "Hillbilly Attack 3.Nd7 4.Ngf6",
+        "id": "9eOQkV6v",
+        "note": "",
+        "parent": "l91sFG1k"
+      },
+
+      {
         "name": "Hillbilly Attack 2..Nf6 3..Nd5",
         "id": "j4ssK8vm",
         "note": "Strange 2nd move. But! It's pretty even as long as both players make good moves"
@@ -15942,10 +19050,103 @@
         "note": "Hungarian Variation #4",
         "parent": "Z5dKsg64"
       },
+
+      {
+        "name": "Hungarian Variation 6.Be2 7.Be7",
+        "id": "b4KWHPay",
+        "note": "",
+        "parent": "Z5dKsg64"
+      },
+      {
+        "name": "Hungarian Variation 6.Be2 7.Be6",
+        "id": "vDCFO2ma",
+        "note": "",
+        "parent": "Z5dKsg64"
+      },
+      {
+        "name": "Hungarian Variation 6.Be2 7.Bd7",
+        "id": "BXnssRSc",
+        "note": "",
+        "parent": "Z5dKsg64"
+      },
+      {
+        "name": "Hungarian Variation 6.Be2 7.Ng4",
+        "id": "l62nLGcz",
+        "note": "",
+        "parent": "Z5dKsg64"
+      },
+
       {
         "name": "Hungarian Variation 6...e6",
         "id": "Xs6oXXNm",
         "note": "Hungarian Variation #4",
+        "parent": "Z5dKsg64"
+      },
+
+      {
+        "name": "Hungarian Variation 6.Nf6 7.Be7",
+        "id": "x6QQvBNx",
+        "note": "Hungarian Variation #4",
+        "parent": "Z5dKsg64"
+      },
+
+      {
+        "name": "Hungarian Variation 6.Nf6 7.Bd7",
+        "id": "L7jJBmKx",
+        "note": "Hungarian Variation #4",
+        "parent": "Z5dKsg64"
+      },
+      {
+        "name": "Hungarian Variation 6.Nf6 7.a6",
+        "id": "WxWoie3B",
+        "note": "Hungarian Variation #4",
+        "parent": "Z5dKsg64"
+      },
+
+      {
+        "name": "Hungarian Variation 4.e6",
+        "id": "LHcrFXXn",
+        "note": "",
+        "parent": "Z5dKsg64"
+      },
+
+      {
+        "name": "Hungarian Variation 4.Bb7",
+        "id": "NPfkcKJY",
+        "note": "",
+        "parent": "Z5dKsg64"
+      },
+
+      {
+        "name": "Hungarian Variation 4.Nc6",
+        "id": "xCrCvmpL",
+        "note": "",
+        "parent": "Z5dKsg64"
+      },
+
+      {
+        "name": "Hungarian Variation 4.bxc5",
+        "id": "bcndelpJ",
+        "note": "",
+        "parent": "Z5dKsg64"
+      },
+
+      {
+        "name": "Hungarian Variation 4.dxc6",
+        "id": "Ca5gt9PG",
+        "note": "",
+        "parent": "Z5dKsg64"
+      },
+      {
+        "name": "Hungarian Variation 4.Nf6",
+        "id": "w7niSwyP",
+        "note": "",
+        "parent": "Z5dKsg64"
+      },
+      {
+        "name": "Hungarian Variation 4.a6",
+        "id": "0PCgG28I",
+        "note": "",
         "parent": "Z5dKsg64"
       },
 
@@ -16017,6 +19218,26 @@
         "note": "Rossolimo e6",
         "parent": "Z5dKsg64"
       },
+
+      {
+        "name": "Rossolimo 3.e6 5.Nf6 6.Nd5",
+        "id": "8HKsyWdm",
+        "note": "Rossolimo e6 5.Nf6",
+        "parent": "Z5dKsg64"
+      },
+      {
+        "name": "Rossolimo 3.e6 5.Nf6 6.Ng8",
+        "id": "SSuAsJ6P",
+        "note": "Rossolimo e6 5.Nf6",
+        "parent": "Z5dKsg64"
+      },
+      {
+        "name": "Rossolimo 3.e6 5.Nf6 6.Ng4",
+        "id": "6adELGvY",
+        "note": "Rossolimo e6 5.Nf6",
+        "parent": "Z5dKsg64"
+      },
+
       {
         "name": "Rossolimo 3...d6 still quickstarter",
         "id": "t2Ezzir8",
@@ -16601,6 +19822,25 @@
       {
         "name": "4 Nc3 Nxc3 #9",
         "id": "v5lGoAES",
+        "note": "",
+        "parent": "QZokdYNd"
+      },
+
+      {
+        "name": "4.Nh6 5.cxd4",
+        "id": "8Laqwinv",
+        "note": "",
+        "parent": "QZokdYNd"
+      },
+      {
+        "name": "4.Nh6 5.d5",
+        "id": "Ew50BPXv",
+        "note": "",
+        "parent": "QZokdYNd"
+      },
+      {
+        "name": "4.Nh6 5.d6",
+        "id": "DeLId9Zq",
         "note": "",
         "parent": "QZokdYNd"
       },
@@ -17292,6 +20532,27 @@
         "note": "5..Qa4+ 6 Nc3 2",
         "parent": "7DVQ3q5S"
       },
+
+      {
+        "name": "2.g6 3.Bg7 4.Nc6 5.Nf6",
+        "id": "XGMPaNBC",
+        "note": "",
+        "parent": "7DVQ3q5S"
+      },
+      {
+        "name": "2.g6 3.Bg7 4.Nc6 5.b6",
+        "id": "piphCy5Z",
+        "note": "",
+        "parent": "7DVQ3q5S"
+      },
+
+      {
+        "name": "2.g6 3.Bg7 4.Nc6 5.d6",
+        "id": "QOzbKDbb",
+        "note": "",
+        "parent": "7DVQ3q5S"
+      },
+
       {
         "name": "4..Nf6",
         "id": "ugmQfqmp",
@@ -19547,6 +22808,26 @@
         "note": "3.a6 2",
         "parent": "5p26e1qP"
       },
+
+      {
+        "name": "4.bxc6 5.d6 6.Bg4",
+        "id": "QqJ23qoA",
+        "note": "3.a6 2",
+        "parent": "5p26e1qP"
+      },
+      {
+        "name": "4.bxc6 5.d6 6.f6",
+        "id": "ynM438lv",
+        "note": "3.a6 2",
+        "parent": "5p26e1qP"
+      },
+      {
+        "name": "4.bxc6 5.d6 6.Bf5",
+        "id": "CWWSJc5C",
+        "note": "3.a6 2",
+        "parent": "5p26e1qP"
+      },
+
       {
         "name": "3.e5",
         "id": "Mk1ZHNgM",
@@ -20038,6 +23319,691 @@
         "id": "fJuYFHwH",
         "note": "",
         "parent": "BUBKugf1"
+      },
+
+      {
+        "name": "9. O-O-O Nc6",
+        "id": "y7KG8U4x",
+        "note": "9. O-O-O Nc6 #1",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "11. Qe7",
+        "id": "JQlQ43cK",
+        "note": "9. O-O-O Nc6 #2",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "14. f6",
+        "id": "BZFAxMXj",
+        "note": "9. O-O-O Nc6 #3",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "12. Rad8",
+        "id": "hCglQrMm",
+        "note": "9. O-O-O Nc6 #4",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "12. Ba3",
+        "id": "MEIuaoAQ",
+        "note": "9. O-O-O Nc6 #5",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "6. Nf6",
+        "id": "fYCufbkY",
+        "note": "6. Nd2 Nf6 #1",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "7. Bc5",
+        "id": "eQUKvPy7",
+        "note": "6. Nd2 Nf6 #2",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "9. d5",
+        "id": "Gcg6yMQH",
+        "note": "6. Nd2 Nf6 #3",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "7. d4",
+        "id": "bNB7Ae22",
+        "note": "6. Nd2 Nf6 #4",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "11. a6",
+        "id": "QBVH7KZD",
+        "note": "6. Nd2 Nf6 #5",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "8. Nfd7",
+        "id": "HKHpfZYz",
+        "note": "6. Nd2 Nf6 #6",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "10. Nxd5",
+        "id": "LPnn5fDn",
+        "note": "6. Nd2 Nf6 #7",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "11.Nbd7",
+        "id": "yDK2n5iR",
+        "note": "6. Nd2 Nf6 #8",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "10.Qc7",
+        "id": "F20fveDk",
+        "note": "6. Nd2 Nf6 #9",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "11.Qxe5",
+        "id": "iUBhq3pO",
+        "note": "6. Nd2 Nf6 #10",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "11.Nc6",
+        "id": "VeCMwAjy",
+        "note": "6. Nd2 Nf6 #11",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "12.Nxd4",
+        "id": "wUsavux2",
+        "note": "6. Nd2 Nf6 #12",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "7. Be7",
+        "id": "ESAOZIbF",
+        "note": "6. Nd2 Nf6 #13",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "13. Ne4",
+        "id": "YCSuzCTQ",
+        "note": "6. Nd2 Nf6 #14",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "12.d6",
+        "id": "lLqqxVRJ",
+        "note": "6. Nd2 Nf6 #15",
+        "parent": "BUBKugf1"
+      },
+
+      {
+        "name": "2.e6",
+        "id": "vyWXj3gs",
+        "note": "e6 1",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "5.d4",
+        "id": "IVw9CwiX",
+        "note": "e6 2",
+        "parent": "BUBKugf1"
+      },
+
+      {
+        "name": "3 b3 Nc6 4.Bb2 Nf6",
+        "id": "xmqoLKqS",
+        "note": "",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "12.a6",
+        "id": "0tAaFRe9",
+        "note": "3 b3 Nc6 4.Bb2 Nf6 2",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "9.Nf7",
+        "id": "bRgXq0Hx",
+        "note": "3 b3 Nc6 4.Bb2 Nf6 3",
+        "parent": "BUBKugf1"
+      },
+
+      {
+        "name": "4.d5",
+        "id": "XOtU5lAT",
+        "note": "3 b3 Nc6 4.Bb2 d5 1",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "9.Be6",
+        "id": "qAb2Oa2I",
+        "note": "3 b3 Nc6 4.Bb2 d5 2",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "5.a6",
+        "id": "IsteXB3f",
+        "note": "3 b3 Nc6 4.Bb2 d5 3",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "7.Nf6",
+        "id": "onGvLzbm",
+        "note": "3 b3 Nc6 4.Bb2 d5 4",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "5.Nf6",
+        "id": "jO3xTBOC",
+        "note": "3 b3 Nc6 4.Bb2 d5 5",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "9.g4",
+        "id": "t5Z8Jyut",
+        "note": "3 b3 Nc6 4.Bb2 d5 6",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "8.a5",
+        "id": "ecBuA5lH",
+        "note": "3 b3 Nc6 4.Bb2 d5 7",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "5.dxe4",
+        "id": "Qawxo6To",
+        "note": "3 b3 Nc6 4.Bb2 d5 8",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "9.Nf6",
+        "id": "Yb2uysTz",
+        "note": "3 b3 Nc6 4.Bb2 d5 8",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "7.bxc6",
+        "id": "B1vepbVt",
+        "note": "3 b3 Nc6 4.Bb2 d5 10",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "6.Qc7",
+        "id": "5prX68JY",
+        "note": "3 b3 Nc6 4.Bb2 d5 11",
+        "parent": "BUBKugf1"
+      },
+
+      {
+        "name": "3.a6",
+        "id": "fUsYdkSo",
+        "note": "4.Bb2 d3 5.exd5 exd5 1",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "7.Be7",
+        "id": "XaBk1JWG",
+        "note": "4.Bb2 d3 5.exd5 exd5 2",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "10.Bxc5",
+        "id": "4GxQElhE",
+        "note": "4.Bb2 d3 5.exd5 exd5 3",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "13.Be6",
+        "id": "CQjyEZlh",
+        "note": "4.Bb2 d3 5.exd5 exd5 4",
+        "parent": "BUBKugf1"
+      },
+
+      {
+        "name": "4.Nc6",
+        "id": "YKgkI9Uu",
+        "note": "4.Bb2 Nc6 5.Qe2 d6 1",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "7.Be7",
+        "id": "0b5NFym1",
+        "note": "4.Bb2 Nc6 5.Qe2 d6 2",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "11.e5",
+        "id": "1RH3psJS",
+        "note": "4.Bb2 Nc6 5.Qe2 d6 3",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "6.e5",
+        "id": "ZisX0HiF",
+        "note": "4.Bb2 Nc6 5.Qe2 d6 4",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "11.d5",
+        "id": "9dMYMeWx",
+        "note": "4.Bb2 Nc6 5.Qe2 d6 5",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "12.exd4",
+        "id": "v1DRwKxa",
+        "note": "4.Bb2 Nc6 5.Qe2 d6 6",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "11.f5",
+        "id": "iEWtyYZE",
+        "note": "4.Bb2 Nc6 5.Qe2 d6 7",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "12.Bxf5",
+        "id": "tR3zcTZN",
+        "note": "4.Bb2 Nc6 5.Qe2 d6 8",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "12.gxf5",
+        "id": "eTfh5rYH",
+        "note": "4.Bb2 Nc6 5.Qe2 d6 9",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "13.f4",
+        "id": "jP8S15JN",
+        "note": "4.Bb2 Nc6 5.Qe2 d6 10",
+        "parent": "BUBKugf1"
+      },
+
+      {
+        "name": "5.Nf6",
+        "id": "3cEc3Oqa",
+        "note": "4.Bb2 Nc6 5.Qe2 Nf6 1",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "8.Rb8",
+        "id": "ZQIiK2oo",
+        "note": "4.Bb2 Nc6 5.Qe2 Nf6 2",
+        "parent": "BUBKugf1"
+      },
+      {
+        "name": "14.Nb4",
+        "id": "1pJZ0acE",
+        "note": "4.Bb2 Nc6 5.Qe2 Nf6 3 - STOPPED HERE, NEXT CHAPTER WESTERINEN ATTACK 2",
+        "parent": "BUBKugf1"
+      },
+
+      {
+        "name": "Westerinen-Attack part 2",
+        "id": "NsGD9AFW",
+        "note": ""
+      },
+      {
+        "name": "13.e5",
+        "id": "wMemv9h2",
+        "note": "4.Bb2 Nc5 #2",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "7.Be7",
+        "id": "YNXuDabE",
+        "note": "4.Bb2 Nc5 #3",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "11.Rd8",
+        "id": "QHMkIsI0",
+        "note": "4.Bb2 Nc5 #4",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "9.Nxd4",
+        "id": "44W6xr36",
+        "note": "4.Bb2 Nc5 #5",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "13.Ne5",
+        "id": "FV5jENMX",
+        "note": "4.Bb2 Nc5 #6",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "4.e5",
+        "id": "B4UUAAad",
+        "note": "4.Bb2 e5 1",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "5.Nc6",
+        "id": "mDUW9BVx",
+        "note": "4.Bb2 e5 2",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "6.Nf6",
+        "id": "hycwJQvE",
+        "note": "4.Bb2 e5 3",
+        "parent": "NsGD9AFW"
+      },
+
+      {
+        "name": "4.Bb2 Nf6 1",
+        "id": "CZH65L4i",
+        "note": "4.Bb2 Nf6 1",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "6.Nbd7",
+        "id": "uu6pGSgl",
+        "note": "4.Bb2 Nf6 2",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "13.Bxd6",
+        "id": "iUHWjAU2",
+        "note": "4.Bb2 Nf6 3",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "9.Bc7",
+        "id": "m1owaebB",
+        "note": "4.Bb2 Nf6 4",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "17.Nb4",
+        "id": "sO3MCC7H",
+        "note": "4.Bb2 Nf6 5",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "14.b5",
+        "id": "wbGupZpM",
+        "note": "4.Bb2 Nf6 6",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "7.Nxe5",
+        "id": "G3EUo0HJ",
+        "note": "4.Bb2 Nf6 7",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "8.Nd5",
+        "id": "bGTRFT3G",
+        "note": "4.Bb2 Nf6 8",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "10.Bd7",
+        "id": "hTvjWTgp",
+        "note": "4.Bb2 Nf6 9",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "7.Be7",
+        "id": "nn7ZR6Rj",
+        "note": "4.Bb2 Nf6 11",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "8.Nxe5",
+        "id": "hQWWBPCS",
+        "note": "4.Bb2 Nf6 12",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "8.O-O",
+        "id": "484Grd0o",
+        "note": "4.Bb2 Nf6 13",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "10.Nd5",
+        "id": "8FpN7AbP",
+        "note": "4.Bb2 Nf6 14",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "10.a6",
+        "id": "mHrhoMWs",
+        "note": "4.Bb2 Nf6 15",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "13.Bb7",
+        "id": "CrTiMpII",
+        "note": "4.Bb2 Nf6 16",
+        "parent": "NsGD9AFW"
+      },
+
+      {
+        "name": "13.Bb7",
+        "id": "CrTiMpII",
+        "note": "4.Bb2 Nf6 16",
+        "parent": "NsGD9AFW"
+      },
+
+      {
+        "name": "3.b3 d5 6.Qex Qe7",
+        "id": "fhaDGOMr",
+        "note": "3.b3 d5 6.Qex Qe7",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "8.Bxc6",
+        "id": "xzPI07V6",
+        "note": "3.b3 d5 6.Qex Qe7 2",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "3.b3 d5  6.Qex Be7 1",
+        "id": "XXpoR3P7",
+        "note": "",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "7.Qb6",
+        "id": "DcwgwleZ",
+        "note": "3.b3 d5  6.Qex Be7 2",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "7.Be6",
+        "id": "fLUozlhX",
+        "note": "3.b3 d5  6.Qex Be7 3",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "9.Qa5",
+        "id": "P6QPkkAy",
+        "note": "3.b3 d5  6.Qex Be7 4",
+        "parent": "NsGD9AFW"
+      },
+
+      {
+        "name": "7.Qd6 8.Bg4",
+        "id": "vIuG95O6",
+        "note": "",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "7.Qd6 8.a6",
+        "id": "8uc56Wl0",
+        "note": "",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "7.Qd6 8.Qe6",
+        "id": "AIQ27okm",
+        "note": "",
+        "parent": "NsGD9AFW"
+      },
+
+      {
+        "name": "3.b3 d5  6.Qex Be6 1",
+        "id": "qM6qBJMD",
+        "note": "",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "10.Kf7",
+        "id": "ckf5MPpi",
+        "note": "3.b3 d5  6.Qex Be6 2",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "7.Nf6",
+        "id": "MEAoLE5r",
+        "note": "3.b3 d5 6.Qex Be6 3",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "5. Bb5+ Bd7 1",
+        "id": "QZvbWwBJ",
+        "note": "",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "7.Bd6",
+        "id": "t5yW6qSJ",
+        "note": "5. Bb5+ Bd7 2",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "11.cxd4",
+        "id": "H6CodxgI",
+        "note": "5. Bb5+ Bd7 3",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "7.Nc6",
+        "id": "Wldb75ST",
+        "note": "5. Bb5+ Bd7 4",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "8.Be7",
+        "id": "8HsQk8bD",
+        "note": "5. Bb5+ Bd7 5",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "6.Nxd7",
+        "id": "RYNEsyNl",
+        "note": "5. Bb5+ Bd7 6",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "8.d4",
+        "id": "GXuDvbFL",
+        "note": "5. Bb5+ Bd7 7",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "8.Ngf6",
+        "id": "T3Vkc7zZ",
+        "note": "5. Bb5+ Bd7 8",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "8.Ndf6",
+        "id": "lAVw3gdk",
+        "note": "5. Bb5+ Bd7 9",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "9.Kf8",
+        "id": "waCDXtRT",
+        "note": "5. Bb5+ Bd7 10",
+        "parent": "NsGD9AFW"
+      },
+
+      {
+        "name": "3.b3 Nf6 Mainline #!",
+        "id": "692WEXy2",
+        "note": "",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "8.b5",
+        "id": "LOro9wnJ",
+        "note": "3.b3 Nf6 Mainline #2",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "10.Nxe5",
+        "id": "nMNLZGab",
+        "note": "3.b3 Nf6 Mainline #3",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "10.b4",
+        "id": "8GMZRzrc",
+        "note": "3.b3 Nf6 Mainline #4",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "8.d6",
+        "id": "aiT9qJrP",
+        "note": "3.b3 Nf6 Mainline #5",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "9.Qxd6",
+        "id": "Rlg4zBR9",
+        "note": "3.b3 Nf6 Mainline #6",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "14.Nd4",
+        "id": "nj4jkkpV",
+        "note": "3.b3 Nf6 Mainline #7",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "8.b6",
+        "id": "aEgHxlXo",
+        "note": "3.b3 Nf6 Mainline #8",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "10.Nxd4",
+        "id": "P1zujDNm",
+        "note": "3.b3 Nf6 Mainline #10",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "19.e5",
+        "id": "DgA8QztP",
+        "note": "3.b3 Nf6 Mainline #11",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "17.Kh8",
+        "id": "eJuiCoaW",
+        "note": "3.b3 Nf6 Mainline #12",
+        "parent": "NsGD9AFW"
+      },
+      {
+        "name": "19.h6",
+        "id": "bpFgxgWd",
+        "note": "3.b3 Nf6 Mainline #13",
+        "parent": "NsGD9AFW"
       },
 
       {
@@ -20654,6 +24620,43 @@
       },
 
       {
+        "name": "4.Bg4 5.Nc6 6.Qa5 7.c5",
+        "id": "Z2jS5dgQ",
+        "note": "EXAMPLE.. check move 8",
+        "parent": "mXR1ffgM"
+      },
+      {
+        "name": "4.Bg4 5.Nc6 6.Qa5 7.Rd8",
+        "id": "11Dr8agX",
+        "note": "EXAMPLE.. check move 8",
+        "parent": "mXR1ffgM"
+      },
+      {
+        "name": "4.Bg4 5.Nc6 6.Qa5 7.c6",
+        "id": "SG5Xn1Ql",
+        "note": "EXAMPLE.. check move 8",
+        "parent": "mXR1ffgM"
+      },
+      {
+        "name": "4.Bg4 5.Nc6 6.Qa5 7.Qf5",
+        "id": "OMWAk8EV",
+        "note": "EXAMPLE.. check move 8",
+        "parent": "mXR1ffgM"
+      },
+      {
+        "name": "4.Bg4 5.Nc6 6.Qa5 7.Qh5",
+        "id": "CE9nCFcx",
+        "note": "EXAMPLE.. check move 8",
+        "parent": "mXR1ffgM"
+      },
+      {
+        "name": "4.Bg4 5.Nc6 6.Qa5 7.Qd7",
+        "id": "yvloo5hH",
+        "note": "EXAMPLE.. check move 8",
+        "parent": "mXR1ffgM"
+      },
+
+      {
         "name": "4..Qd8 5..e6",
         "id": "Waz04lKo",
         "note": "EXAMPLE.. check move 8",
@@ -20688,25 +24691,6 @@
       {
         "name": "4..Qd8 5..e6",
         "id": "Be7WKrgW",
-        "note": "EXAMPLE.. check move 8",
-        "parent": "mXR1ffgM"
-      },
-
-      {
-        "name": "4..Qd8 5..a6",
-        "id": "",
-        "note": "EXAMPLE.. check move 8",
-        "parent": "mXR1ffgM"
-      },
-      {
-        "name": "4..Qd8 5..Nc6",
-        "id": "",
-        "note": "EXAMPLE.. check move 8",
-        "parent": "mXR1ffgM"
-      },
-      {
-        "name": "4..Qd8 5..e6",
-        "id": "",
         "note": "EXAMPLE.. check move 8",
         "parent": "mXR1ffgM"
       },
@@ -20855,6 +24839,25 @@
       },
 
       {
+        "name": "3.Qe6+? 4.f6 5. h5 6. Nh6",
+        "id": "MXyP2LMQ",
+        "note": "",
+        "parent": "9NnNClXZ"
+      },
+      {
+        "name": "3.Qe6+? 4.f6 5. h5 6. Qf7",
+        "id": "njetPBe5",
+        "note": "",
+        "parent": "9NnNClXZ"
+      },
+      {
+        "name": "3.Qe6+? 4.f6 5. h5 6. h4",
+        "id": "6ot6nMaR",
+        "note": "",
+        "parent": "9NnNClXZ"
+      },
+
+      {
         "name": "3.Qe6+? 4.B6 5.Bb7",
         "id": "9GwrkeXI",
         "note": "",
@@ -20907,12 +24910,7 @@
         "id": "2xiyt3Ea",
         "note": "How do I not have lines for a5"
       },
-      {
-        "name": "3..Qa5 4..e6",
-        "id": "",
-        "note": "How do I not have lines for a5",
-        "parent": "2xiyt3Ea"
-      },
+
       {
         "name": "3..Qa5 4..Nf6",
         "id": "z9EIQYKp",
@@ -21446,6 +25444,38 @@
         "note": "6..Nfd7 7..Nb6 8..Nc6 #3",
         "parent": "P38K8MfM"
       },
+
+      {
+        "name": "7.b6 8.dxe5",
+        "id": "4OO6L1g0",
+        "note": "",
+        "parent": "P38K8MfM"
+      },
+      {
+        "name": "7.b6 8.b5",
+        "id": "31TwZKS4",
+        "note": "",
+        "parent": "P38K8MfM"
+      },
+      {
+        "name": "7.b6 8.Nc6",
+        "id": "V3GUvrBx",
+        "note": "",
+        "parent": "P38K8MfM"
+      },
+      {
+        "name": "7.b6 8.h5",
+        "id": "mBvVO7u9",
+        "note": "",
+        "parent": "P38K8MfM"
+      },
+      {
+        "name": "7.b6 8.Bb7",
+        "id": "4c54DrMk",
+        "note": "",
+        "parent": "P38K8MfM"
+      },
+
       {
         "name": "6..dxe5 7..Nfd7?",
         "id": "Hp7dj7YA",
@@ -21853,6 +25883,50 @@
       },
 
       {
+        "name": "Offshoots 5.Nbd7 6.Ng8",
+        "id": "f2ScsZ5o",
+        "note": "5..c6 #3",
+        "parent": "4pgdEeKI"
+      },
+      {
+        "name": "Offshoots 5.Nbd7 6.Ng4",
+        "id": "lZMilrdy",
+        "note": "5..c6 #3",
+        "parent": "4pgdEeKI"
+      },
+      {
+        "name": "Offshoots 5.Nbd7 6.dxe5",
+        "id": "fyC2SiAe",
+        "note": "5..c6 #3",
+        "parent": "4pgdEeKI"
+      },
+
+      {
+        "name": "Offshoots 4.d5 5.Ne4 6.dxe4 7.Bf5",
+        "id": "8BlTRaA5",
+        "note": "",
+        "parent": "4pgdEeKI"
+      },
+      {
+        "name": "Offshoots 4.d5 5.Ne4 6.dxe4 7.c6",
+        "id": "QIpKv6bG",
+        "note": "",
+        "parent": "4pgdEeKI"
+      },
+      {
+        "name": "Offshoots 4.d5 5.Ne4 6.dxe4 7.b6",
+        "id": "ePePy9ZZ",
+        "note": "",
+        "parent": "4pgdEeKI"
+      },
+      {
+        "name": "Offshoots 4.d5 5.Ne4 6.dxe4 7.Bh6",
+        "id": "gkqFJ8Jg",
+        "note": "",
+        "parent": "4pgdEeKI"
+      },
+
+      {
         "name": "Czech Pirc",
         "id": "WhFc6CND",
         "note": ""
@@ -21926,6 +26000,25 @@
       },
 
       {
+        "name": "2.Nf6 3.c6 4.e6? 5.d5",
+        "id": "MdopeWRP",
+        "note": "",
+        "parent": "WhFc6CND"
+      },
+      {
+        "name": "2.Nf6 3.c6 4.e6? 5.e5",
+        "id": "Vwb1IkOG",
+        "note": "",
+        "parent": "WhFc6CND"
+      },
+      {
+        "name": "2.Nf6 3.c6 4.e6? 5.Be7",
+        "id": "EmqtL5HY",
+        "note": "",
+        "parent": "WhFc6CND"
+      },
+
+      {
         "name": "7..c5",
         "id": "BRvSXlkf",
         "note": "",
@@ -21940,6 +26033,26 @@
       {
         "name": "2..c6 4..Bg4",
         "id": "dk7lopUe",
+        "note": "",
+        "parent": "elUxDdFP"
+      },
+
+      {
+        "name": "2.c6 3.Bg4 4.Bb5",
+        "id": "iHVTsjWl",
+        "note": "",
+        "parent": "elUxDdFP"
+      },
+      {
+        "name": "2.c6 3.Bg4 4.Bxf3",
+        "id": "GJ1rFgxd",
+        "note": "",
+        "parent": "elUxDdFP"
+      },
+
+      {
+        "name": "2.c6 3.Bg4 4.Qa5+",
+        "id": "szD70PPF",
         "note": "",
         "parent": "elUxDdFP"
       },
@@ -22066,6 +26179,26 @@
         "note": "5..Nh6 #3",
         "parent": "K4CRDUiF"
       },
+
+      {
+        "name": "5.Nd7 6.h5",
+        "id": "gcQLD2SQ",
+        "note": "",
+        "parent": "K4CRDUiF"
+      },
+      {
+        "name": "5.Nd7 6.Nb6",
+        "id": "jVChRhZl",
+        "note": "",
+        "parent": "K4CRDUiF"
+      },
+      {
+        "name": "5.Nd7 6.Nf8",
+        "id": "iWW28k0q",
+        "note": "",
+        "parent": "K4CRDUiF"
+      },
+
       {
         "name": "2..Bg7 3..d5?",
         "id": "bcYbcbos",
@@ -23628,6 +27761,23 @@
         "name": "2.d6",
         "id": "9j06CeEW",
         "note": ""
+      },
+      {
+        "name": "2.c5 ",
+        "id": "9b5x0c8h",
+        "note": ""
+      },
+      {
+        "name": "2.c5 3.d6",
+        "id": "aINrPhAz",
+        "note": "",
+        "parent": "9b5x0c8h"
+      },
+      {
+        "name": "2.c5 3.e6",
+        "id": "xFOqUWx8",
+        "note": "",
+        "parent": "9b5x0c8h"
       }
     ]
   },
@@ -23807,6 +27957,26 @@
         "note": "",
         "parent": "CwVGX8qT"
       },
+
+      {
+        "name": "3 e4 4 Be2",
+        "id": "udsiInmv",
+        "note": "",
+        "parent": "CwVGX8qT"
+      },
+      {
+        "name": "3 e4 4 h3",
+        "id": "ooySfDvs",
+        "note": "",
+        "parent": "CwVGX8qT"
+      },
+      {
+        "name": "3 e4 4 Nf3",
+        "id": "Y7xbko29",
+        "note": "",
+        "parent": "CwVGX8qT"
+      },
+
       {
         "name": "4 f4? 5 Qe7? 6 Nf3",
         "id": "0hPYVCiv",
@@ -23824,6 +27994,23 @@
         "id": "bWMFmU1J",
         "note": "",
         "parent": "CwVGX8qT"
+      },
+      {
+        "name": "2 e4 3 Nf3",
+        "id": "pwU5keiB",
+        "note": ""
+      },
+      {
+        "name": "2 e4 3 a3",
+        "id": "zIaYZHeq",
+        "note": "",
+        "parent": "pwU5keiB"
+      },
+      {
+        "name": "2 e4 3 d3",
+        "id": "0UUjdxnT",
+        "note": "",
+        "parent": "pwU5keiB"
       }
     ]
   },
@@ -24073,25 +28260,6 @@
       },
 
       {
-        "name": "2 e4 3 Nc3 4 d4",
-        "id": "",
-        "note": "2 e4 4 Nc3",
-        "parent": "oeOFgHUn"
-      },
-      {
-        "name": "2 e4 3 Nc3 4 d4",
-        "id": "",
-        "note": "2 e4 4 Nc3",
-        "parent": "oeOFgHUn"
-      },
-      {
-        "name": "2 e4 3 Nc3 4 d4",
-        "id": "",
-        "note": "2 e4 4 Nc3",
-        "parent": "oeOFgHUn"
-      },
-
-      {
         "name": "2 e4 3 Bb5",
         "id": "kH2XPSOk",
         "note": "2 e4 3 Bb5",
@@ -24161,6 +28329,26 @@
       },
 
       {
+        "name": "2 e4 3 g4? 4 d4",
+        "id": "h!z2WSTO",
+        "note": "",
+        "parent": "oeOFgHUn"
+      },
+      {
+        "name": "2 e4 3 g4? 4 Nc3",
+        "id": "Ama2zydg",
+        "note": "",
+        "parent": "oeOFgHUn"
+      },
+
+      {
+        "name": "2 e4 3 g4? 4 h3",
+        "id": "G7ChrTTK",
+        "note": "",
+        "parent": "oeOFgHUn"
+      },
+
+      {
         "name": "2 e3 3 d4",
         "id": "Q0NZCziX",
         "note": ""
@@ -24197,6 +28385,44 @@
       },
 
       {
+        "name": "2 g3 3 d5 5 e6 6 cxd4 7 Nxd4 8 Nb3",
+        "id": "8muzy5Jb",
+        "note": "",
+        "parent": "7vTPsuQG"
+      },
+      {
+        "name": "2 g3 3 d5 5 e6 6 cxd4 7 Nxd4 8 Nxc6",
+        "id": "rKn67aC2",
+        "note": "",
+        "parent": "7vTPsuQG"
+      },
+      {
+        "name": "2 g3 3 d5 5 e6 6 cxd4 7 Nxd4 8 e3",
+        "id": "fAZ4m8p1",
+        "note": "",
+        "parent": "7vTPsuQG"
+      },
+
+      {
+        "name": "2 g3 3 Bg2 4 O-O 5 d3 6 Nbd2 7 a3 8 c3",
+        "id": "V86XSsIK",
+        "note": "",
+        "parent": "7vTPsuQG"
+      },
+      {
+        "name": "2 g3 3 Bg2 4 O-O 5 d3 6 Nbd2 7 a3 8 e4",
+        "id": "SAsSfZLq",
+        "note": "",
+        "parent": "7vTPsuQG"
+      },
+      {
+        "name": "2 g3 3 Bg2 4 O-O 5 d3 6 Nbd2 7 a3 8 Qe1",
+        "id": "IdrqQzHM",
+        "note": "",
+        "parent": "7vTPsuQG"
+      },
+
+      {
         "name": "2 d4 3 Nxd4 4 c4",
         "id": "0C1LLnxp",
         "note": ""
@@ -24210,6 +28436,19 @@
       {
         "name": "2 d4 3 Nxd4 4 Bf4",
         "id": "Twql7Ik9",
+        "note": "",
+        "parent": "0C1LLnxp"
+      },
+
+      {
+        "name": "2 d4 3 Nxd4 4 g3 5 Nb3 6 a5",
+        "id": "6MynYg0E",
+        "note": "",
+        "parent": "0C1LLnxp"
+      },
+      {
+        "name": "2 d4 3 Nxd4 4 g3 5 Nb3 6 Nd2",
+        "id": "fGN6LLbY",
         "note": "",
         "parent": "0C1LLnxp"
       },
@@ -24390,6 +28629,23 @@
         "name": "3 g3",
         "id": "1wYh9dOL",
         "note": "Ont often played at top level although sometimes, I feel like this is a likely move by white. Black is slightly ahead after 14 moves"
+      },
+      {
+        "name": "3 Nf3",
+        "id": "27ueVOhX",
+        "note": ""
+      },
+      {
+        "name": "3 Nf3 6 Bb2",
+        "id": "Y0VuvB1M",
+        "note": "",
+        "parent": "27ueVOhX"
+      },
+      {
+        "name": "3 Nf3 6 h3",
+        "id": "Mx7CftZi",
+        "note": "",
+        "parent": "27ueVOhX"
       }
     ]
   },
@@ -24403,6 +28659,32 @@
         "id": "vUzBwmJn",
         "note": "Following up with the best engine moves after a first couple of book moves, on move 4 this becomes the 4 knights game. I follow the best engine suggestion and take on move 4"
       },
+
+      {
+        "name": "4 Knights Game 6 Bxd5? 7. Nc3",
+        "id": "SciwoL3H",
+        "note": "",
+        "parent": "vUzBwmJn"
+      },
+      {
+        "name": "4 Knights Game 6 Bxd5? 7. d3",
+        "id": "9FrcFztW",
+        "note": "",
+        "parent": "vUzBwmJn"
+      },
+      {
+        "name": "4 Knights Game 6 Bxd5? 7. Qe2",
+        "id": "CooeUMu0",
+        "note": "",
+        "parent": "vUzBwmJn"
+      },
+      {
+        "name": "4 Knights Game 6 Bxd5? 7. Ng5?",
+        "id": "ijsNRaG9",
+        "note": "",
+        "parent": "vUzBwmJn"
+      },
+
       {
         "name": "3 Bc4",
         "id": "IKsnN9cU",
@@ -24439,6 +28721,23 @@
         "name": "2 b4",
         "id": "tsfagZlo",
         "note": ""
+      },
+      {
+        "name": "2 Nf3 3 Nd4",
+        "id": "Ru1oIk52",
+        "note": ""
+      },
+      {
+        "name": "2 Nf3 3 Ng1",
+        "id": "fhCmRG4i",
+        "note": "",
+        "parent": "Ru1oIk52"
+      },
+      {
+        "name": "2 Nf3 3 Ne5",
+        "id": "ehBOgVUg",
+        "note": "",
+        "parent": "Ru1oIk52"
       }
     ]
   },
@@ -24451,6 +28750,32 @@
         "name": "2 d4",
         "id": "9ym5VUmp",
         "note": ""
+      },
+
+      {
+        "name": "2 d4 3 bd2 4 c3",
+        "id": "kBeuFNK3",
+        "note": "",
+        "parent": "9ym5VUmp"
+      },
+      {
+        "name": "2 d4 3 bd2 4 Nf6",
+        "id": "Xhp8CEq9",
+        "note": "",
+        "parent": "9ym5VUmp"
+      },
+
+      {
+        "name": "2 d4 3 bd2 4 Nc6",
+        "id": "ce0q3Edf",
+        "note": "",
+        "parent": "9ym5VUmp"
+      },
+      {
+        "name": "2 d4 3 bd2 4 a3",
+        "id": "cNcEWLp3",
+        "note": "",
+        "parent": "9ym5VUmp"
       },
       {
         "name": "2 Nf3",
