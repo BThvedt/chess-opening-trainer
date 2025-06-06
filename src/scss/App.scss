@@ -1,0 +1,184 @@
+body {
+  background-color: rgb(51 65 85); // bg-slate-799
+
+  // lets avoid scrollbar issues with changing content
+  // I think this would also work with an html rule {}
+  overflow-x: hidden;
+  margin-right: calc(-1 * (100vw - 100%));
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+ul li,
+ol li,
+label,
+button {
+  color: rgb(243 244 246); // text-gray-100
+}
+
+.text-slate-700 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  p,
+  ul li,
+  ol li,
+  label,
+  button {
+    color: rgb(51 65 85); // text-gray-100
+  }
+}
+
+.text-gray-100 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  p,
+  ul li,
+  ol li,
+  label,
+  button {
+    color: rgb(243 244 246); // text-gray-100
+  }
+}
+
+.hover\:text-gray-100 {
+  &:hover {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    p,
+    ul li,
+    ol li,
+    label,
+    button {
+      color: rgb(243 244 246); // text-gray-100
+    }
+  }
+}
+
+// #sidebar {
+//   background: rgba(0, 0, 255, 0.2);
+// }
+
+.z-99 {
+  z-index: 99;
+}
+.z-999 {
+  z-index: 999;
+}
+
+.custom-checkbox {
+  .the-label {
+    position: relative;
+    bottom: 1px;
+  }
+  .the-checkbox {
+    width: 20px;
+    height: 20px;
+    font-size: 14px;
+    border-width: 2px;
+    svg {
+      bottom: 1px;
+      right: 1px;
+    }
+    .times-icon {
+      font-size: 13px;
+      bottom: 0px;
+      right: 0px;
+    }
+  }
+}
+
+.legal-square {
+  &:after {
+    content: "";
+    position: absolute;
+    top: 33%;
+    left: 35%;
+    width: 30%;
+    height: 30%;
+    border-radius: 100%;
+    z-index: 1000;
+    background: rgba(113, 63, 18, 0.3);
+    border: 2px solid rgba(66, 32, 6, 0.2);
+  }
+}
+
+.sound-volume-container {
+  width: 4.6em;
+}
+.sound-volume-control-outer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  clip-path: polygon(100% 0, 100% 100%, 0 100%);
+  background: white;
+  height: 24px;
+  width: 37px;
+  position: relative;
+  cursor: pointer;
+}
+
+.sound-volume-control {
+  clip-path: polygon(100% 0, 100% 100%, 0 100%);
+  background: rgb(51 65 85);
+  height: 20px;
+  width: 31px;
+  position: relative;
+  top: 1px;
+  left: 1px;
+}
+
+.sound-volume-control::before {
+  height: inherit;
+  width: var(--width);
+  background: white;
+  content: " ";
+  display: block;
+  animation: up-and-down 10s infinite linear;
+}
+
+// for the material, make black pieces easier to see
+.black-piece-material-filter {
+  filter: brightness(50%) drop-shadow(0px 0px 1px rgba(255, 255, 255, 0.4));
+}
+
+.modal-box {
+  z-index: 10000;
+}
+
+.the-modal-enter {
+  opacity: 0;
+}
+.the-modal-enter-active {
+  opacity: 1;
+  transition: opacity 200ms;
+}
+.the-modal-enter-exit {
+  opacity: 1;
+}
+.the-modal-enter-exit-active {
+  opacity: 0;
+  transition: opacity 200ms;
+}
+
+.eval-bar {
+  height: 99.3%;
+  #white-eval-bar {
+    transition: 0.3s all;
+  }
+}
+.eval-num {
+  font-size: 10px;
+}
